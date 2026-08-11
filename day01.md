@@ -200,11 +200,11 @@ REIって日本にもあったよね？最近見ないけど？という話に�
 Desert Vista Trailheadから丘をゆっくり登っていく。<br>
 <br>
 
-![Desert Vista Trail・大きいサボテンも小さいサボテンもある](image/day01-11-desertvista-cactus-small.jpeg)
+![Desert Vista Trail・大きいサボテンも小さいサボテンもある](images/images/day01-11-desertvista-cactus-small.jpeg)
 *Desert Vista Trail・大きいサボテンも小さいサボテンもある*<br>
 <br>
 
-![Desert Vista Trail・サボテンの丘の上を飛ぶコンドル](image/day01-12-desertvista-condor.jpeg)
+![Desert Vista Trail・サボテンの丘の上を飛ぶコンドル](images/day01-12-desertvista-condor.jpeg)
 *Desert Vista Trail・サボテンの丘の上を飛ぶコンドル*<br>
 <br>
 
