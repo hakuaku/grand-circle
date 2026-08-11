@@ -61,7 +61,7 @@ Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまっ�
 - オフライン処理：電波の届きにくい僻地では機械がオフラインで動作していて、リアルタイム認証が必要な海外カードを弾くことがある
 - ZIP Code要求：アメリカのカードシステムは郵便番号（ZIP Code）を入力させる機械があり、日本のカードには対応する番号がないため弾かれる
 <br>
-＜実際の対応策＞<br>
+＜実際の対応策＞
 - 現金（紙幣・コイン）が使える機械も多い
 - America the Beautiful Pass（年間パス）を持っていれば、そもそも駐車料金が免除される公園も多い
 - レンジャーステーションや入場ゲートでクレジットカード払いできることも
@@ -178,7 +178,7 @@ Boynton Canyon の駐車場も狭くて、停められるか少し待ってい�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781444125442!6m8!1m7!1sw-pNu3HpEcOijBM4ve8lPQ!2m2!1d34.90563066089532!2d-111.8514569175553!3f184.54744845108186!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <br>
-<br>
+
 ## Boynton Canyon の奥・・・Subway Caveへ
 Boynton Canyonに行くのかと思いきや<br>
 Boynton Canyonの脇に回り込んで歩き続ける。<br>
