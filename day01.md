@@ -112,7 +112,7 @@ Buick Enclaveを走らせると、スミーが突然、運転席のシートが�
 <div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
 
 **📖 コラム｜Buick Enclaveってどんな車？** <br>
-
+<br>
 GMが製造するアメリカのプレミアムブランド<br>
 「Buick（ビュイック）」の大型３列シート フルサイズ・プレミアムSUV。<br>
 
