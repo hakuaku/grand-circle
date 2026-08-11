@@ -21,7 +21,7 @@
 
 すぐに食事が来て、スミーの指導の通りにチキンを頼む。
 
-![飛行機の中・夕食のチキン](images/day01-01—flightdenner.jpeg)
+![飛行機の中・夕食のチキン](images/day01-01-flightdenner.jpeg)
 
 私の斜め前の席のカップルの態度があまりよろしくなく、ずっと笑ったり、前の壁に足をあげたりしててうるさかった。
 
@@ -29,7 +29,7 @@
 今度は鶏そぼろご飯・・・・
 結局ずっとチキン。
 
-![飛行機の中・朝食の鶏そぼろご飯](image/day01-02-fright-morning.jpeg)
+![飛行機の中・朝食の鶏そぼろご飯](images/day01-02-fright-morning.jpeg)
 
 飛行機の中が激寒の11時間のフライトだった。
 
@@ -55,13 +55,13 @@
 
 スカイトレインで終点のRental Car Stationへ。
 
-![Terminal 3 Station・ スカイトレインに乗り込むところ](image/day01-03-terminal3-station.jpeg)
-![スカイトレインの中・前方が見渡せる](image/day01-04-skytrain-mae.jpeg)
-![スカイトレインの中・行き先表示板](image/day01-05-skytrain-panel.jpeg)
+![Terminal 3 Station・ スカイトレインに乗り込むところ](images/day01-03-terminal3-station.jpeg)
+![スカイトレインの中・前方が見渡せる](images/day01-04-skytrain-mae.jpeg)
+![スカイトレインの中・行き先表示板](images/day01-05-skytrain-panel.jpeg)
 
 Hertzのレンタカーセンターで、Buick Enclave　大型３列シート フルサイズ・プレミアムSUVをレンタル。
 
-![Hertzのレンタカーセンター・これから10日間お世話になるBuick Enclave](image/day01-06-rentcarcenter-Buick.jpeg)
+![Hertzのレンタカーセンター・これから10日間お世話になるBuick Enclave](images/day01-06-rentcarcenter-Buick.jpeg)
 
 荷物も多いので、少しゆったりめの贅沢な車を選択。
 荷物を後ろに積もうとして、３列目の座席を倒そうとしたけど、倒し方がわからずに3人で四苦八苦。
@@ -75,7 +75,7 @@ Friend！
 担当してくれた人が優秀だったのか？意外と早めに登録が完了。
 いよいよ街へ！
 
-![Hertzのレンタカーセンターを出てフェニックスの街へ！](image/day01-07-fenix-town.jpeg)
+![Hertzのレンタカーセンターを出てフェニックスの街へ！](images/day01-07-fenix-town.jpeg)
 
 ## 初めてのBuick Enclave
 Buick Enclaveを走らせると、スミーが突然、運転席のシートがブルブル振動すると言い出す。
@@ -107,7 +107,7 @@ V6ガソリンエンジンが主力で、燃費よりも滑らかな走りと余
 せっかく近くまで来たからと、アズビルノースアメリカのオフィスを見に行く。
 日曜日で休日だったため、誰もいない。
 
-![フェニックス・アズビルノースアメリカ外観](image/day01-08-fenix-ANA.jpeg)
+![フェニックス・アズビルノースアメリカ外観](images/day01-08-fenix-ANA.jpeg)
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781442097627!6m8!1m7!1s4PYNA3j65soP3jnRYgltyA!2m2!1d33.56898981712865!2d-112.1099529218533!3f88.56941708954807!4f-3.5322178043643646!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -123,8 +123,8 @@ V6ガソリンエンジンが主力で、燃費よりも滑らかな走りと余
 Walmartの建物を出たら、駐車場の向こう側に小さい遊園地がある。
 やっぱりアメリカはスケールが違う。
 
-![Walmart・さすがアメリカサイズの巨大スーパー](image/day01-09-fenix-Walmart.jpeg)
-![Walmart・駐車場の向こうにジェットコースターが見える](image/day01-10-fenix-Walmart-parking.jpeg)
+![Walmart・さすがアメリカサイズの巨大スーパー](images/day01-09-fenix-Walmart.jpeg)
+![Walmart・駐車場の向こうにジェットコースターが見える](images/day01-10-fenix-Walmart-parking.jpeg)
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781442324969!6m8!1m7!1sYZ7hcYr7umii16kGAf2BtQ!2m2!1d33.57286131841744!2d-112.1210113480229!3f90.15546104554957!4f0.9902659956057818!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -153,7 +153,7 @@ Desert Vista Trailheadから丘をゆっくり登っていく。
 
 丘の向こうを見渡せるところで、夕日を見る。
 
-![Desert Vista Trail・サボテンの丘から見る夕日](image/day01-13-desertvista-sunset.jpeg)
+![Desert Vista Trail・サボテンの丘から見る夕日](images/day01-13-desertvista-sunset.jpeg)
 
 帰りの道でトカゲが踏まれてぺっちゃんこに干からびているのを見つけた。
 
@@ -177,8 +177,8 @@ South Page Springs Roadに入ったところの右側に夕食が食べられそ
 
 駐車場で隣に停めていた車の中に犬が数匹いて、ものすごい吠えられてびっくりした。
 
-![Robbers Roost Sports Grill ・ブレちゃったけどお店の外観](image/day01-14-robbersroost-shop.jpeg)
-![Robbers Roost Sports Grill ・お店の看板](image/day01-15-robbersroost-storesign.jpeg)
+![Robbers Roost Sports Grill ・ブレちゃったけどお店の外観](images/day01-14-robbersroost-shop.jpeg)
+![Robbers Roost Sports Grill ・お店の看板](images/day01-15-robbersroost-storesign.jpeg)
 
 地元民に愛される高評価のお店でファミリー経営のスポーツバー＆レストランらしい。
 ところがこの日はBar営業のみで食事はできず、また犬に吠えられてお店を出る。
@@ -203,7 +203,7 @@ SAFEWAYのチキンもサラダも意外とおいしくて、それなりに満�
 ## 今夜の宿・Greentree Inn Sedona 
 この日は3人とも別々の2階のお部屋。
 
-![Greentree Inn Sedona ・広いお部屋！](image/day01-17-greentreeinn-room.jpeg)
+![Greentree Inn Sedona ・広いお部屋！](images/day01-17-greentreeinn-room.jpeg)
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443179503!6m8!1m7!1sC5eIG_2FZOY1abN93prq2w!2m2!1d34.86210208091013!2d-111.8123733678733!3f221.14401!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
