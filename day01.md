@@ -64,24 +64,26 @@
 フェニックス・スカイハーバー国際空港に到着。<br>
 
 スカイトレインで終点のRental Car Stationへ。<br>
+<br>
 
 ![Terminal 3 Station・ スカイトレインに乗り込むところ](images/day01-03-terminal3-station.jpeg)
 *Terminal 3 Station・ スカイトレインに乗り込むところ*<br>
-
+<br>
 
 ![スカイトレインの中・前方が見渡せる](images/day01-04-skytrain-mae.jpeg)
 *スカイトレインの中・前方が見渡せる*<br>
-
+<br>
 
 ![スカイトレインの中・行き先表示板](images/day01-05-skytrain-panel.jpeg)
 *スカイトレインの中・行き先表示板*<br>
-
+<br>
 
 Hertzのレンタカーセンターで、Buick Enclave　大型３列シート フルサイズ・プレミアムSUVをレンタル。<br>
+<br>
 
 ![Hertzのレンタカーセンター・これから10日間お世話になるBuick Enclave](images/day01-06-rentcarcenter-Buick.jpeg)
 *Hertzのレンタカーセンター・これから10日間お世話になるBuick Enclave]*<br>
-
+<br>
 
 荷物も多いので、少しゆったりめの贅沢な車を選択。<br>
 荷物を後ろに積もうとして、３列目の座席を倒そうとしたけど、倒し方がわからずに3人で四苦八苦。<br>
@@ -94,6 +96,7 @@ Friend！<br>
 
 担当してくれた人が優秀だったのか？意外と早めに登録が完了。<br>
 いよいよ街へ！<br>
+<br>
 
 ![Hertzのレンタカーセンターを出てフェニックスの街へ！](images/day01-07-fenix-town.jpeg)
 *Hertzのレンタカーセンターを出てフェニックスの街へ！*<br>
