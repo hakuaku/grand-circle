@@ -299,7 +299,6 @@ SAFEWAYのチキンもサラダも意外とおいしくて、それなりに満�
 <br>
 <br>
 <br>
- --- <br>
 📍 **本日の移動** <br>
 羽田 → サンフランシスコ → フェニックス → アズビルノースアメリカ → Walmart<br>
 → REI → Desert Vista → Robbers Roost → Sedona / SAFEWAY → Greentree Inn Sedona
