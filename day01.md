@@ -113,7 +113,8 @@ Buick Enclaveを走らせると、スミーが突然、運転席のシートが�
 
 **📖 コラム｜Buick Enclaveってどんな車？** <br>
 
-GMが製造するアメリカのプレミアムブランド「Buick（ビュイック）」の大型３列シート フルサイズ・プレミアムSUV。<br>
+GMが製造するアメリカのプレミアムブランド<br>
+「Buick（ビュイック）」の大型３列シート フルサイズ・プレミアムSUV。<br>
 
 全長約5m超のゆったりしたボディに7〜8人乗りの3列シートを備え、<br>
 アメリカ的な「大家族でゆったり」というニーズに応える。<br>
@@ -134,109 +135,163 @@ V6ガソリンエンジンが主力で、燃費よりも滑らかな走りと余
 <br>
 <br>
 ## アズビルノースアメリカを見に行く
-せっかく近くまで来たからと、アズビルノースアメリカのオフィスを見に行く。
-日曜日で休日だったため、誰もいない。
+せっかく近くまで来たからと、アズビルノースアメリカのオフィスを見に行く。<br>
+日曜日で休日だったため、誰もいない。<br>
+<br>
 
 ![フェニックス・アズビルノースアメリカ外観](images/day01-08-fenix-ANA.jpeg)
+*フェニックス・アズビルノースアメリカ外観*<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781442097627!6m8!1m7!1s4PYNA3j65soP3jnRYgltyA!2m2!1d33.56898981712865!2d-112.1099529218533!3f88.56941708954807!4f-3.5322178043643646!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<br>
+<br>
 ## まずはスミーのお目当てのHariboを探しにWalmartへ
-いつもアズビルノースアメリカへ来た時に買いに行くという、スミーの大好物　Hariboサワー味 ファミリーパックを探しにWalmartへ。
+いつもアズビルノースアメリカへ来た時に買いに行くという、<br>
+スミーの大好物　Hariboサワー味 ファミリーパックを探しにWalmartへ。<br>
 
-小さいサイズはあったけど、ファミリーパックは見つからず。
+小さいサイズはあったけど、ファミリーパックは見つからず。<br>
 
-小さいクーラーボックスを買う。
-お土産も物色。
-旅行前からお土産に買おうと思っていたナッツを買う。
+小さいクーラーボックスを買う。<br>
+お土産も物色。<br>
+旅行前からお土産に買おうと思っていたナッツを買う。<br>
 
-Walmartの建物を出たら、駐車場の向こう側に小さい遊園地がある。
-やっぱりアメリカはスケールが違う。
+Walmartの建物を出たら、駐車場の向こう側に小さい遊園地がある。<br>
+やっぱりアメリカはスケールが違う。<br>
+<br>
 
 ![Walmart・さすがアメリカサイズの巨大スーパー](images/day01-09-fenix-Walmart.jpeg)
+*Walmart・さすがアメリカサイズの巨大スーパー*<br>
+<br>
+
 ![Walmart・駐車場の向こうにジェットコースターが見える](images/day01-10-fenix-Walmart-parking.jpeg)
+*Walmart・駐車場の向こうにジェットコースターが見える*<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781442324969!6m8!1m7!1sYZ7hcYr7umii16kGAf2BtQ!2m2!1d33.57286131841744!2d-112.1210113480229!3f90.15546104554957!4f0.9902659956057818!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<br>
+<br>
 ## National Park Passを買いにREIへ
-次に向かったのが、アウトドア用品のブランドREIのお店。
-National Park Passを買いに行ったが売り切れていた。
+次に向かったのが、アウトドア用品のブランドREIのお店。<br>
+National Park Passを買いに行ったが売り切れていた。<br>
 
-REIって日本にもあったよね？最近見ないけど？という話になり、クロコちゃんに聞いてみたら、南町田グランベリーパークにもREIがあったけど、今は日本から撤退したそう。
+REIって日本にもあったよね？最近見ないけど？という話になり、<br>
+クロコちゃんに聞いてみたら、南町田グランベリーパークにもREIがあったけど、<br>
+今は日本から撤退したそう。<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443567766!6m8!1m7!1svlxM4NjevPwsWOZpvHTZSA!2m2!1d33.60178729443522!2d-111.9891430922273!3f356.92926!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<br>
+<br>
 ## まずはサボテンを見に行こう！
-フェニックスからすぐ近くのサボテンの丘へ。
-サボテンと聞くと必ずIMDをやっていた松田さんが、サボテンの花粉症だったことを思い出す。
-サボテンの花で花粉症になんてなるの？と思っていた。
-アメリカから帰ってくるといつもサボテンの花の話をしていた。
+フェニックスからすぐ近くのサボテンの丘へ。<br>
+サボテンと聞くと必ずIMDをやっていた松田さんが、<br>
+サボテンの花粉症だったことを思い出す。<br>
+サボテンの花で花粉症になんてなるの？と思っていた。<br>
+アメリカから帰ってくるといつもサボテンの花の話をしていた。<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443386331!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREMxT0xSR1E.!2m2!1d33.74117281323092!2d-112.0971527236591!3f152.2983599360307!4f0.8057220485380299!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
 
-Desert Vista Trailheadから丘をゆっくり登っていく。
+Desert Vista Trailheadから丘をゆっくり登っていく。<br>
+<br>
 
 ![Desert Vista Trail・大きいサボテンも小さいサボテンもある](image/day01-11-desertvista-cactus-small.jpeg)
+*Desert Vista Trail・大きいサボテンも小さいサボテンもある*<br>
+<br>
+
 ![Desert Vista Trail・サボテンの丘の上を飛ぶコンドル](image/day01-12-desertvista-condor.jpeg)
+*Desert Vista Trail・サボテンの丘の上を飛ぶコンドル*<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d683.2477128134084!2d-112.09252378414375!3d33.7457741236296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b65003faeb883%3A0x8ff1cd49cbf2d6bd!2sthe%20Super%20Cute%20Cactus!5e0!3m2!1sja!2sjp!4v1781442844095!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
 
-丘の向こうを見渡せるところで、夕日を見る。
+丘の向こうを見渡せるところで、夕日を見る。<br>
+<br>
 
 ![Desert Vista Trail・サボテンの丘から見る夕日](images/day01-13-desertvista-sunset.jpeg)
+*Desert Vista Trail・サボテンの丘から見る夕日*<br>
+<br>
 
-帰りの道でトカゲが踏まれてぺっちゃんこに干からびているのを見つけた。
+帰りの道でトカゲが踏まれてぺっちゃんこに干からびているのを見つけた。<br>
 
-アメリカの公園の駐車場は、出口専用レーンには逆走防止のスパイクがあって、入ろうとするとパンクする。
-駐車場から出る分には釘が逆目になるので大丈夫。
-
+アメリカの公園の駐車場は、出口専用レーンには逆走防止のスパイクがあって、<br>
+入ろうとするとパンクする。<br>
+駐車場から出る分には釘が逆目になるので大丈夫。<br>
+<br>
+<br>
 ## 一路Sedonaへ
-I-17（アリゾナ州の州間高速道路）でSedonaへ向かう。
-すっかり日が落ちて、あたりは真っ暗。
+I-17（アリゾナ州の州間高速道路）でSedonaへ向かう。<br>
+すっかり日が落ちて、あたりは真っ暗。<br>
 
-テールランプが消えたまま走っている車がいて、その車に気を取られ、降りるはずのインターチェンジで降りるのを忘れて通り過ぎてしまう。
-一つ先のインターチェンジでHwyを降りる。
+テールランプが消えたまま走っている車がいて、その車に気を取られ、<br>
+降りるはずのインターチェンジで降りるのを忘れて通り過ぎてしまう。<br>
+一つ先のインターチェンジでHwyを降りる。<br>
 
-道を間違えたので山道走行。
-途中で右折してSouth Page Springs Roadに入る。
-
+道を間違えたので山道走行。<br>
+途中で右折してSouth Page Springs Roadに入る。<br>
+<br>
+<br>
 ## Robbers Roost Sports Grill (1160 S Page Springs Road)
-South Page Springs Roadに入ったところの右側に夕食が食べられそうなお店があったので寄ってみる。
+South Page Springs Roadに入ったところの右側に<br>
+夕食が食べられそうなお店があったので寄ってみる。<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443278212!6m8!1m7!1s_YhDmK9fMe3VfPEZ-MN_0A!2m2!1d34.7183280121865!2d-111.9036332633698!3f266.32173167095243!4f0.6764236593013777!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
 
-駐車場で隣に停めていた車の中に犬が数匹いて、ものすごい吠えられてびっくりした。
+駐車場で隣に停めていた車の中に犬が数匹いて、ものすごい吠えられてびっくりした。<br>
+<br>
 
 ![Robbers Roost Sports Grill ・ブレちゃったけどお店の外観](images/day01-14-robbersroost-shop.jpeg)
+*Robbers Roost Sports Grill ・ブレちゃったけどお店の外観*<br>
+<br>
+
 ![Robbers Roost Sports Grill ・お店の看板](images/day01-15-robbersroost-storesign.jpeg)
+*Robbers Roost Sports Grill ・お店の看板*<br>
+<br>
 
-地元民に愛される高評価のお店でファミリー経営のスポーツバー＆レストランらしい。
-ところがこの日はBar営業のみで食事はできず、また犬に吠えられてお店を出る。
-
+地元民に愛される高評価のお店でファミリー経営のスポーツバー＆レストランらしい。<br>
+ところがこの日はBar営業のみで食事はできず、また犬に吠えられてお店を出る。<br>
+<br>
+<br>
 ## Sedonaに到着
-Greentree Inn Sedonaにチェックイン。
+Greentree Inn Sedonaにチェックイン。<br>
 
-Sedonaで夕食が食べられそうなお店を探したけど、時間が遅くて見つからず。
-前回来た時に行ったお店「Family Restaurant」をかなり探したけど見つからず。
-さすがに9年も経っているとお店は無くなってるよね・・・・
+Sedonaで夕食が食べられそうなお店を探したけど、時間が遅くて見つからず。<br>
+前回来た時に行ったお店「Family Restaurant」をかなり探したけど見つからず。<br>
+さすがに9年も経っているとお店は無くなってるよね・・・・<br>
 
-仕方ないので夕食を買いにSAFEWAYへ。
+仕方ないので夕食を買いにSAFEWAYへ。<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443058390!6m8!1m7!1sDV8NV9pSjg7Tmi07ldMKEQ!2m2!1d34.86445111807659!2d-111.8006107783685!3f66.07345698232392!4f0.163147730149106!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br>
 
-サラダ、チキン、プチトマト、キウイ、ビール、オレンジジュースを購入して、ホテルで部屋飲み。
+サラダ、チキン、プチトマト、キウイ、ビール、オレンジジュースを購入して、ホテルで部屋飲み。<br>
+<br>
 
 ![Greentree Inn Sedona ・結構満足のSAFEWAY部屋食](image/day01-16-safeway-dinner.jpeg)
+*Greentree Inn Sedona ・結構満足のSAFEWAY部屋食*<br>
+<br>
 
-SAFEWAYのチキンもサラダも意外とおいしくて、それなりに満足。
-
+SAFEWAYのチキンもサラダも意外とおいしくて、それなりに満足。<br>
+<br>
+<br>
 ## 今夜の宿・Greentree Inn Sedona 
-この日は3人とも別々の2階のお部屋。
+この日は3人とも別々の2階のお部屋。<br>
+<br>
 
 ![Greentree Inn Sedona ・広いお部屋！](images/day01-17-greentreeinn-room.jpeg)
+*Greentree Inn Sedona ・広いお部屋！*<br>
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443179503!6m8!1m7!1sC5eIG_2FZOY1abN93prq2w!2m2!1d34.86210208091013!2d-111.8123733678733!3f221.14401!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+<br>
+<br>
  --- 
 > 📍 **本日の移動** 
-> 羽田 → サンフランシスコ → フェニックス → アズビルノースアメリカ → Walmart → REI → Desert Vista → Robbers Roost → Sedona / SAFEWAY → Greentree Inn Sedona
+> 羽田 → サンフランシスコ → フェニックス → アズビルノースアメリカ → Walmart<br>
+→ REI → Desert Vista → Robbers Roost → Sedona / SAFEWAY → Greentree Inn Sedona
