@@ -196,11 +196,12 @@ REIって日本にもあったよね？最近見ないけど？という話に�
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443386331!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREMxT0xSR1E.!2m2!1d33.74117281323092!2d-112.0971527236591!3f152.2983599360307!4f0.8057220485380299!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
+<br>
 
 Desert Vista Trailheadから丘をゆっくり登っていく。<br>
 <br>
 
-![Desert Vista Trail・大きいサボテンも小さいサボテンもある](images/images/day01-11-desertvista-cactus-small.jpeg)
+![Desert Vista Trail・大きいサボテンも小さいサボテンもある](images/day01-11-desertvista-cactus-small.jpeg)
 *Desert Vista Trail・大きいサボテンも小さいサボテンもある*<br>
 <br>
 
