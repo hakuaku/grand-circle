@@ -197,7 +197,6 @@ REIって日本にもあったよね？最近見ないけど？という話に�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443386331!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREMxT0xSR1E.!2m2!1d33.74117281323092!2d-112.0971527236591!3f152.2983599360307!4f0.8057220485380299!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <br>
-
 Desert Vista Trailheadから丘をゆっくり登っていく。<br>
 <br>
 
@@ -211,7 +210,7 @@ Desert Vista Trailheadから丘をゆっくり登っていく。<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d683.2477128134084!2d-112.09252378414375!3d33.7457741236296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b65003faeb883%3A0x8ff1cd49cbf2d6bd!2sthe%20Super%20Cute%20Cactus!5e0!3m2!1sja!2sjp!4v1781442844095!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
-
+<br>
 丘の向こうを見渡せるところで、夕日を見る。<br>
 <br>
 
@@ -245,7 +244,7 @@ South Page Springs Roadに入ったところの右側に<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443278212!6m8!1m7!1s_YhDmK9fMe3VfPEZ-MN_0A!2m2!1d34.7183280121865!2d-111.9036332633698!3f266.32173167095243!4f0.6764236593013777!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
-
+<br>
 駐車場で隣に停めていた車の中に犬が数匹いて、ものすごい吠えられてびっくりした。<br>
 <br>
 
@@ -273,7 +272,7 @@ Sedonaで夕食が食べられそうなお店を探したけど、時間が遅�
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443058390!6m8!1m7!1sDV8NV9pSjg7Tmi07ldMKEQ!2m2!1d34.86445111807659!2d-111.8006107783685!3f66.07345698232392!4f0.163147730149106!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
-
+<br>
 サラダ、チキン、プチトマト、キウイ、ビール、オレンジジュースを購入して、ホテルで部屋飲み。<br>
 <br>
 
@@ -296,6 +295,6 @@ SAFEWAYのチキンもサラダも意外とおいしくて、それなりに満�
 <br>
 <br>
  --- 
-> 📍 **本日の移動** 
-> 羽田 → サンフランシスコ → フェニックス → アズビルノースアメリカ → Walmart<br>
+📍 **本日の移動** <br>
+羽田 → サンフランシスコ → フェニックス → アズビルノースアメリカ → Walmart<br>
 → REI → Desert Vista → Robbers Roost → Sedona / SAFEWAY → Greentree Inn Sedona
