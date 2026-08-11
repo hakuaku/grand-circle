@@ -350,6 +350,7 @@ Boynton Canyonのカチーナウーマンとノールの麓まで登る。<br>
 <br>
 <br>
 <br>
+
 --- 
 <div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
 
@@ -742,7 +743,4 @@ Greentree Inn Sedona に２泊目。<br>
 
  
 📍 **本日の移動** <br>
-Greentree Inn Sedona → Devil’s Bridge → Subway Cave → Boynton Canyon <br>
-→ Bell Rock / Courthouse Butte → Cathedral Rock → Clear Creek Trading Company（儀式屋） <br>
-→ Chapel of the Holy Cross → Sedona Airport Scenic Lookout → Airport Mesa <br>
-→ Tres Amigos（メキシコ料理）  → Greentree Inn Sedona
+Greentree Inn Sedona → Devil’s Bridge → Subway Cave → Boynton Canyon → Bell Rock / Courthouse Butte → Cathedral Rock → Clear Creek Trading Company（儀式屋） → Chapel of the Holy Cross → Sedona Airport Scenic Lookout → Airport Mesa → Tres Amigos（メキシコ料理）  → Greentree Inn Sedona
