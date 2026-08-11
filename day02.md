@@ -317,12 +317,12 @@ Sedonaのボルテックス（Vortex）とは<br>
 現地ではジュニパー（ビャクシン）の木が、渦を巻くようにねじれて生長しているのをよく見かけるが、これがエネルギーの影響だという説もある。<br>
 <br>
 
-![Bell Rock・ねじれる木](images/day02-28-bell-rock-tree.jpeg)
-*Bell Rock・ねじれる木*<br>
-<br>
-
  </div>
 --- 
+<br>
+<br> <br>
+![Bell Rock・ねじれる木](images/day02-28-bell-rock-tree.jpeg)
+*Bell Rock・ねじれる木*<br>
 <br>
 <br>
 
