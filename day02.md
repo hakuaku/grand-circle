@@ -32,7 +32,7 @@ Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまっ�
 *Devil’s Bridge駐車場 ・まったく受け付けてくれない駐車料金機*<br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/j6AQ2xwHcv0" frameborder="0" allowfullscreen> </iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/j6AQ2xwHcv0" frameborder="0" allowfullscreen> </iframe>
 *Devil’s Bridge駐車場 ・どうしたらいいかわからない・・・*<br>
 <br>
 
