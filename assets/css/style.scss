@@ -1,0 +1,10 @@
+scss
+---
+---
+
+@import "{{ site.theme }}";
+
+.markdown-body {
+  max-width: 720px;
+  margin: 0 auto;
+}
