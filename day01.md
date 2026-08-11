@@ -146,7 +146,7 @@ V6ガソリンエンジンが主力で、燃費よりも滑らかな走りと余
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781442097627!6m8!1m7!1s4PYNA3j65soP3jnRYgltyA!2m2!1d33.56898981712865!2d-112.1099529218533!3f88.56941708954807!4f-3.5322178043643646!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <br>
-## まずはスミーのお目当てのHariboを探しにWalmartへ
+## まずはスミーのお目当てのHariboを探しにWalmartへ<br>
 いつもアズビルノースアメリカへ来た時に買いに行くという、<br>
 スミーの大好物　Hariboサワー味 ファミリーパックを探しにWalmartへ。<br>
 
@@ -183,7 +183,7 @@ REIって日本にもあったよね？最近見ないけど？という話に�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443567766!6m8!1m7!1svlxM4NjevPwsWOZpvHTZSA!2m2!1d33.60178729443522!2d-111.9891430922273!3f356.92926!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <br>
-## まずはサボテンを見に行こう！
+## まずはサボテンを見に行こう！<br>
 フェニックスからすぐ近くのサボテンの丘へ。<br>
 サボテンと聞くと必ずIMDをやっていた松田さんが、<br>
 サボテンの花粉症だったことを思い出す。<br>
