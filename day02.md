@@ -57,13 +57,11 @@ Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまっ�
 いくつかの理由で使えないことがある。<br>
 <br>
 ＜よくある原因＞<br>
-<br>
 - 古い機械：国立公園の駐車料金機は老朽化しているものも多く、国際カードのチップ読み取りやICカード処理に対応していない機種がある
 - オフライン処理：電波の届きにくい僻地では機械がオフラインで動作していて、リアルタイム認証が必要な海外カードを弾くことがある
 - ZIP Code要求：アメリカのカードシステムは郵便番号（ZIP Code）を入力させる機械があり、日本のカードには対応する番号がないため弾かれる
 <br>
 ＜実際の対応策＞<br>
-<br>
 - 現金（紙幣・コイン）が使える機械も多い
 - America the Beautiful Pass（年間パス）を持っていれば、そもそも駐車料金が免除される公園も多い
 - レンジャーステーションや入場ゲートでクレジットカード払いできることも
@@ -804,5 +802,5 @@ Greentree Inn Sedona に２泊目。<br>
 📍 **本日の移動** <br>
 Greentree Inn Sedona → Devil’s Bridge → Subway Cave → Boynton Canyon <br>
 → Bell Rock / Courthouse Butte → Cathedral Rock → Clear Creek Trading Company（儀式屋） <br>
-→ Chapel of the Holy Cross → Sedona Airport Scenic Lookout → Airport Mesa → <br>
-Tres Amigos（メキシコ料理）  → Greentree Inn Sedona
+→ Chapel of the Holy Cross → Sedona Airport Scenic Lookout → Airport Mesa <br>
+→ Tres Amigos（メキシコ料理）  → Greentree Inn Sedona
