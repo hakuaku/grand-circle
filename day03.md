@@ -335,8 +335,8 @@ Seligmanは、Route 66復活運動の発祥地。<br>
 町の写真を撮って歩く。<br>
 <br>
 
-![Seligman ・Seligmanのカーズの世界](images/day03-48-seligman-cars-world.jpeg)
-*Seligman ・Seligmanのカーズの世界*<br>
+![Seligman ・Seligmanは映画「Cars」の世界](images/day03-48-seligman-cars-world.jpeg)
+*Seligman ・Seligmanは映画「Cars」の世界*<br>
 <br>
 
 ちょうどお昼時？<br>
@@ -516,7 +516,7 @@ Sedonaの店よりも石がものすごく充実していて、しかも安い�
 <br>
 <br>
 
-## Grand Canyon Maswik Lodge
+## 夕日に染まるGrand Canyon
 今回はGrand Canyon National Park内のGrand Canyon Maswik Lodgeに泊まる。<br>
 <br>
 
@@ -588,7 +588,7 @@ Pima Pointからはコロラド川が見える。<br>
 <br>
 <br>
 
-## ロッジのフードコートで水、盗まれる
+## ロッジのフードコートで水、盗まれる？片付けられた？
 一番奥のPima Pointまで行ったおかげで、帰りの循環バスも座れた。<br>
 結構、遠い。<br>
 <br>
@@ -629,8 +629,7 @@ Pima Pointからはコロラド川が見える。<br>
 スミーが星空アプリを入れてくれたので、また空を見上げてみる。<br>
 月が出ているので、アプリが示すほどに星があまりたくさん見えなくて残念。<br>
 <br>
-Grand Canyon National Parkに入ってから<br>
-スマホに行方不明者情報が強制的に送られてくる。<br>
+Grand Canyon National Parkに入ってから、スマホに行方不明者情報が強制的に送られてくる。<br>
 20代の若い男性がGrand Canyon National Park内で行方不明…<br>
 何度も通知が来てたけど、見つかったのだろうか？<br>
 <br>
