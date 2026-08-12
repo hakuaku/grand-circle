@@ -49,7 +49,7 @@ Cathedral Rockの駐車場は、昨日の事前下見が功を奏して、駐車
 *Cathedral Rock ・Trail Headからスタート*<br>
 <br>
 
-![Cathedral Rock ・どんどん仏の手が近づいてくる](images/day03-06-cathedral-rock-buddas-hands-1.jpeg）
+![Cathedral Rock ・どんどん仏の手が近づいてくる](images/day03-06-cathedral-rock-buddas-hands-1.jpeg)
 *Cathedral Rock ・どんどん仏の手が近づいてくる*<br>
 <br>
 
@@ -121,8 +121,7 @@ Cathedral Rock のEnd of trailまで来たけど、ぜんぜんendじゃない�
 *Cathedral Rock ・だから下から煽らないでって・・・（笑）*<br>
 <br>
 
-仏の手の中の一番上から少し降りて来たEnd of trailのところの反対側に<br>
-絶壁があったので見に行ってみる。<br>
+仏の手の中の一番上から少し降りて来たEnd of trailのところの反対側に絶壁があったので見に行ってみる。<br>
 <br>
 
 ![Cathedral Rock ・遠くから見ると怖そうな絶壁。ここに行かれる！](images/day03-20-cathedral-rock-cliff-1.jpeg)
@@ -289,9 +288,11 @@ Sedonaの辺りは、赤土だけじゃなくて緑が多くて、青空との�
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Mnz7sqHj5Ho" frameborder="0" allowfullscreen> </iframe>
 *Sedona ・Buick Enclaveの車内。計器パネルが全部液晶でカッコいい*<br>
 <br>
+<br>
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/NiFB5wa5lac" frameborder="0" allowfullscreen> </iframe>
 *Sedona ・Seligmanに向かう道中。青空と緑が気持ちい*<br>
+<br>
 <br>
 
 途中でRoute 66の看板が出てきて、看板の記念撮影。<br>
@@ -304,7 +305,7 @@ Sedonaの辺りは、赤土だけじゃなくて緑が多くて、青空との�
 <br>
 <br>
 <br>
-9年前に行ったRoute 66の町とは別の町。<br>
+9年前に行ったRoute 66の町はWilliamsで、今回は別の町。<br>
 Route 66の中でも一番有名なのがこのSeligman。<br>
 <br>
 <br>
@@ -444,8 +445,8 @@ Diablo Burgerを探して周辺をウロウロ歩き回る。<br>
 岸辺露伴は動かないシリーズで知り合った人と結婚した高橋一生の話などをしながらバーガーを食べる。<br>
 <br>
 
-![Flagstaff ・アメリカっぽいものをやっと食べる](images/day03-58-diablo-burger-lunch.jpeg)
-*Flagstaff ・アメリカっぽいものをやっと食べる*<br>
+![Flagstaff ・アメリカっぽいものをやっと食べる。相変わらず右手と左手の両方の手を別々に使って食べるスミー](images/day03-58-diablo-burger-lunch.jpeg)
+*Flagstaff ・アメリカっぽいものをやっと食べる。相変わらず右手と左手の両方の手を別々に使って食べるスミー*<br>
 <br>
 
 ものすごく風が強くて、いろんな紙類が飛ぶのを押さえる。<br>
@@ -480,13 +481,11 @@ Diablo Burgerを探して周辺をウロウロ歩き回る。<br>
 
 1日2本、それぞれ1方向に1本ずつしか停車しないらしい。<br>
 <br>
-<br>
 ・ 上り：東行き・シカゴ方面　早朝の深夜帯（午前5:00前）<br>
 ・ 下り：西行き・ロサンゼルス方面　夕方〜夜間に到着<br>
 <br>
 時刻表を探したけどなく、ネットで調べろとのこと。<br>
 Flagstaff駅はGrand Canyonに最も近いAmtrak （アムトラック：アメリカの国営鉄道会社）駅なのだそうだ。<br>
-<br>
 こんなに電車の本数が少なくて大丈夫なの？と思うけど、やっぱりアメリカは車中心なんだなと思う。<br>
 <br>
 Flagstaff駅を出て、信号を渡ったところの角にCrystal Magicという石屋を発見！<br>
@@ -496,7 +495,7 @@ Flagstaff駅を出て、信号を渡ったところの角にCrystal Magicとい�
 <br>
 <br>
 <br>
-![Flagstaff ・交差点の角に立つCrystal Magic](images/day03-63-flagstaff-crystal-magic.jpeg）
+![Flagstaff ・交差点の角に立つCrystal Magic](images/day03-63-flagstaff-crystal-magic.jpeg)
 *Flagstaff ・交差点の角に立つCrystal Magic*<br>
 <br>
 
@@ -529,10 +528,10 @@ Sedonaの店よりも石がものすごく充実していて、しかも安い�
 <br>
 <br>
 <br>
-夕日の時間に間に合うので、チェックインの際にフロントで、夕日を見るのによいポイントをおすすめしてもらう。<br>
+夕日の時間に間に合うので、チェックインの際にフロントで、夕日を見るのによいポイントをお勧めしてもらう。<br>
 <br>
 Hopi Point、Mohave Point、Pima Pointを勧められる。<br>
-中でもフロントのお兄さんの個人的なおすすめは、一番奥のPima Pointというので、おすすめのPima Pointへ循環バスで移動。<br>
+中でもフロントのお兄さんの個人的なおすすめは、一番奥のPima Pointというので、お勧めのPima Pointへ循環バスで移動。<br>
 <br>
 
 ![Grand Canyon ・循環バスのルートを表示した看板](images/day03-68-grand-canyon-bus-signboard.jpeg)
@@ -596,7 +595,7 @@ Pima Pointからはコロラド川が見える。<br>
 バスを降りたら辺りは真っ暗で、空を見上げるときれいな月が輝いてる。<br>
 <br>
 
-![Grand Canyon ・日没後のほんのりとした明るさ](images/day03-76-grand-canyon-pima-dark.jpeg)
+![Grand Canyon ・日没後のほんのりとした明るさ](images/day03-76-grand-canyon-dark.jpg)
 *Grand Canyon ・日没後のほんのりとした明るさ*<br>
 <br>
 
