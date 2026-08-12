@@ -494,7 +494,7 @@ Flagstaff駅を出て、信号を渡ったところの角にCrystal Magicとい�
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d407.5450457128046!2d-111.64818704691422!3d35.197491710504465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d8f415fc69cc1%3A0x25db1194a47d6e8!2sCrystal%20Magic!5e0!3m2!1sja!2sjp!4v1784528020332!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <br>
 <br>
-<br>
+
 ![Flagstaff ・交差点の角に立つCrystal Magic](images/day03-63-flagstaff-crystal-magic.jpeg)
 *Flagstaff ・交差点の角に立つCrystal Magic*<br>
 <br>
@@ -511,8 +511,8 @@ Sedonaの店よりも石がものすごく充実していて、しかも安い�
 *Flagstaff ・Flagstaffの街*<br>
 <br>
 
-![Flagstaff ・地下駐車場に停められていたテスラの電気自動車](images/day03-66-flagstaff-tesla.jpeg)
-*Flagstaff ・地下駐車場に停められていたテスラの電気自動車*<br>
+![Flagstaff ・地下駐車場に停められていたテスラの電気自動車。走る戦闘機にしか見えない怖さ](images/day03-66-flagstaff-tesla.jpeg)
+*Flagstaff ・地下駐車場に停められていたテスラの電気自動車。走る戦闘機にしか見えない怖さ*<br>
 <br>
 <br>
 
