@@ -527,7 +527,7 @@ Bell Rock同様に登らずに下から眺める。<br>
 スミーに「知らん」と言われた・・・<br>
 <br>
 
-![Clear Creek Trading Company・セージのお得パック。日本で買ったものよりこんなに多い！](images/day02-40-clear-creek-sage.jpeg)
+![Clear Creek Trading Company・セージのお得パック。日本で買ったものよりこんなに多い！](images/day02-40-clear-creek-sage.jpg)
 *Clear Creek Trading Company・セージのお得パック。ほぼ同じ値段なのに日本で買ったものよりこんなに多い！*<br>
 <br>
 <br>
