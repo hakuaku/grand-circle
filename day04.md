@@ -662,7 +662,7 @@ Widgetは注いだときにクリーミーな泡を作るための窒素入り�
 とても広い1人部屋<br>
 <br>
 
-![Page・きれいでとても快適なお部屋](images/day04-62-hampton-inn-room.jpeg) 
+![Page・きれいでとても快適なお部屋](images/day04-62-hampton-inn-room.jpg) 
 *Page・きれいでとても快適なお部屋*<br>
 <br>
 <br>
