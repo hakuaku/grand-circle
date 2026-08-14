@@ -514,11 +514,6 @@ Antelope Passという切り通しを通り抜ける。<br>
 Horseshoe Bendは、以前来たときと違って大きな有料駐車場が出来上がってた。<br>
 Horseshoe Bendまでの道も、以前は普通に石ころの道なき丘を一生懸命登って降りたら、目の前にあった！という感じだったけど、迂回する舗装されたきれいな広い道が出来上がっててびっくり。<br>
 <br>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3191.5609619147554!2d-111.51215250072981!3d36.87692639998829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87346d006468ced5%3A0x7386dc91989420b8!2sHorseshoe%20Bend%20Overlook!5e0!3m2!1sja!2sjp!4v1784529841527!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-<br>
-<br>
-<br>
 そして、もちろんどこにも日陰はなく、灼熱の夕日を浴びながら荒野を歩く。<br>
 この日差しと暑さが体力を奪う。<br>
 日差しが強すぎて暑くてつらい。<br>
@@ -564,6 +559,9 @@ Horseshoe Bendには展望台ができていて、安全に観られるように
 灼熱の道を駐車場まで戻る。<br>
 本当に観光地になってしまった。<br>
 環境は整備されたけど、ものすごい人で、ちょっと残念かな。<br>
+<br>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3191.5609619147554!2d-111.51215250072981!3d36.87692639998829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87346d006468ced5%3A0x7386dc91989420b8!2sHorseshoe%20Bend%20Overlook!5e0!3m2!1sja!2sjp!4v1784529841527!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <br>
 <br>
 
