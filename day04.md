@@ -18,7 +18,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 
 ![Grand Canyon ・すでにたくさんの人が日の出を待つMather Point](images/day04-01-grand-canyon-sunrise.jpeg)
-* Grand Canyon ・すでにたくさんの人が日の出を待つMather Point *<br>
+*Grand Canyon ・すでにたくさんの人が日の出を待つMather Point*<br>
 <br>
 
 突き出した展望デッキのちょっと高くなっている石の上から朝日が昇るのを見る。<br>
@@ -26,7 +26,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 
 ![Grand Canyon ・太陽が上がり始める](images/day04-02-grand-canyon-sunrise.jpeg)
-* Grand Canyon ・太陽が上がり始める *<br>
+*Grand Canyon ・太陽が上がり始める*<br>
 <br>
 
 空のグラデーションがなんて美しいのだろう。<br>
@@ -36,11 +36,11 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 
 ![Grand Canyon ・太陽と空のグラデーション](images/day04-03-grand-canyon-sunrise.jpeg)
-* Grand Canyon ・太陽と空のグラデーション *<br>
+*Grand Canyon ・太陽と空のグラデーション*<br>
 <br>
 
 ![Grand Canyon ・朝日で赤く染まるGrand Canyon](images/day04-04-grand-canyon-sunrise.jpeg)
-* Grand Canyon ・朝日で赤く染まるGrand Canyon *<br>
+*Grand Canyon ・朝日で赤く染まるGrand Canyon*<br>
 <br>
 
 駐車場へ戻る途中でシカが現れる。<br>
@@ -48,7 +48,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 
 ![Grand Canyon ・やっと見られたシカ](images/day04-05-grand-canyon-deer.jpeg)
-* Grand Canyon ・やっと見られたシカ *<br>
+*Grand Canyon ・やっと見られたシカ*<br>
 <br>
 
 ## 朝食を食べて、さぁ、今日も出発！
@@ -58,7 +58,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 
 ![Grand Canyon ・泊まっていたGrand Canyon Maswik Lodge](images/day04-06-grand-canyon-lodge.jpeg)
-* Grand Canyon ・泊まっていたGrand Canyon Maswik Lodge *<br>
+*Grand Canyon ・泊まっていたGrand Canyon Maswik Lodge*<br>
 <br>
 
 いろんなところをどんどん見られるのは嬉しいけど、宿や宿周辺をゆっくり楽しまないのは、ちょっと残念。<br>
@@ -75,7 +75,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 
 ![Grand Canyon ・Yavapai Point](images/day04-07-grand-canyon-yavapai.jpeg)
-* Grand Canyon ・Yavapai Point *<br>
+*Grand Canyon ・Yavapai Point*<br>
 <br>
 
 朝の最高の光線でGrand Canyonを観る。<br>
@@ -83,7 +83,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 
 ![Grand Canyon ・Yavapai Pointから見たGrand Canyon](images/day04-08-grand-canyon-yavapai.jpeg)
-* Grand Canyon ・Yavapai Pointから見たGrand Canyon *<br>
+*Grand Canyon ・Yavapai Pointから見たGrand Canyon*<br>
 <br>
 
 Sedonaとはまた違った大地のすごいエネルギーを感じる。<br>
@@ -92,7 +92,7 @@ Sedonaとはまた違った大地のすごいエネルギーを感じる。<br>
 <br>
 
 ![Grand Canyon ・Yavapai Pointで出合ったリス](images/day04-09-grand-canyon-squirrel.jpeg)
-* Grand Canyon ・Yavapai Pointで出合ったリス *<br>
+*Grand Canyon ・Yavapai Pointで出合ったリス*<br>
 <br>
 
 そして大きなシカが3頭どんどん近づいてくる！！<br>
@@ -100,23 +100,23 @@ Sedonaとはまた違った大地のすごいエネルギーを感じる。<br>
 <br>
 
 ![Grand Canyon ・結構大きなシカがどんどん近づいてくる](images/day04-10-grand-canyon-deer.jpeg)
-* Grand Canyon ・結構大きなシカがどんどん近づいてくる *<br>
+*Grand Canyon ・結構大きなシカがどんどん近づいてくる*<br>
 <br>
 
 ![Grand Canyon ・しかも３頭！](images/day04-11-grand-canyon-deer.jpeg)
-* Grand Canyon ・しかも３頭！ *<br>
+*Grand Canyon ・しかも３頭！*<br>
 <br>
 
 ![Grand Canyon ・朝の光線で美しいGrand Canyon](images/day04-12-grand-canyon-morning.jpeg)
-* Grand Canyon ・朝の光線で美しいGrand Canyon *<br>
+*Grand Canyon ・朝の光線で美しいGrand Canyon*<br>
 <br>
 
 ![Grand Canyon ・Grand Canyonを撮影するスミー、カメラマンぽい](images/day04-13-grand-canyon-summy.jpeg)
-* Grand Canyon ・Grand Canyonを撮影するスミー、カメラマンぽい *<br>
+*Grand Canyon ・Grand Canyonを撮影するスミー、カメラマンぽい*<br>
 <br>
 
 ![Grand Canyon ・最高の景色](images/day04-14-grand-canyon-morning.jpeg)
-* Grand Canyon ・最高の景色 *<br>
+*Grand Canyon ・最高の景色*<br>
 <br>
 
 暗い装束の学生の集団がバス2台で来ていた。
@@ -131,7 +131,7 @@ Grand Canyonの形成などの展示を見て回る。<br>
 <br>
 
 ![Grand Canyon ・Geology Museumの入り口](images/day04-15-grand-canyon-museum.jpeg)
-* Grand Canyon ・Geology Museumの入り口 *<br>
+*Grand Canyon ・Geology Museumの入り口*<br>
 <br>
 
 Geology Museumを出たところでくしゃみをしたら、外国人にBless youと言われる。<br>
@@ -143,7 +143,7 @@ Grand Canyon Visitor Centerでお土産などのグッズを見てお買い物�
 <br>
 
 ![Grand Canyon ・Grand Canyon Visitor Center](images/day04-16-grand-canyon-visitor-center.jpeg)
-* Grand Canyon ・Grand Canyon Visitor Center *<br>
+*Grand Canyon ・Grand Canyon Visitor Center*<br>
 <br>
 
 ## 表情がどんどん変わるGrand Canyon
@@ -159,15 +159,15 @@ Yavapai Pointで遭遇した黒装束軍団が乗るバスがまたいた！<br>
 <br>
 
 ![Grand Canyon ・Duck on a Rockの看板](images/day04-17-grand-canyon-duck-signboard.jpeg)
-* Grand Canyon ・Duck on a Rockの看板 *<br>
+*Grand Canyon ・Duck on a Rockの看板*<br>
 <br>
 
 ![Grand Canyon ・Duck on a Rock](images/day04-18-grand-canyon-duck-view.jpeg)
-* Grand Canyon ・Duck on a Rock *<br>
+*Grand Canyon ・Duck on a Rock*<br>
 <br>
 
 ![Grand Canyon ・アヒルに見える？](images/day04-19-grand-canyon-duck.jpeg)
-* Grand Canyon ・アヒルに見える？ *<br>
+*Grand Canyon ・アヒルに見える？*<br>
 <br>
 
 次に停まったのは、Moran Point。<br>
@@ -180,14 +180,14 @@ Yavapai Pointで遭遇した黒装束軍団が乗るバスがまたいた！<br>
 <br>
 
 ![Grand Canyon ・Moran Pointから見た風景](images/day04-20-grand-canyon-maran.jpeg)
-* Grand Canyon ・Moran Pointから見た風景 <br>
+*Grand Canyon ・Moran Pointから見た風景*<br>
 <br>
 
 他のお客さんについていたガイドさんが、お客さんの写真を撮っていた場所で、スミーが菅野さんと私の写真を撮ってくれる。<br>
 <br>
 
 ![Grand Canyon ・景色もバッチリ](images/day04-21-grand-canyon-maran-2p.jpeg)
-* Grand Canyon ・景色もバッチリ *<br>
+*Grand Canyon ・景色もバッチリ*<br>
 <br>
 
 それに気がついたガイドさんが、絶好のPhoto Spotで私たち3人の写真を撮ってくれる。<br>
@@ -195,7 +195,7 @@ Yavapai Pointで遭遇した黒装束軍団が乗るバスがまたいた！<br>
 <br>
 
 ![Grand Canyon ・最高に仲良し（笑）](images/day04-22-grand-canyon-maran-3p.jpeg)
-* Grand Canyon ・最高に仲良し（笑） *<br>
+*Grand Canyon ・最高に仲良し（笑）*<br>
 <br>
 
 さすがにガイドさんだけあって、コロラド川も入った絶好のView Point。<br>
@@ -205,11 +205,11 @@ Lipan Point、Navajo Pointと見て回る。<br>
 <br>
 
 ![Grand Canyon ・Lipan Pointの看板](images/day04-23-grand-canyon-lipan-signboard.jpeg)
-* Grand Canyon ・Lipan Pointの看板 *<br>
+*Grand Canyon ・Lipan Pointの看板*<br>
 <br>
 
 ![Grand Canyon ・影がないGrand Canyon](images/day04-24-grand-canyon-lipan.jpeg)
-* Grand Canyon ・影がないGrand Canyon *<br>
+*Grand Canyon ・影がないGrand Canyon*<br>
 <br>
 
 
@@ -227,7 +227,7 @@ Lipan Point、Navajo Pointと見て回る。<br>
 <br>
 
 ![Grand Canyon ・Desert View Watchtower](images/day04-25-grand-canyon-desert-view-watchtower.jpeg)
-* Grand Canyon ・Desert View Watchtower *<br>
+*Grand Canyon ・Desert View Watchtower*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1613.0016120770485!2d-111.82869170160525!3d36.044627199999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8733a9ba161d0431%3A0x9af0f5028f24e21e!2z44OH44K244O844OI44OT44Ol44O85bGV5pyb5aGU!5e0!3m2!1sja!2sjp!4v1784528996722!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -243,7 +243,7 @@ Grand Canyonの谷に向かって手には小さな聖書のようなものを�
 <br>
 
 ![Grand Canyon ・謎の黒装束軍団のお祈り](images/day04-26-grand-canyon-desert-view-watchtower-prayer.jpeg)
-* Grand Canyon ・謎の黒装束軍団のお祈り *<br>
+*Grand Canyon ・謎の黒装束軍団のお祈り*<br>
 <br>
 
 前回も登ったので、今回もタワーに登ろうと思ったら、時間予約制で登ることができなかった。<br>
@@ -255,14 +255,14 @@ Informationのおじさんにお昼は食べたか？と聞かれる。<br>
 <br>
 
 ![Grand Canyon ・Informationのところに出ていた気象情報](images/day04-27-grand-canyon-desert-view-watchtower-wather.jpeg)
-* Grand Canyon ・Informationのところに出ていた気象情報 *<br>
+*Grand Canyon ・Informationのところに出ていた気象情報*<br>
 <br>
 
 Desert View Trading Post のGift Shop & Snack Barでお土産を見る。<br>
 <br>
 
 ![Grand Canyon ・Desert View Trading Post](images/day04-28-grand-canyon-desert-view-watchtower-tradingpost.jpeg)
-* Grand Canyon ・Desert View Trading Post *<br>
+*Grand Canyon ・Desert View Trading Post*<br>
 <br>
 
 黒装束軍団がお土産を買うのにレジ前で長蛇の列。<br>
@@ -286,11 +286,11 @@ Grand Canyon National Park South Rimを出るところに大きな看板を発�
 <br>
 
 ![Grand Canyon ・バイク乗りの集団に声がかけられない私](images/day04-29-grand-canyon-signboard.JPG)
-* Grand Canyon ・バイク乗りの集団に声がかけられない私 *<br>
+*Grand Canyon ・バイク乗りの集団に声がかけられない私*<br>
 <br>
 
 ![Grand Canyon ・National Parkの看板](images/day04-30-grand-canyon-signboard.jpeg)
-* Grand Canyon ・National Parkの看板 *<br>
+*Grand Canyon ・National Parkの看板*<br>
 <br>
 
 しばらく走ると地球の割れ目みたいな景色が現れる。<br>
@@ -302,15 +302,15 @@ Grand Canyon National Park South Rimを出るところに大きな看板を発�
 <br>
 
 ![Grand Canyon ・アメリカ国旗が目印のIndian Jewelry shop](images/day04-31-indian-jewelry-shop-flag.jpeg)
-* Grand Canyon ・アメリカ国旗が目印のIndian Jewelry shop *<br>
+*Grand Canyon ・アメリカ国旗が目印のIndian Jewelry shop*<br>
 <br>
 
 ![Grand Canyon ・Indian Jewelry shop](images/day04-32-indian-jewelry-shop.jpeg)
-* Grand Canyon ・Indian Jewelry shop *<br>
+*Grand Canyon ・Indian Jewelry shop*<br>
 <br>
 
 ![Grand Canyon ・本当に地球が割れている](images/day04-33-grand-canyon-crack.jpeg)
-* Grand Canyon ・本当に地球が割れている *<br>
+*Grand Canyon ・本当に地球が割れている*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1784529064733!6m8!1m7!1sSFFHEXAQ667kF64YZH3i0Q!2m2!1d35.93900698475468!2d-111.6682396587144!3f356.46692!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -323,7 +323,7 @@ T字路の突き当たりを左に曲がって少し行ったところの左側�
 <br>
 
 ![Cameron Trading Post ・映画の撮影所のようなCameron Trading Post](images/day04-34-cameron.jpeg)
-* Cameron Trading Post ・映画の撮影所のようなCameron Trading Post *<br>
+*Cameron Trading Post ・映画の撮影所のようなCameron Trading Post*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1616.456816851571!2d-111.41595740160523!3d35.87563330000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x873307eb794f285d%3A0x76b9f77f187f60bf!2z44Kt44Oj44Oh44Ot44Oz44O744OI44Os44O844OH44Kj44Oz44Kw44O744Od44K544OI!5e0!3m2!1sja!2sjp!4v1784529122720!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -335,7 +335,7 @@ T字路の突き当たりを左に曲がって少し行ったところの左側�
 <br>
 
 ![Cameron Trading Post ・広い店内](images/day04-35-cameron-inside.jpeg)
-* Cameron Trading Post ・広い店内 *<br>
+*Cameron Trading Post ・広い店内*<br>
 <br>
 
 メニューを一生懸命探したけどパイが見当たらない。<br>
@@ -343,7 +343,7 @@ T字路の突き当たりを左に曲がって少し行ったところの左側�
 <br>
 
 ![Cameron Trading Post ・メニューを探してもパイがない！](images/day04-36-cameron-menu.jpeg)
-* Cameron Trading Post ・メニューを探してもパイがない！ *<br>
+*Cameron Trading Post ・メニューを探してもパイがない！*<br>
 <br>
 
 隣のテーブルに日本人のグループがやってきて、デカいパイを頼んでる！<br>
@@ -375,15 +375,15 @@ Navajo Tacoを頼んでいたら、チーズが入ってるからスミーは食
 <br>
 
 ![Cameron Trading Post ・トマトジュース](images/day04-37-cameron-tomato.jpeg)
-* Cameron Trading Post ・トマトジュース *<br>
+*Cameron Trading Post ・トマトジュース*<br>
 <br>
 
 ![Cameron Trading Post ・Cobb salad](images/day04-38-cameron-cobbsarad.jpeg)
-* Cameron Trading Post ・Cobb salad *<br>
+*Cameron Trading Post ・Cobb salad*<br>
 <br>
 
 ![Cameron Trading Post ・Clubhouse sandwich](images/day04-39-cameron-sandwich.jpeg)
-* Cameron Trading Post ・Clubhouse sandwich *<br>
+*Cameron Trading Post ・Clubhouse sandwich*<br>
 <br>
 
 ![Cameron Trading Post ・ネイティブアメリカンのグッズがたくさん](images/day04-40-cameron-interior.jpeg)
@@ -396,7 +396,7 @@ Navajo Tacoを頼んでいたら、チーズが入ってるからスミーは食
 <br>
 
 ![Cameron Trading Post ・お店の横にあるガソリンスタンド](images/day04-41-cameron-gas-station.jpeg)
-* Cameron Trading Post ・お店の横にあるガソリンスタンド *<br>
+*Cameron Trading Post ・お店の横にあるガソリンスタンド*<br>
 <br>
 <br>
 
@@ -429,7 +429,7 @@ Navajo Tacoを頼んでいたら、チーズが入ってるからスミーは食
 <br>
 
 ![Grand Canyon ・Grand Canyonを外から見る](images/day04-42-grand-canyon-outside.jpeg) 
-* Grand Canyon・Grand Canyonを外から見る *<br>
+*Grand Canyon・Grand Canyonを外から見る*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1784529756806!6m8!1m7!1sSLwTKR8ItuGycM6fa4X7nQ!2m2!1d36.68151090920828!2d-111.6539458939739!3f331.9791268745665!4f-12.608220721883995!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -449,18 +449,18 @@ Navajo Tacoを頼んでいたら、チーズが入ってるからスミーは食
 <br>
 
 ![Historic Navajo Bridge ・橋の入り口](images/day04-43-navajo-bridge-enter.jpeg)
-* Historic Navajo Bridge ・橋の入り口 *<br>
+*Historic Navajo Bridge ・橋の入り口*<br>
 <br>
 
 ![Historic Navajo Bridge ・橋の銘板](images/day04-44-navajo-bridge-nameplate.jpeg)
-* Historic Navajo Bridge ・橋の銘板 *<br>
+*Historic Navajo Bridge ・橋の銘板*<br>
 <br>
 
 橋の上からコロラド川を見る。<br>
 <br>
 
 ![Historic Navajo Bridge ・Navajo Bridgeの上から見たコロラド川。川面に雲がうつる](images/day04-45-navajo-bridge-river.jpeg)
-* Historic Navajo Bridge ・Navajo Bridgeの上から見たコロラド川。川面に雲がうつる *<br>
+*Historic Navajo Bridge ・Navajo Bridgeの上から見たコロラド川。川面に雲がうつる*<br>
 <br>
 
 何かのグループでおじさんとおばさんの集団が橋の上で話をしている。<br>
@@ -468,19 +468,19 @@ Navajo Tacoを頼んでいたら、チーズが入ってるからスミーは食
 <br>
 
 ![Historic Navajo Bridge ・橋の上から覗き込むスミーと菅野さん](images/day04-46-navajo-bridge-summy-kanno.jpeg)
-* Historic Navajo Bridge ・橋の上から覗き込むスミーと菅野さん *<br>
+*Historic Navajo Bridge ・橋の上から覗き込むスミーと菅野さん*<br>
 <br>
 
 ![Historic Navajo Bridge ・Historic Navajo Bridge 全景](images/day04-47-navajo-bridge-all.jpeg)
-* Historic Navajo Bridge ・Historic Navajo Bridge 全景 *<br>
+*Historic Navajo Bridge ・Historic Navajo Bridge 全景*<br>
 <br>
 
 ![Historic Navajo Bridge ・説明看板](images/day04-48-navajo-bridge-signboard.jpeg) 
-* Historic Navajo Bridge ・説明看板 *<br>
+*Historic Navajo Bridge ・説明看板*<br>
 <br>
 
 ![Historic Navajo Bridge ・なんて空が広いのだろうか](images/day04-49-navajo-bridge-sky.jpeg) 
-* Historic Navajo Bridge ・なんて空が広いのだろうか *<br>
+*Historic Navajo Bridge ・なんて空が広いのだろうか*<br>
 <br>
 
 あんなに遠くから眺めていたコロラド川が、かなり近くまでやってきた。<br>
@@ -490,7 +490,7 @@ Historic Navajo Bridgeを出てすぐの辺りの坂道に車を停めて、ま�
 <br>
 
 ![Hwy89 ・Grand Canyonを外から見る](images/day04-50-grand-canyon-outside.jpeg) 
-* Hwy89 ・Grand Canyonを外から見る *<br>
+*Hwy89 ・Grand Canyonを外から見る*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1784555559055!6m8!1m7!1sKGzz8pX97xBLd6gbafVbpg!2m2!1d36.6603316984986!2d-111.6328761416101!3f276.56567!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -501,7 +501,7 @@ Antelope Passという切り通しを通り抜ける。<br>
 <br>
 
 ![Hwy89 ・Antelope Pass](images/day04-51-antelope-pass.JPG) 
-* Hwy89 ・Antelope Pass *<br>
+*Hwy89 ・Antelope Pass*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14947.467716352836!2d-111.64361615604938!3d36.65188035775318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x873477c008ef79e5%3A0xa0bb4eee22383364!2sAntelope%20Pass!5e0!3m2!1sja!2sjp!4v1784555872522!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -525,7 +525,7 @@ Horseshoe Bendまでの道も、以前は普通に石ころの道なき丘を一
 <br>
 
 ![Horseshoe Bend・果てしない灼熱の道を歩くスミーと菅野さん](images/day04-52-horseshoe-bend-summy-kanno.jpeg) 
-* Horseshoe Bend・果てしない灼熱の道を歩くスミーと菅野さん *<br>
+*Horseshoe Bend・果てしない灼熱の道を歩くスミーと菅野さん*<br>
 <br>
 
 Horseshoe Bendには展望台ができていて、安全に観られるようになってた。<br>
@@ -540,11 +540,11 @@ Horseshoe Bendには展望台ができていて、安全に観られるように
 <br>
 
 ![Horseshoe Bend・展望台のおかげで全景が無理なく撮れるようになったHorseshoe Bend](images/day04-53-horseshoe-bend-all.jpeg) 
-* Horseshoe Bend・展望台のおかげで全景が無理なく撮れるようになったHorseshoe Bend *<br>
+*Horseshoe Bend・展望台のおかげで全景が無理なく撮れるようになったHorseshoe Bend*<br>
 <br>
 
 ![Horseshoe Bend・Horseshoe Bendをバックに私のグラビア](images/day04-54-horseshoe-bend-atsuko.JPG) 
-* Horseshoe Bend・Horseshoe Bendをバックに私のグラビア*<br>
+*Horseshoe Bend・Horseshoe Bendをバックに私のグラビア*<br>
 <br>
 
 どこを切り取っても観光客が入る（笑）<br>
@@ -552,11 +552,11 @@ Horseshoe Bendには展望台ができていて、安全に観られるように
 <br>
 
 ![Horseshoe Bend・リアル ココペリ](images/day04-55-horseshoe-bend-real-kokopelli.jpeg) 
-* Horseshoe Bend・リアル ココペリ *<br>
+*Horseshoe Bend・リアル ココペリ*<br>
 <br>
 
 ![Horseshoe Bend・大きくていかにもなHorseshoe Bendの看板](images/day04-56-horseshoe-bend-signboard.jpeg) 
-* Horseshoe Bend・大きくていかにもなHorseshoe Bendの看板 *<br>
+*Horseshoe Bend・大きくていかにもなHorseshoe Bendの看板*<br>
 <br>
 
 行きはよいよい、帰りは怖いで、帰り道はずっと上り坂。<br>
@@ -575,22 +575,22 @@ Horseshoe BendとAntelope Canyonを観光資源に、Pageの街がどんどん�
 <br>
 
 ![Page・Hampton Inn & Suites Page - Lake Powell](images/day04-57-hampton-inn.jpeg) 
-* Page・Hampton Inn & Suites Page - Lake Powell *<br>
+*Page・Hampton Inn & Suites Page - Lake Powell*<br>
 <br>
 
 ![Page・Welcomeディスプレイ](images/day04-58-hampton-inn-display.jpeg) 
-* Page・Welcomeディスプレイ *<br>
+*Page・Welcomeディスプレイ*<br>
 <br>
 
 ホテルにチェックインして、定番のSAFEWAYに買い出しに行く。<br>
 <br>
 
 ![Page・お馴染みのSAFEWAY](images/day04-59-safeway.jpeg) 
-* Page・お馴染みのSAFEWAY *<br>
+*Page・お馴染みのSAFEWAY*<br>
 <br>
 
 ![Page・SAFEWAYの駐車場](images/day04-60-safeway-signboard.jpeg) 
-* Page・SAFEWAYの駐車場 *<br>
+*Page・SAFEWAYの駐車場*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1594.9612466944438!2d-111.4600735183818!3d36.916117497478375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x873414a4694e9ecf%3A0x5979a7cea411d575!2z44Oa44O844K444O744OX44Op44K2!5e0!3m2!1sja!2sjp!4v1784530101461!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -611,7 +611,7 @@ SAFEWAYのあとに、お土産探索にWalmartへ。<br>
 <br>
 
 ![Page・こちらもお馴染みのWalmart](images/day04-61-walmart.jpeg) 
-* Page・こちらもお馴染みのWalmart *<br>
+*Page・こちらもお馴染みのWalmart*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3190.3989269045514!2d-111.49106060321044!3d36.90472520000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87346b57e0ffc62b%3A0x17c1b5e3bae332ed!2z44Km44Kp44Or44Oe44O844OIIOOCueODvOODkeODvOOCu-ODs-OCv-ODvA!5e0!3m2!1sja!2sjp!4v1784529961183!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -663,7 +663,7 @@ Widgetは注いだときにクリーミーな泡を作るための窒素入り�
 <br>
 
 ![Page・きれいでとても快適なお部屋](images/day04-62-hampton-inn-room.jpeg) 
-* Page・きれいでとても快適なお部屋 *<br>
+*Page・きれいでとても快適なお部屋*<br>
 <br>
 <br>
 
