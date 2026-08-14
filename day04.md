@@ -213,7 +213,7 @@ Lipan Point、Navajo Pointと見て回る。<br>
 <br>
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1613.1958217369745!2d-111.8540553016052!3d36.035146600000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDAyJzA2LjUiTiAxMTHCsDUxJzA2LjAiVw!5e0!3m2!1sja!2sjp!4v1784528856056!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3226.391627087849!2d-111.854055!3d36.035147!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8733115190bd78d1%3A0x139e093df27b6546!2sLipan%20Point!5e0!3m2!1sja!2sjp!4v1786721476191!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <br>
 <br>
 <br>
