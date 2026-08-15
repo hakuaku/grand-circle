@@ -86,6 +86,7 @@ Monument Valley 内のビュートの間を縫うようにダート道を自分�
 <br>
 <br>
 <br>
+
 ### John Ford Point 
 <br>
 John Ford Pointで、馬に乗って写真撮影している人の帽子が風に飛ばされる。<br>
