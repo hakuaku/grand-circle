@@ -14,7 +14,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 <br>
 <br>
 朝早く出てきたけど、一番メジャーなMather Pointだけあって、それなりに人がいる。<br>
-日本人の家族連れもいたり、すごい寒いのにすごい薄着の人がいたり。<br>
+日本人の家族連れもいたり、すごく寒いのにすごく薄着の人がいたり。<br>
 <br>
 
 ![Grand Canyon ・すでにたくさんの人が日の出を待つMather Point](images/day04-01-grand-canyon-sunrise.jpeg)
@@ -61,9 +61,9 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 *Grand Canyon ・泊まっていたGrand Canyon Maswik Lodge*<br>
 <br>
 
-いろんなところをどんどん見られるのは嬉しいけど、宿や宿周辺をゆっくり楽しまないのは、ちょっと残念。<br>
+いろんなところをどんどん見られるのは嬉しいけど、宿や宿周辺をゆっくり楽しめないのは、ちょっと残念。<br>
 <br>
-再びGrand Canyonを観にYavapai Pointへ！
+再びGrand Canyonを観にYavapai Pointへ！<br>
 ここも人気のあるポイント。<br>
 <br>
 
@@ -147,7 +147,7 @@ Grand Canyon Visitor Centerでお土産などのグッズを見てお買い物�
 <br>
 
 ## 表情がどんどん変わるGrand Canyon
-気になったGrand CanyonのView Pointを停まりながらDesert View Driveを移動。<br>
+気になったGrand CanyonのView Pointに停まりながらDesert View Driveを移動。<br>
 <br>
 まずはDuck on a Rockに停まる。<br>
 Yavapai Pointで遭遇した黒装束軍団が乗るバスがまたいた！<br>
@@ -273,11 +273,10 @@ Desert View Trading Post のGift Shop & Snack Barでお土産を見る。<br>
 そういえば、レジで現金を出して数えて払ってる。<br>
 <br>
 Grand Canyonともこれでお別れ。<br>
-Grand Canyon National Parkの標識の写真を撮る。<br>
 <br>
-Grand Canyon National Park South Rimを出るところに大きな看板を発見。<br>
+Grand Canyon National Park South Rimを出るところにゲートのネームプレートを発見。<br>
 看板娘としては写真を撮りたい。<br>
-ということで車を停めて写真を撮りに行ったのだけど、大勢のバイク乗りの集団がみんなで看板前で記念撮影。<br>
+ということで車を停めて写真を撮りに行ったのだけど、大勢のバイク乗りの集団がみんなで記念撮影。<br>
 <br>
 撮ってあげたかったけど、なんて声をかけたらいいのか分からなくて声がかけられなかった…
 とても残念。<br>
@@ -319,7 +318,7 @@ Grand Canyon National Park South Rimを出るところに大きな看板を発�
 
 ## 大きなパイはどれ？！
 Desert View Trading Post のInformationのおじさんに教えてもらったCameron Trading Postは、ちょうど走る予定の道中にあった。<br>
-T字路の突き当たりを左に曲がって少し行ったところの左側に大きなホテルとレストラン、お土産物屋さんのCameronがあった。<br>
+T字路の突き当たりを左に曲がって少し行ったところの左側に大きなホテルとレストラン、お土産物屋さんがCameron Trading Post。<br>
 <br>
 
 ![Cameron Trading Post ・映画の撮影所のようなCameron Trading Post](images/day04-34-cameron.jpeg)
@@ -538,8 +537,8 @@ Horseshoe Bendには展望台ができていて、安全に観られるように
 *Horseshoe Bend・展望台のおかげで全景が無理なく撮れるようになったHorseshoe Bend*<br>
 <br>
 
-![Horseshoe Bend・Horseshoe Bendをバックに私のグラビア](images/day04-54-horseshoe-bend-atsuko.JPG) 
-*Horseshoe Bend・Horseshoe Bendをバックに私のグラビア*<br>
+![Horseshoe Bend・Horseshoe Bendをバックに私のブロマイド](images/day04-54-horseshoe-bend-atsuko.JPG) 
+*Horseshoe Bend・Horseshoe Bendをバックに私のブロマイド*<br>
 <br>
 
 どこを切り取っても観光客が入る（笑）<br>
