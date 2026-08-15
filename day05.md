@@ -35,12 +35,12 @@
 これがアメリカ独自の厳しいルール。<br>
 <br>
 ＜停止が必要なケース＞<br>
-- バスの前後両方向の車両<br>
-- 片側1〜2車線道路では対向車も含む全車<br>
+・ バスの前後両方向の車両<br>
+・ 片側1〜2車線道路では対向車も含む全車<br>
 <br>
 ＜停止不要な例外＞<br>
-- 中央分離帯がある道路では、対向車線側は停止不要な州もある（州によって異なる）<br>
-- アリゾナ州・ネバダ州では基本的に中央分離帯がなければ対向車も停止が必要<br>
+・ 中央分離帯がある道路では、対向車線側は停止不要な州もある（州によって異なる）<br>
+・ アリゾナ州・ネバダ州では基本的に中央分離帯がなければ対向車も停止が必要<br>
 <br>
 ＜いつ動いていいか＞<br>
 STOPサインアームが収納され、赤いランプが消えたら発進可能。<br>
@@ -119,8 +119,8 @@ LowerもUpperも、どちらのAntelope Canyonも荷物の持ち込みは一切�
 パスポートはポケットなどに入れて。<br>
 <br>
 
-![Lower Antelope Canyon・このフォルダーで手ぶらで入場](images/day05-04-kens-tours-plasticbottle-holder.jpeg)
-*Lower Antelope Canyon・このフォルダーで手ぶらで入場*<br>
+![Lower Antelope Canyon・ペットボトルはこのフォルダーで手ぶらで入場](images/day05-04-kens-tours-plasticbottle-holder.jpeg)
+*Lower Antelope Canyon・ペットボトルはこのフォルダーで手ぶらで入場*<br>
 <br>
 
 iPhoneのカメラはビビッドで撮影するといいよとアドバイスがある。<br>
@@ -277,7 +277,7 @@ SAFEWAYからすぐのところにAntelope Canyon Toursのオフィスを見つ�
 現地に到着。<br>
 いよいよUpper Antelope Canyonの入口から中へ。<br>
 Antelope Canyonは、元々は女の子が見つけて遊んでいた場所だったらしい。<br>
-それが今やナバホ族の大きな収入源になる観光地になった。<br>
+それが今やナバホ族の大きな収入源となる観光地になった。<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1595.380383524067!2d-111.41079680160523!3d36.896071000000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDUzJzQ1LjkiTiAxMTHCsDI0JzMwLjMiVw!5e0!3m2!1sja!2sjp!4v1784530563193!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -358,7 +358,7 @@ Lower Antelope Canyonもいいけど、やっぱりこの光の柱の見られ�
 *Upper Antelope Canyon・これ有名な場所かも*<br>
 <br>
 
-![Upper Antelope Canyon・最後に出口のところでまた3人で写真を撮ってくれた](images/day05-37-upper-antelope-canyon-3p.jpeg)
+![Upper Antelope Canyon・最後に出口のところでまた3人で写真を撮ってくれた](images/day05-37-upper-antelope-canyon-3p.jpg)
 *Upper Antelope Canyon・最後に出口のところでまた3人で写真を撮ってくれた*<br>
 <br>
 
@@ -472,8 +472,8 @@ Monument Valleyを見渡せるホテルThe View Hotelにチェックイン。<br
 *Monument Valley・フロントに表示されていた気象情報*<br>
 <br>
 
-![Monument Valley・ロビーの窓からMonument Valleyのビュートが合成みたいに見える](images/day05-47-monument-valley-window.jpeg)
-*Monument Valley・ロビーの窓からMonument Valleyのビュートが合成みたいに見える*<br>
+![Monument Valley・ロビーの窓からMonument Valleyのビュートが合成写真みたいに見える](images/day05-47-monument-valley-window.jpeg)
+*Monument Valley・ロビーの窓からMonument Valleyのビュートが合成写真みたいに見える*<br>
 <br>
 
 ![Monument Valley・ロビーにたくさん飾られたカチーナ人形](images/day05-48-monument-valley-lobby.jpeg)
@@ -519,8 +519,8 @@ Monument Valleyを見渡せるホテルThe View Hotelにチェックイン。<br
 まるで自分の庭のように部屋からMonument Valleyのビュートが見られる The View Hotelは本当にロケーションが最高！<br>
 <br>
 
-![Monument Valley・自分のお部屋のベランダからMonument Valleyを見る](images/day05-52-monument-valley-view-hotel-balcony.jpeg)
-*Monument Valley・自分のお部屋のベランダからMonument Valleyを見る*<br>
+![Monument Valley・自分のお部屋のバルコニーからMonument Valleyを見る](images/day05-52-monument-valley-view-hotel-balcony.jpeg)
+*Monument Valley・自分のお部屋のバルコニーからMonument Valleyを見る*<br>
 <br>
 
 ![Monument Valley・iPhoneのビビッドモードで撮ったら美しすぎる](images/day05-53-monument-valley-view-hotel-balcony-vivid.jpeg)
@@ -529,7 +529,7 @@ Monument Valleyを見渡せるホテルThe View Hotelにチェックイン。<br
 
 夕食はスミーの部屋に集まって部屋飲み。<br>
 <br>
-自分の部屋に戻って、テラスから夜景のMonument Valleyを観ながら写真を撮ってみたら、星がうまく撮れた！<br>
+自分の部屋に戻って、バルコニーから夜景のMonument Valleyを観ながら写真を撮ってみたら、星がうまく撮れた！<br>
 iPhoneのカメラの能力がすごい！<br>
 <br>
 
