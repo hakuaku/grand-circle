@@ -403,6 +403,7 @@ Pageでガソリンを補給して、いざMonument Valleyへ！<br>
 *Page・前回も寄ったガソリンスタンド*<br>
 <br>
 
+
 ![Page・窓掃除もしっかり(images/day05-42-gas-stand-window.jpeg)
 *Page・窓掃除もしっかり*<br>
 <br>
