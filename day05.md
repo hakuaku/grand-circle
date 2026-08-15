@@ -358,6 +358,10 @@ Lower Antelope Canyonもいいけど、やっぱりこの光の柱の見られ�
 *Upper Antelope Canyon・これ有名な場所かも*<br>
 <br>
 
+![Upper Antelope Canyon・最後に出口のところでまた3人で写真を撮ってくれた](images/day05-36-upper-antelope-canyon-famous.jpeg)
+*Upper Antelope Canyon・最後に出口のところでまた3人で写真を撮ってくれた*<br>
+<br>
+
 ![Upper Antelope Canyon・最後に出口のところでまた3人で写真を撮ってくれた](images/day05-37-upper-antelope-canyon-3p.jpg)
 *Upper Antelope Canyon・最後に出口のところでまた3人で写真を撮ってくれた*<br>
 <br>
@@ -403,8 +407,7 @@ Pageでガソリンを補給して、いざMonument Valleyへ！<br>
 *Page・前回も寄ったガソリンスタンド*<br>
 <br>
 
-
-![Page・窓掃除もしっかり(images/day05-42-gas-stand-window.jpeg)
+![Page・窓掃除もしっかり](images/day05-42-gas-stand-window.jpeg)
 *Page・窓掃除もしっかり*<br>
 <br>
 
