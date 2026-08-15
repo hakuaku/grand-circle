@@ -57,7 +57,7 @@ Monument Valley 内のビュートの間を縫うようにダート道を自分�
 撮影ポイントに止まりながら進む。<br>
 今まで見ていた高い場所からではなく、ビュートの足元と同じ高さから見上げるビュートは、すごい迫力。<br>
 <br>
-West Mitten <br>
+### West Mitten 
 <br>
 
 ![Monument Valley Scenic Road Drive・West Mitten](images/day06-07-monument-valley-drive-west-mitten.jpeg)
@@ -68,14 +68,14 @@ West Mitten <br>
 *Monument Valley Scenic Road Drive・West Mittenを撮影中のスミーと菅野さん*<br>
 <br>
 
-Elephant Butte <br>
+### Elephant Butte 
 <br>
 
 ![Monument Valley Scenic Road Drive・Elephant Butte](images/day06-09-monument-valley-drive-elephant.jpeg)
 *Monument Valley Scenic Road Drive・Elephant Butte*<br>
 <br>
 
-Three Sisters <br>
+### Three Sisters 
 <br>
 
 ![Monument Valley Scenic Road Drive・Three Sisters](images/day06-10-monument-valley-drive-three-sisters.jpeg)
@@ -86,7 +86,7 @@ Three Sisters <br>
 <br>
 <br>
 <br>
-John Ford Point <br>
+### John Ford Point 
 <br>
 John Ford Pointで、馬に乗って写真撮影している人の帽子が風に飛ばされる。<br>
 大丈夫かな？と思って見ていたら、ちゃんと取りに行ってた。<br>
@@ -102,6 +102,7 @@ John Ford Pointは、お土産物屋さんなどがあり、とても賑やか�
 *Monument Valley Scenic Road Drive・John Ford Pointのお土産物屋さん*<br>
 <br>
 
+### Rain God Mesa
 Rain God Mesaでは、ツアーの団体さんに囲まれて一緒に写真を撮る。<br>
 <br>
 
@@ -109,7 +110,7 @@ Rain God Mesaでは、ツアーの団体さんに囲まれて一緒に写真を�
 *Monument Valley Scenic Road Drive・Rain God Mesa*<br>
 <br>
 
-Totem Pole <br>
+### Totem Pole 
 <br>
 
 ![Monument Valley Scenic Road Drive・Totem Pole](images/day06-14-monument-valley-drive-totem-pole.jpeg)
@@ -124,7 +125,7 @@ Totem Pole <br>
 <br>
 <br>
 <br>
-Spearhead Mesa <br>
+### Spearhead Mesa 
 <br>
 
 ![Monument Valley Scenic Road Drive・Spearhead Mesa](images/day06-16-monument-valley-drive-spearhead.jpeg)
@@ -143,7 +144,7 @@ Spearhead Mesaは、Monument Valleyの奥の方に位置していて、Spearhead
 *Monument Valley Scenic Road Drive・Spearhead Mesaの見晴らし台からの眺め*<br>
 <br>
 
-The Thumb <br>
+### The Thumb
 <br>
 
 ![Monument Valley Scenic Road Drive・The Thumb](images/day06-18-monument-valley-drive-thumb.jpeg)
