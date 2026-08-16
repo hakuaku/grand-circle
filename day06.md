@@ -122,7 +122,7 @@ Rain God Mesaでは、ツアーの団体さんに囲まれて一緒に写真を�
 <br>
 <br>
 
-### Spearhead Mesa 
+### Spearhead Mesa
 
 ![Monument Valley Scenic Road Drive・Spearhead Mesa](images/day06-16-monument-valley-drive-spearhead.jpeg)
 *Monument Valley Scenic Road Drive・Spearhead Mesa*<br>
@@ -235,8 +235,8 @@ Mexican Hat Rockの方まで、今まで走ってきたところ全体を見渡�
 *Moki Dugway・断崖絶壁のガードレールもない道*<br>
 <br>
 
-![Moki Dugway・Moki Dugwayを登ったところから見える景色](images/day06-24-moki-dauway-view.jpeg)
-*Moki Dugway・Moki Dugwayを登ったところから見える景色*<br>
+![Moki Dugway・Moki Dugwayを登ったところから見える景色。ガードレールのない断崖絶壁の蛇行している道も見える](images/day06-24-moki-dauway-view.jpeg)
+*Moki Dugway・Moki Dugwayを登ったところから見える景色。ガードレールのない断崖絶壁の蛇行している道も見える*<br>
 <br>
 
 ![Moki Dugway・登り切ったところに駐車スペースがある](images/day06-25-moki-dauway-parking.jpeg)
@@ -267,7 +267,7 @@ Mexican Hat Rockの方まで、今まで走ってきたところ全体を見渡�
 <br>
 <br>
 
-## あっちもこっちもアーチだらけ
+## あっちもこっちもアーチだらけのNatural Bridges
 Moabへ行く最後の寄り道 Natural Bridges National Monument。<br>
 Natural Bridges National Monument Visitor Centerに寄ると、ビジターセンターの入り口で望遠鏡を覗いているレンジャーがいて、私たちにも望遠鏡を覗かせてくれた。<br>
 <br>
@@ -291,6 +291,7 @@ Natural Bridges National Monument Visitor Centerに寄ると、ビジターセ�
 *Natural Bridges・アーチを見にいく*<br>
 <br>
 
+### Sipaqu Bridge
 Sipapu Bridge を遠くから眺める。<br>
 遠すぎてよく分からないけど、アーチになってる。<br>
 Sipapu Bridge Trailを行くとアーチの下まで行けるらしい。<br>
@@ -312,6 +313,8 @@ Sipapu Bridge Trailを行くとアーチの下まで行けるらしい。<br>
 <br>
 <br>
 <br>
+
+### Horsecollar House
 Horsecollar House Overlookから見える岩の下のところに小さい穴がたくさんあって、昔の人が住んでいた家だったらしい。<br>
 けど遠すぎてよく分からない。<br>
 <br>
@@ -324,6 +327,7 @@ Horsecollar House Overlookから見える岩の下のところに小さい穴が
 *Natural Bridges・Horsecollar Houseがどこにあるのかさっぱりわからない*<br>
 <br>
 
+### Kachina Bridge
 Kachina Bridgeを遠くから見る。<br>
 Kachinaは、ホピ族の精霊。<br>
 長い時の流れとともに岩が侵食されて、こんなにもアーチがたくさんできるんだと驚く。<br>
@@ -345,6 +349,8 @@ Kachinaは、ホピ族の精霊。<br>
 <br>
 <br>
 <br>
+
+### Owachomo Bridge
 Owachomo Bridgeは、かなり大きなブリッジ。<br>
 <br>
 
