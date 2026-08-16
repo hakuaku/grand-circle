@@ -369,7 +369,7 @@ Owachomo Bridgeは、かなり大きなブリッジ。<br>
 *Natural Bridges・Owachomo Bridgeのところまでどんどん降りていく*<br>
 <br>
 
-![Natural Bridges・どんどん降りる](images/day06-38-natural-bridges-owachomo-trail.jpeg)
+![Natural Bridges・どんどん降りる](images/day06-39-natural-bridges-owachomo-trail.jpeg)
 *Natural Bridges・どんどん降りる*<br>
 <br>
 
@@ -378,7 +378,7 @@ Owachomo Bridgeは、かなり大きなブリッジ。<br>
 かなりな日差しと灼熱。<br>
 <br>
 
-![Natural Bridges・思っていたよりもかなり大きいOwachomo Bridge](images/day06-39-natural-bridges-owachomo-trail.jpeg)
+![Natural Bridges・思っていたよりもかなり大きいOwachomo Bridge](images/day06-39-natural-bridges-owachomo.jpg)
 *Natural Bridges・思っていたよりもかなり大きいOwachomo Bridge*<br>
 <br>
 
