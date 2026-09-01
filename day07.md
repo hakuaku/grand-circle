@@ -60,7 +60,7 @@ Arches National Park のビジターセンターを通り越し、坂道をグ�
 *Delicate Arch・Delicate Arch Trailの看板*<br>
 <br>
 
-![Delicate Arch・トレッキングスタート](images/day07-02-delicate-arch-start.jpeg
+![Delicate Arch・トレッキングスタート](images/day07-02-delicate-arch-start.jpeg)
 *Delicate Arch・トレッキングスタート*<br>
 <br>
 
