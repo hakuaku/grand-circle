@@ -652,11 +652,11 @@ Balanced Rockの上に乗っている石が、見る角度によってぜんぜ�
 上の方まで登って、上から景色を眺める。<br>
 <br>
 
-![Balanced Rock・見る角度で別のものに見えるBalanced Rock](写真後で追加)
+![Balanced Rock・見る角度で別のものに見えるBalanced Rock](images/day07-68-balanced-rock.jpeg)
 *Balanced Rock・見る角度で別のものに見えるBalanced Rock*<br>
 <br>
 
-![Balanced Rock・Balanced Rockの上から見た景色](写真後で追加)
+![Balanced Rock・Balanced Rockの上から見た景色](images/day07-69-balanced-rock-top.jpeg)
 *Balanced Rock・Balanced Rockの上から見た景色*<br>
 <br>
 
@@ -664,7 +664,7 @@ Balanced Rockの上に乗っている石が、見る角度によってぜんぜ�
 私はステッカーを買う。 <br>
 <br>
 
-![Arches National Park・Visitor Center](写真後で追加)
+![Arches National Park・Visitor Center](images/day07-70-arches-visitor-center.jpeg)
 *Arches National Park・Visitor Center*<br>
 <br>
 
@@ -678,7 +678,7 @@ Horseshoe Bendと同じようなコロラド川の蛇行（ひの字）が見ら
 遥か昔は川からの恩恵を得るとともに、氾濫したらすごいことになっていたのだろうと思う。<br>
 <br>
 
-![Dead Horse Point・Dead Horse Point Trailの看板](写真後で追加)
+![Dead Horse Point・Dead Horse Point Trailの看板](images/day07-71-dead-horse-point-panel.jpeg)
 *Dead Horse Point・Dead Horse Point Trailの看板*<br>
 <br>
 
@@ -687,14 +687,14 @@ Horseshoe Bendと同じようなコロラド川の蛇行（ひの字）が見ら
 私は簡単に諦めちゃうけど（笑）<br>
 <br>
 
-![Dead Horse Point・岩の割れ目から生えている木](写真後で追加)
+![Dead Horse Point・岩の割れ目から生えている木](images/day07-72-dead-horse-point-tree.jpeg)
 *Dead Horse Point・岩の割れ目から生えている木*<br>
 <br>
 
 Dead Horse Pointは、Grand CanyonとHorseshoe Bendを合わせたような景観。<br>
 <br>
 
-![Dead Horse Point・Dead Horse Pointから見えるコロラド川のひの字](写真後で追加)
+![Dead Horse Point・Dead Horse Pointから見えるコロラド川のひの字](images/day07-73-dead-horse-point.jpeg)
 *Dead Horse Point・Dead Horse Pointから見えるコロラド川のひの字*<br>
 <br>
 
@@ -711,7 +711,7 @@ Dead Horse Pointは、Grand CanyonとHorseshoe Bendを合わせたような景�
 ここにもココペリがたくさんいる。<br>
 <br>
 
-![Moab・Moabの町を歩く](写真後で追加)
+![Moab・Moabの町を歩く](images/day07-74-moab-town.jpeg)
 *Moab・Moabの町を歩く*<br>
 <br>
 
@@ -719,7 +719,7 @@ Dead Horse Pointは、Grand CanyonとHorseshoe Bendを合わせたような景�
 今日は少しホテルの周りを見て歩く時間の余裕があってよかった。<br>
 <br>
 
-![Moab・Moabのピザ屋さん](写真後で追加)
+![Moab・Moabのピザ屋さん](images/day07-75-moab-pizza.jpeg)
 *Moab・Moabのピザ屋さん*<br>
 <br>
 
