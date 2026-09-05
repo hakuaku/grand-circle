@@ -525,7 +525,7 @@ The Windows Trailの駐車場に車を停めて、Double Arch Viewpoint and Trai
 *Double Arch Viewpoint and Trail・Double Archからの眺め*<br>
 <br>
 
-![Double Arch Viewpoint and Trail・Double Archの反対側の眺め](day07-55-double-arch-view-opposite-side.HEIC)
+![Double Arch Viewpoint and Trail・Double Archの反対側の眺め](day07-55-double-arch-view-opposite-side.jpeg)
 *Double Arch Viewpoint and Trail・Double Archの反対側の眺め*<br>
 <br>
 
