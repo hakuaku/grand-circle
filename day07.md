@@ -656,6 +656,10 @@ Balanced Rockの上に乗っている石が、見る角度によってぜんぜ�
 *Balanced Rock・見る角度で別のものに見えるBalanced Rock*<br>
 <br>
 
+![Balanced Rock・Balanced Rockの上まで登ってみた](images/day07-76-balanced-rock-top.jpg)
+*Balanced Rock・Balanced Rockの上まで登ってみた*<br>
+<br>
+
 ![Balanced Rock・Balanced Rockの上から見た景色](images/day07-69-balanced-rock-top.jpeg)
 *Balanced Rock・Balanced Rockの上から見た景色*<br>
 <br>
