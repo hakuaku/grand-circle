@@ -233,15 +233,15 @@ Capitol Reef National Park Visitor Center の駐車場でお手製のサンド�
 *Capitol Reef・Visitor Center の駐車場で昼食*<br>
 <br>
 
-![Capitol Reef・Visitor Center の駐車場で昼食](images/day08-18-capitol-reef-visitor-center-lunch.jpg)
+![Capitol Reef・Visitor Center の駐車場で昼食](images/day08-18-capitol-reef-visitor-center-lunch.JPG)
 *Capitol Reef・Visitor Center の駐車場で昼*<br>
 <br>
 
-![Capitol Reef・Visitor Center の駐車場で車の窓掃除](images/day08-19-capitol-reef-visitor-center-cleaning.jpg)
+![Capitol Reef・Visitor Center の駐車場で車の窓掃除](images/day08-19-capitol-reef-visitor-center-cleaning.JPG)
 *Capitol Reef・Visitor Center の駐車場で車の窓掃除*<br>
 <br>
 
-![Capitol Reef・Visitor Center](images/day08-20-capitol-reef-visitor-centerjpeg)
+![Capitol Reef・Visitor Center](images/day08-20-capitol-reef-visitor-center.jpeg)
 *Capitol Reef・Visitor Center*<br>
 <br>
 
