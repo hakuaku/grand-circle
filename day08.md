@@ -373,7 +373,7 @@ Larb Hollow Overlookを少し過ぎたところに白樺の森が現れる。<br
 面白くて１往復半して動画を撮影。<br>
 <br>
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed?v=zZ_uUisgjxA" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zZ_uUisgjxA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 *Scenic Byway 12・The Hogbackをスミーが動画撮影*<br>
 <br>
 
