@@ -317,7 +317,7 @@ Larb Hollow Overlookを少し過ぎたところに白樺の森が現れる。<br
 白樺だと思っていたら、アスペンの森で、ものすごくキレイな木々。<br>
 <br>
 
-![Scenic Byway 12・アスペンの森](images/day08-30-scenic-byway12-aspen.jpg)
+![Scenic Byway 12・アスペンの森](images/day08-30-scenic-byway12-aspen.JPG)
 *Scenic Byway 12・アスペンの森*<br>
 <br>
 
