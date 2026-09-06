@@ -426,7 +426,7 @@ Bryce CanyonのBest Western Plus Ruby’s Innに到着してチェックイン�
 とても美味しかったけど、やっぱり高い！<br>
 <br>
 
-![Bryce Canyon・Ruby’s Innのホテル内のCowboy’s Buffet](images/day08-37-rubys-inn-cowboys-buffet.jeg)
+![Bryce Canyon・Ruby’s Innのホテル内のCowboy’s Buffet](images/day08-37-rubys-inn-cowboys-buffet.jpeg)
 *Bryce Canyon・Ruby’s Innのホテル内のCowboy’s Buffet*<br>
 <br>
 
