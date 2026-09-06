@@ -14,13 +14,13 @@
 - ツール>サイズの変更　：解像度を下げる
 - ファイル>書き出し　　：拡張子をJPEGに変える
 
-''' bash
+``` HTML
 ![Delicate Arch・Delicate Arch Trailの看板](images/day07-01-delicate-arch-morning.jpeg)
 *Delicate Arch・Delicate Arch Trailの看板*
-'''
+```
 
 ## コラム
-''' HTML
+``` HTML
 --- 
 <div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
 
@@ -30,18 +30,18 @@
 
  </div>
 --- 
-'''
+```
 
 ## Google map埋め込み
 - width=“100%”で設定
 
-''' HTML
+``` HTML
 <iframe src="https://www.google.com/maps/embed?pb=!4v1784533761787!6m8!1m7!1sCAoSF0NJSE0wb2dLRUlDQWdJRFdwcHZBalFF!2m2!1d38.73573150781716!2d-109.5203161864834!3f270!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-'''
+```
 
 ## YouTube動画の埋め込み
 - URLのYouTubeの下はembedにする
 
-''' HTML
+``` HTML
 <iframe width="315" height="560" src="https://www.youtube.com/embed/9YkbzdosDNE" frameborder="0" allowfullscreen> </iframe>
-'''
+```
