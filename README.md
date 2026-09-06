@@ -14,7 +14,7 @@
 - ツール>サイズの変更　：解像度を下げる
 - ファイル>書き出し　　：拡張子をJPEGに変える
 
-''' HTML
+''' bash
 ![Delicate Arch・Delicate Arch Trailの看板](images/day07-01-delicate-arch-morning.jpeg)
 *Delicate Arch・Delicate Arch Trailの看板*
 '''
