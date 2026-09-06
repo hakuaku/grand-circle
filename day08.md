@@ -362,7 +362,7 @@ Larb Hollow Overlookを少し過ぎたところに白樺の森が現れる。<br
 *Scenic Byway 12・The Hogbackとは知らずに手前の駐車場で景色を楽しむ*<br>
 <br>
 
-![Scenic Byway 12・The Hogbackは両脇が崖！](images/day08-33-hogback-view-cliff.jpg)
+![Scenic Byway 12・The Hogbackは両脇が崖！](images/day08-33-hogback-view-cliff.JPG)
 *Scenic Byway 12・The Hogbackは両脇が崖！*<br>
 <br>
 
