@@ -453,6 +453,11 @@ Sedonaで買うよりも安くていいものがたくさんある。<br>
 数千円（$15.19)！！<br>
 ウェットティッシュに！<br>
 <br>
+
+![Bryce Canyon・Ruby’s Innのジェネラルストアで買った高級ウェットティッシュ](images/day08-39-wet-wipes.jpg)
+*Bryce Canyon・Ruby’s Innのジェネラルストアで買った高級ウェットティッシュ*<br>
+<br>
+
 それでもトイレとか、ないと困るので購入。<br>
 やっぱり日本って安いんだなー。<br>
 Cheap Japan <br>
