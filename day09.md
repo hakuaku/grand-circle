@@ -251,7 +251,7 @@ Monument Valleyでできなかったペニーコインを潰して作る記念�
 私があったのはこれ！<br>
 <br>
 
-![Bryce Canyon・ペニーコインの記念硬貨 ](images/day09-38-bryce-canyon-visitor-center-coin.jpeg)
+![Bryce Canyon・ペニーコインの記念硬貨 ](images/day09-38-bryce-canyon-visitor-center-coin.jpg)
 *Bryce Canyon・ペニーコインの記念硬貨*<br>
 <br>
 
