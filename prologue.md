@@ -27,7 +27,7 @@
 さぁ、旅の始まり！<br>
 <br>
 
-### 【グランドサークル】　1日目　羽田 〜 Sedonaへ(day1.html)
+### 【グランドサークル】　1日目　羽田 〜 Sedonaへ [day01](day01.html)
 
 アズビルノースアメリカ
 Desert Vista
