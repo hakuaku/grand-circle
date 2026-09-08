@@ -747,3 +747,7 @@ Greentree Inn Sedona に２泊目。<br>
  
 📍 **本日の移動** <br>
 Greentree Inn Sedona → Devil’s Bridge → Subway Cave → Boynton Canyon → Bell Rock / Courthouse Butte → Cathedral Rock → Clear Creek Trading Company（儀式屋） → Chapel of the Holy Cross → Sedona Airport Scenic Lookout → Airport Mesa → Tres Amigos（メキシコ料理）  → Greentree Inn Sedona
+
+
+### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　3日目　Sedona 〜 Grand Canyon へ](day03.html)
