@@ -577,5 +577,6 @@ Best Western Plus Ruby’s Inn → Bryce Canyon Inspiration Point → Sunset Poi
 <br>
 
 ### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　8日目　Moab 〜 Bryce Canyonへ](day08.html)
 ### [【グランドサークル】　10日目　Las Vegas 〜 羽田へ](day10.html)
 
