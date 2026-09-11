@@ -578,4 +578,5 @@ Hampton Inn & Suites Page - Lake Powell → Lower Antelope Canyon → Upper Ante
 <br>
 
 ### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　4日目　Grand Canyon 〜 Pageへ](day04.html)
 ### [【グランドサークル】　6日目　Monument Valley 〜 Moabへ](day06.html)
