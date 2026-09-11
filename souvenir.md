@@ -202,23 +202,23 @@ Sedonaの儀式屋でディスカウントで買ってきた乾燥セージ。<b
 *ステッカー・Grand Canyon*<br>
 <br>
 
-![ステッカー・Arches](写真後で追加)
+![ステッカー・Arches](images/souvenir-11-16-arches-sticker.jpeg)
 *ステッカー・Arches*<br>
 <br>
 
-![ステッカー・Capitol Reef](写真後で追加)
+![ステッカー・Capitol Reef](images/souvenir-11-17-capitol-reef-sticker.jpeg)
 *ステッカー・Capitol Reef*<br>
 <br>
 
-![ステッカー・Bryce Canyon](写真後で追加)
+![ステッカー・Bryce Canyon](images/souvenir-11-18-bryce-canyon-sticker.jpeg)
 *ステッカー・Bryce Canyon*<br>
 <br>
 
-![ステッカー・Bryce Canyon](写真後で追加)
+![ステッカー・Bryce Canyon](images/souvenir-11-19-bryce-canyon-sticker.jpeg)
 *ステッカー・Bryce Canyon*<br>
 <br>
 
-![ステッカー・Zion](写真後で追加)
+![ステッカー・Zion](images/souvenir-11-20-zion-sticker.jpeg)
 *ステッカー・Zion*<br>
 <br>
 <br>
@@ -226,4 +226,5 @@ Sedonaの儀式屋でディスカウントで買ってきた乾燥セージ。<b
 <br>
 
 ### [【グランドサークル】　旅の初めに](prologue.html)
+### [【グランドサークル】　10日目　Las Vegas 〜 羽田へ](day10.html)
 ### [【グランドサークル】　旅を終えて　〜後日談](epilogue.html)
