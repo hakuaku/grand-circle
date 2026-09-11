@@ -675,4 +675,5 @@ Grand Canyon Maswik Lodge → Grand Canyon / Mather Point → Yavapai Point → 
 <br>
 
 ### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　3日目　Sedona 〜 Grand Canyonへ](day03.html)
 ### [【グランドサークル】　5日目　Page 〜 Monument Valley へ](day05.html)
