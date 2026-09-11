@@ -672,4 +672,5 @@ Greentree Inn Sedona → Cathedral Rock → Seligman → Delgadillo’s Snow Cap
 <br>
 
 ### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　2日目　Sedona 〜 Vortex へ](day02.html)
 ### [【グランドサークル】　4日目　Grand Canyon 〜 Pageへ](day04.html)
