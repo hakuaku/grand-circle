@@ -157,6 +157,9 @@ Las Vegas Car Rental Center
 川口敦子　56歳<br>
 <br>
 <br>
+![Grandcircle・参加メンバー](images/prologue-12-01-member.jpeg)
+* Grandcircle・参加メンバー*<br>
+<br>
 
 ## これがThe Trail合宿の全容！
 Sedona → Route 66 の町 Seligman → Flagstaff → Grand Canyon → Cameron → Historic Navajo Bridge → Horseshoe Bend → Lower Antelope Canyon → Upper Antelope Canyon → Monument Valley → Forrest Gump Point → Mexican Hat Rock → Moki Dugway → Natural Bridges → Blandingで洗車 → Grand View Point → Delicate Arch → Double O Arch → Double Arch → The Windows Trail → Balanced Rock → Dead Horse Point → Hwy 128 Scenic Byway → Dewey Suspension Bridge → Capitol Reef → Goosenecks Point → Chimney Rock → Scenic Byway 12 → アスペンの森 → The Hogback → Bryce Canyon → Hwy 15 Kanarraville South Rest Area → Kolob Canyons → Las Vegas <br>
