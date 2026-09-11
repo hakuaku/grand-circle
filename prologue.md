@@ -168,7 +168,7 @@ Las Vegas Car Rental Center<br>
 <br>
 
 ![Grandcircle・参加メンバー](images/prologue-12-01-member.jpg)
-* Grandcircle・参加メンバー*<br>
+*Grandcircle・参加メンバー*<br>
 <br>
 
 ## これがThe Trail合宿の全容！
