@@ -749,4 +749,5 @@ Homewood Suites by Hilton Moab → Delicate Arch → Devils Garden Trail → Dou
 <br>
 
 ### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　6日目　Monument Valley 〜 Moabへ](day06.html)
 ### [【グランドサークル】　8日目　Moab 〜 Bryce Canyonへ](day08.html)
