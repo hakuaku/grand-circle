@@ -157,7 +157,7 @@ Las Vegas Car Rental Center
 川口敦子　56歳<br>
 <br>
 <br>
-![Grandcircle・参加メンバー](images/prologue-12-01-member.jpeg)
+![Grandcircle・参加メンバー](images/prologue-12-01-member.jpg)
 * Grandcircle・参加メンバー*<br>
 <br>
 
