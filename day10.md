@@ -121,5 +121,6 @@ Tru by Hilton Las Vegas Airport → Las Vegas Car Rental Center → ラスベガ
 <br>
 
 ### [【グランドサークル】　旅の初めに](prologue.html)
+### [【グランドサークル】　9日目　Bryce Canyon 〜 Las Vegas へ](day09.html)
 ### [【グランドサークル】　お土産　〜こんなのを買ってきました](souvenir.html)
 
