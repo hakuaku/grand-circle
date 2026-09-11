@@ -751,5 +751,6 @@ Greentree Inn Sedona → Devil’s Bridge → Subway Cave → Boynton Canyon →
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めに へ](prologue.html)
-### [【グランドサークル】　3日目　Sedona 〜 Grand Canyon へ](day03.html)
+### [【グランドサークル】　旅の初めに](prologue.html)
+### [【グランドサークル】　1日目　羽田 〜 Sedonaへ ](day01.html)
+### [【グランドサークル】　3日目　Sedona 〜 Grand Canyonへ](day03.html)
