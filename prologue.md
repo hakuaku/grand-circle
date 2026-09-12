@@ -74,7 +74,7 @@ Upper Antelope Canyon<br>
 Monument Valley<br>
 <br>
 
-### [【グランドサークル】　6日目　Monument Valley 〜 Moabへ](day06.html)
+### [【グランドサークル】　6日目　Monument Valley 〜 Moab へ](day06.html)
 
 Monument Valley Scenic Road Drive<br>
 Forrest Gump Point<br>
