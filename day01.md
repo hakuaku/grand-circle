@@ -257,7 +257,7 @@ South Page Springs Roadに入ったところの左側に、夕食が食べられ
 ## Sedonaに到着
 Greentree Inn Sedonaにチェックイン。<br>
 
-Sedonaで夕食が食べられそうなお店を探したけど、さすがにSedonaに到着した時間が遅くて見つからず。<br>
+Sedonaで夕食が食べられそうなお店を探したけど、さすがに時間が遅くて見つからず。<br>
 前回来た時に行ったお店「Family Restaurant」をかなり探したけど見つからず。<br>
 さすがに9年も経っているとお店は無くなってるよね・・・・<br>
 
