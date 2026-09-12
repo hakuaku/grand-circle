@@ -27,7 +27,7 @@
 さぁ、旅の始まり！<br>
 <br>
 
-### [【グランドサークル】　1日目　羽田 〜 Sedonaへ](day01.html)
+### [【グランドサークル】　1日目　羽田 〜 Sedona へ](day01.html)
 
 アズビルノースアメリカ<br>
 Desert Vista<br>
@@ -147,7 +147,7 @@ In-n-Out Burger<br>
 Tru by Hilton Las Vegas Airport<br>
 <br>
 
-### [【グランドサークル】　10日目　Las Vegas 〜 羽田へ](day10.html)
+### [【グランドサークル】　10日目　Las Vegas 〜 羽田 へ](day10.html)
 
 Tru by Hilton Las Vegas Airport<br>
 Las Vegas Car Rental Center<br>
