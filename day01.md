@@ -185,7 +185,7 @@ REIって日本にもあったよね？最近見ないけど？という話に�
 <br>
 
 ![Desert Vista Trail・Desert Vista Trail周辺のトレイル案内図](images/day01-18-desert-vista-panel.jpg)
-* Desert Vista Trail・Desert Vista Trail周辺のトレイル案内図*<br>
+*Desert Vista Trail・Desert Vista Trail周辺のトレイル案内図*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443386331!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREMxT0xSR1E.!2m2!1d33.74117281323092!2d-112.0971527236591!3f152.2983599360307!4f0.8057220485380299!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -257,7 +257,7 @@ South Page Springs Roadに入ったところの左側に、夕食が食べられ
 ## Sedonaに到着
 Greentree Inn Sedonaにチェックイン。<br>
 
-Sedonaで夕食が食べられそうなお店を探したけど、到着時間が遅くて見つからず。<br>
+Sedonaで夕食が食べられそうなお店を探したけど、さすがにSedonaに到着した時間が遅くて見つからず。<br>
 前回来た時に行ったお店「Family Restaurant」をかなり探したけど見つからず。<br>
 さすがに9年も経っているとお店は無くなってるよね・・・・<br>
 
