@@ -3,8 +3,7 @@
 
 ## 出発！羽田空港
 13:15頃に羽田空港 第3ターミナル 出発ロビーC/D付近に集合だったけど、11:40頃に到着してしまう。  
-菅野さんも到着しているみたいだよとスミーから連絡があったので、  
-菅野さんに連絡して2階到着ロビーのタリーズコーヒーで落ち合い、お茶をする。  
+菅野さんも到着しているみたいだよとスミーから連絡があったので、菅野さんに連絡して2階到着ロビーのタリーズコーヒーで落ち合い、お茶をする。  
 
 2017年にスミーと田角さんと一緒に行ったSedonaの旅の話をしたり、会社の近況を話したり。  
 
@@ -86,7 +85,7 @@ Hertzのレンタカーセンターで、Buick Enclave　大型３列シート �
 荷物も多いので、少しゆったりめの贅沢な車を選択。<br>
 荷物を後ろに積もうとして、３列目の座席を倒そうとしたけど、倒し方がわからずに3人で四苦八苦。<br>
 
-どうにもわからなくてHertzの人を呼びに行って見てもらったら、あっけなくシートが倒れた。<br>
+どうにもわからなくてHertzの人を呼びに行って見てもらったら、紐を引っ張るだけであっけなくシートが倒れた。<br>
 
 2人目のドライバー登録をしに行って、スミーと私の関係を聞かれる。<br>
 どういうご関係？（笑）<br>
@@ -103,19 +102,19 @@ Friend！<br>
 ## 初めてのBuick Enclave
 Buick Enclaveを走らせると、スミーが突然、運転席のシートがブルブル振動すると言い出す。<br>
 
-なんで？なんで？となり、私のクロコちゃん（Claude）に聞いてみたら、中央線や右側の車線を越えそうになると警告として座席シートが振動すると教えてくれた。<br>
+なんで？なんで？となり、Claudeに聞いてみたら、中央線や右側の車線を越えそうになると警告として座席シートが振動すると教えてくれた。<br>
 <br>
 
 --- 
 <div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
 
-**📖 コラム｜Buick Enclaveってどんな車？** <br>
+**📖 コラム｜Buick Enclave** <br>
 <br>
 GMが製造するアメリカのプレミアムブランド「Buick（ビュイック）」の大型３列シート フルサイズ・プレミアムSUV。<br>
 <br>
 全長約5m超のゆったりしたボディに7〜8人乗りの3列シートを備え、アメリカ的な「大家族でゆったり」というニーズに応える。<br>
 <br>
-Buickはゼネラルモーターズのなかでキャデラックに次ぐプレミアム位置づけで、Enclaveも静粛性と上質な内装を重視している。<br>
+Buickはゼネラルモーターズのなかでキャデラックに次ぐプレミアムの位置づけで、Enclaveも静粛性と上質な内装を重視している。<br>
 本革シート、パノラマサンルーフ、先進の運転支援システムなどが充実。<br>
 <br>
 V6ガソリンエンジンが主力で、燃費よりも滑らかな走りと余裕の動力性能を優先した設計。<br>
@@ -171,7 +170,7 @@ Walmartの建物を出たら、駐車場の向こう側に小さい遊園地が�
 次に向かったのが、アウトドア用品のブランドREIのお店。<br>
 National Park Passを買いに行ったが売り切れていた。<br>
 
-REIって日本にもあったよね？最近見ないけど？という話になり、クロコちゃんに聞いてみたら、南町田グランベリーパークにもREIがあったけど、今は日本から撤退したそう。<br>
+REIって日本にもあったよね？最近見ないけど？という話になり、Claudeに聞いてみたら、南町田グランベリーパークにもREIがあったけど、今は日本から撤退したそう。<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443567766!6m8!1m7!1svlxM4NjevPwsWOZpvHTZSA!2m2!1d33.60178729443522!2d-111.9891430922273!3f356.92926!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -183,6 +182,10 @@ REIって日本にもあったよね？最近見ないけど？という話に�
 サボテンと聞くと必ずIMDをやっていた松田さんが、サボテンの花粉症だったことを思い出す。<br>
 サボテンの花で花粉症になんてなるの？と思っていた。<br>
 アメリカから帰ってくるといつもサボテンの花の話をしていた。<br>
+<br>
+
+![Desert Vista Trail・Desert Vista Trail周辺のトレイル案内図](images/day01-18-desert-vista-panel.jpg)
+* Desert Vista Trail・Desert Vista Trail周辺のトレイル案内図*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443386331!6m8!1m7!1sCAoSFkNJSE0wb2dLRUlDQWdJREMxT0xSR1E.!2m2!1d33.74117281323092!2d-112.0971527236591!3f152.2983599360307!4f0.8057220485380299!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -229,14 +232,14 @@ I-17（アリゾナ州の州間高速道路）でSedonaへ向かう。<br>
 <br>
 <br>
 ## Robbers Roost Sports Grill (1160 S Page Springs Road)
-South Page Springs Roadに入ったところの右側に、夕食が食べられそうなお店があったので寄ってみる。<br>
+South Page Springs Roadに入ったところの左側に、夕食が食べられそうなお店があったので寄ってみる。<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1781443278212!6m8!1m7!1s_YhDmK9fMe3VfPEZ-MN_0A!2m2!1d34.7183280121865!2d-111.9036332633698!3f266.32173167095243!4f0.6764236593013777!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <br>
 <br>
-駐車場で隣に停めていた車の中に犬が数匹いて、ものすごい吠えられてびっくりした。<br>
+駐車場で隣に停めていた車の中に犬が数匹いて、ものすごい勢いで吠えられてびっくりした。<br>
 <br>
 
 ![Robbers Roost Sports Grill ・ブレちゃったけどお店の外観](images/day01-14-robbersroost-shop.jpeg)
@@ -254,7 +257,7 @@ South Page Springs Roadに入ったところの右側に、夕食が食べられ
 ## Sedonaに到着
 Greentree Inn Sedonaにチェックイン。<br>
 
-Sedonaで夕食が食べられそうなお店を探したけど、時間が遅くて見つからず。<br>
+Sedonaで夕食が食べられそうなお店を探したけど、到着時間が遅くて見つからず。<br>
 前回来た時に行ったお店「Family Restaurant」をかなり探したけど見つからず。<br>
 さすがに9年も経っているとお店は無くなってるよね・・・・<br>
 
