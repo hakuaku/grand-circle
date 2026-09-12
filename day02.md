@@ -1,12 +1,12 @@
 # 【グランドサークル】2日目　Sedona 〜 Vortex
 ###### 2026年4月27日（月）晴れ
 
-## まずは人気急上昇のDevil’s Bridgeへ
+## まずは人気急上昇のDevil’s Bridge へ
 朝食を食べずに6:00集合でホテルを出発。<br>
 <br>
 
 ![Greentree Inn Sedona ・早朝のホテルを出発](images/day02-01-greentreeinn-start.jpeg)
-*Greentree Inn Sedona ・早朝のホテルを出*<br>
+*Greentree Inn Sedona ・早朝のホテルを出発*<br>
 <br>
 
 Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまって混む上に駐車場が狭いので、早く行かないと車が停められない。<br>
@@ -21,7 +21,7 @@ Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまっ�
 <br>
 <br>
 パーキングチケットを駐車料金機で購入しようとしたがカードを受け付けず、カードを色々変えてやってみても受け付けず…<br>
-現金が利用できない、カードオンリーの駐車料金機なのでカードが使えないとお手上げ。<br>
+現金が利用できないカードオンリーの駐車料金機なので、カードが使えないとお手上げ。<br>
 <br>
 
 ![Devil’s Bridge駐車場 ・まったく受け付けてくれない駐車料金機](images/day02-02-devils-bridge-parking.jpeg)
@@ -56,14 +56,14 @@ Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまっ�
 ・ ZIP Code要求：アメリカのカードシステムは郵便番号（ZIP Code）を入力させる機械があり、日本のカードには対応する番号がないため弾かれる<br>
 <br>
 ＜実際の対応策＞<br>
-・ 現金（紙幣・コイン）が使える機会も多い<br>
+・ 現金（紙幣・コイン）が使える機械も多い<br>
 ・ America the Beautiful Pass（年間パス）を持っていれば、そもそも駐車料金が免除される公園も多い<br>
 ・ レンジャーステーションや入場ゲートでクレジットカード払いできることも<br>
 
 <br>
 旅行者はアメリカのプリペイドカード（Wiseなど）を持参するか、現地で対応策を確認しておくことがおすすめ。<br>
 <br>
-Wiseのトラベルカードはアメリカ国内発行扱いになるケースがあり、こういう場面で役立つことがあるが要確認。<br>
+Wiseのトラベルカードはアメリカ国内発行扱いになるケースがあり、こういう場面で役立つことがあるが、確実に使えるかは要確認。<br>
 <br>
  </div>
 --- 
@@ -115,15 +115,15 @@ Wiseのトラベルカードはアメリカ国内発行扱いになるケース�
 <br>
 <br>
 Devil’s Bridgeに到着したら、写真撮影待ちの長い行列。<br>
-9年前に来たときには、こんなことあり得なかったのに。<br>
-やはり急にDevil’s Bridgeは有名になってしまったのかしら。<br>
+9年前に来たときには、こんなことはあり得なかったのに。<br>
+やはりSNS等で「穴場」として紹介されて、急にDevil’s Bridgeは有名になってしまったようだ。<br>
 <br>
 前回は、写真撮影のために順番に1人ずつ行くなんてことはせず、みんなどんどん橋の上に行っていたが、今回は１組ずつが順番に橋の上に行って写真撮影していた。<br>
 これもSNSの普及で、映えが重視される世の中になったからかも。<br>
 <br>
 行列に並んで順番を待ちながら、スミーお手製のサンドイッチを食べる。<br>
 まさかスミーがサンドイッチを作ってくるとは思わなかった（笑）<br>
-そして、スミーのサンドイッチに挟まっていたプチトマトが落ちて転がる。<br>
+そして、スミーが食べているサンドイッチに挟まっていたプチトマトが落ちて転がる。<br>
 <br>
 私たちの前にお誕生日だった人がいて、しかも人数多くて、なかなか時間がかかって順番が回ってこない。<br>
 やっと順番が回って来て、菅野さんと写真撮影。<br>
@@ -168,9 +168,8 @@ Boynton Canyon の駐車場も狭くて、停められるか少し待ってい�
 <br>
 <br>
 
-## Boynton Canyon の奥・・・Subway Caveへ
-Boynton Canyonに行くのかと思いきや<br>
-Boynton Canyonの脇に回り込んで歩き続ける。<br>
+## Boynton Canyon の奥・・・Subway Cave へ
+Boynton Canyonに行くのかと思いきや、Boynton Canyonの脇に回り込んで歩き続ける。<br>
 
 Boynton Canyonのウォリアー（Warrior Butte / ノール）の頂上に座って笛を吹くおじさん。<br>
 9年前に来た時もノールのてっぺんで笛を吹いているおじさんがいて、吹き終わって下に降りて来たら、赤土のハートの石をくれた。<br>
@@ -201,7 +200,7 @@ Subway Caveには今回初めて行くので、道が分からず。<br>
 <br>
 <br>
 すると目の前に大きな岩の壁が出現。<br>
-ツルツルに滑りそうな大きな岩で、へばりついて登っているおばさんを娘が上から上り方を指導している。<br>
+ツルツルに滑りそうな大きな岩で、へばりついて登っているおばさんを娘が上から登り方を指導している。<br>
 その脇を滑るように上から降りてくる人もいる。<br>
 
 ここ？？？<br>
@@ -226,8 +225,8 @@ Subway Caveには今回初めて行くので、道が分からず。<br>
 確かに！<br>
 <br>
 
-![Subway Cave・Subway Caveの上からみた景色](images/day02-19-subway-cave-3-top.jpeg)
-*Subway Cave・Subway Caveの上からみた景色*<br>
+![Subway Cave・Subway Caveの上から見た景色](images/day02-19-subway-cave-3-top.jpeg)
+*Subway Cave・Subway Caveの上から見た景色*<br>
 <br>
 
 ![Subway Cave・まさにトンネル](images/day02-20-subway-cave-4-tunnel.jpeg)
@@ -246,19 +245,19 @@ Subway Caveには今回初めて行くので、道が分からず。<br>
 *Subway Cave・虹！と指を指すスミー*<br>
 <br>
 
-![Subway Cave・Subway Caveの上からみた虹！](images/day02-23-subway-cave-7-rainbow.jpeg)
-*Subway Cave・Subway Caveの上からみた虹！*<br>
+![Subway Cave・Subway Caveの上から見た虹！](images/day02-23-subway-cave-7-rainbow.jpeg)
+*Subway Cave・Subway Caveの上から見た虹！*<br>
 <br>
 
-菅野さんはこのまま滑って下に降りるというが、スミーが一生懸命説得して向こう側に渡る。<br>
+菅野さんはこのまま滑って下に降りるというが、スミーが一生懸命説得して、ここからは見えないけど広くなっている方へ回り込んで渡る。<br>
 <br>
 
 ![Subway Cave・菅野さんに歩くポイントを教えるスミー](images/day02-24-subway-cave-8-teach.jpeg)
 *Subway Cave・菅野さんに歩くポイントを教えるスミー*<br>
 <br>
 
-![Subway Cave・後もう少しで広いところに出るよ！](images/day02-25-subway-cave-9-teach.jpeg)
-*Subway Cave・後もう少しで広いところに出るよ！*<br>
+![Subway Cave・あともう少しで広いところに出るよ！](images/day02-25-subway-cave-9-teach.jpeg)
+*Subway Cave・あともう少しで広いところに出るよ！*<br>
 <br>
 
 崖の上で虹が出ているのを見る。<br>
@@ -268,7 +267,7 @@ Sedonaみたいな乾燥しているところで虹が出る？？？<br>
 崖の上の細い道を抜けて反対側の広い場所に出る。<br>
 ちょっと一仕事した感じで、少し座って休み、みんなでとらやの羊羹を食べる。<br>
 
-下りも岩を滑って降りるよりも、こちらの道の方が楽に降りれた。<br>
+下りも岩を滑って降りるよりも、こちらの道の方が楽に降りられた。<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d204.44685308241415!2d-111.8618178741994!3d34.92778363780601!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d7527c331384b%3A0xaab7bda7e6608e44!2sTo%20Subway%20Cave!5e0!3m2!1sja!2sjp!4v1781444404361!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -474,7 +473,7 @@ Bell Rock同様に登らずに下から眺める。<br>
 <br>
 9年ぶりに訪れた儀式屋。<br>
 前回はものすごく面白くてSedonaに滞在中に何度も訪れたお店。<br>
-しっぽとヒスイのブックエンドを買って帰った。<br>
+しっぽとヒスイのブックエンド、オブシディアンの矢尻を買って帰った。<br>
 <br>
 
 ![Clear Creek Trading Company・前回購入したものたち](images/day02-39-clear-creek-bookend.jpeg)
@@ -511,7 +510,7 @@ Bell Rock同様に登らずに下から眺める。<br>
 ナバホ族の伝承では、雲でできた袋に種と虹が入っていたとされ、農業・収穫との結びつきが語られている。<br>
 <br>
 ＜笛の意味＞<br>
-スピリチュアルな・肉体的な癒し、愛、音楽を象徴している。<br>
+スピリチュアルな肉体的な癒し、愛、音楽を象徴している。<br>
 ホピの婚礼の儀式では「ラブフルート（恋の笛）」として使われ、男性が女性の心を引き寄せるために吹いたとされている。<br>
 <br>
 ふたりが結婚すると、男性はその笛を壊し、二度と吹かなかったと伝えられている。<br>
@@ -527,8 +526,8 @@ Bell Rock同様に登らずに下から眺める。<br>
 スミーに「知らん」と言われた・・・<br>
 <br>
 
-![Clear Creek Trading Company・セージのお得パック。日本で買ったものよりこんなに多い！](images/day02-40-clear-creek-sage.jpg)
-*Clear Creek Trading Company・セージのお得パック。ほぼ同じ値段なのに日本で買ったものよりこんなに多い！*<br>
+![Clear Creek Trading Company・セージのお得パック（右）。ほぼ同じ値段なのに日本で買ったもの（左）よりこんなに多い！](images/day02-40-clear-creek-sage.jpg)
+*Clear Creek Trading Company・セージのお得パック（右）。ほぼ同じ値段なのに日本で買ったもの（左）よりこんなに多い！*<br>
 <br>
 <br>
 
@@ -752,5 +751,5 @@ Greentree Inn Sedona → Devil’s Bridge → Subway Cave → Boynton Canyon →
 <br>
 
 ### [【グランドサークル】　旅の初めに](prologue.html)
-### [【グランドサークル】　1日目　羽田 〜 Sedonaへ ](day01.html)
-### [【グランドサークル】　3日目　Sedona 〜 Grand Canyonへ](day03.html)
+### [【グランドサークル】　1日目　羽田 〜 Sedona へ ](day01.html)
+### [【グランドサークル】　3日目　Sedona 〜 Grand Canyon へ](day03.html)
