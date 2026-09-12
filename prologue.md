@@ -53,7 +53,7 @@ Flagstaff<br>
 Grand Canyon / Pima Point<br>
 <br>
 
-### [【グランドサークル】　4日目　Grand Canyon 〜 Pageへ](day04.html)
+### [【グランドサークル】　4日目　Grand Canyon 〜 Page へ](day04.html)
 
 Grand Canyon / Mather Point<br>
 Yavapai Point<br>
@@ -108,7 +108,7 @@ Moabの街歩き<br>
 Homewood Suites by Hilton Moab<br>
 <br>
 
-### [【グランドサークル】　8日目　Moab 〜 Bryce Canyonへ](day08.html) 
+### [【グランドサークル】　8日目　Moab 〜 Bryce Canyon へ](day08.html) 
 
 Homewood Suites by Hilton Moab<br>
 Hwy 128 Scenic Byway<br>
