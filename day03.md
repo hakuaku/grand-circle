@@ -246,7 +246,7 @@ Cathedral Rock のEnd of trailまで来たけど、ぜんぜんendじゃない�
 なんかいいなぁ。そういうの。<br>
 <br>
 駐車場に戻ってきたら、見回りの車がくるくる回っていた。<br>
-駐車場の空き待ちをするのはNational ParkではNGらしく、そういう車がいないから見回りをしているそう。<br>
+駐車場の空き待ちをするのはNational ParkではNGらしく、そういう車がいないか見回りをしているそう。<br>
 空き待ちもできないのは厳しいよね。<br>
 <br>
 
@@ -281,7 +281,7 @@ Cathedral Rock のEnd of trailまで来たけど、ぜんぜんendじゃない�
 *Cathedral Rock ・Sedonaの中心部を走るバス*<br>
 <br>
 
-Sedonaを離れRoute 66 で有名なに向かってドライブ。<br>
+Sedonaを離れRoute 66 で有名なSeligmanに向かってドライブ。<br>
 Sedonaの辺りは、赤土だけじゃなくて緑が多くて、青空とのコントラストも美しくて気持ちがいい。<br>
 <br>
 
@@ -534,8 +534,8 @@ Hopi Point、Mohave Point、Pima Pointを勧められる。<br>
 中でもフロントのお兄さんの個人的なおすすめは、一番奥のPima Pointというので、お勧めのPima Pointへ循環バスで移動。<br>
 <br>
 
-![Grand Canyon ・循環バスのルートを表示した看板](images/day03-68-grand-canyon-bus-signboard.jpeg)
-*Grand Canyon ・循環バスのルートを表示した看板*<br>
+![Grand Canyon ・循環バスのルートを表示した案内板](images/day03-68-grand-canyon-bus-signboard.jpeg)
+*Grand Canyon ・循環バスのルートを表示した案内板*<br>
 <br>
 
 ![Grand Canyon ・Grand Canyon サウスリムのビューポイントを紹介したマップ](images/day03-69-grand-canyon-bus-map.jpeg)
@@ -572,8 +572,8 @@ Pima PointからGrand Canyonに夕日が沈んで行くのを眺める。<br>
 *Grand Canyon ・Grand Canyonに沈んでいく夕日*<br>
 <br>
 
-![Grand Canyon ・Pima Pointの看板](images/day03-74-grand-canyon-pima-signboard.jpeg)
-*Grand Canyon ・Pima Pointの看板*<br>
+![Grand Canyon ・Pima Pointの解説板](images/day03-74-grand-canyon-pima-signboard.jpeg)
+*Grand Canyon ・Pima Pointの解説板*<br>
 <br>
 
 ![Grand Canyon ・赤く染まるGrand Canyon](images/day03-75-grand-canyon-pima-red.jpeg)
