@@ -1,8 +1,9 @@
-# 【グランドサークル】 5日目　 Page 〜 Monument Valleyへ
+# 【グランドサークル】 5日目　 Page 〜 Monument Valle へ
 ###### 2026年4月30日（木）　晴れ
 
 ## 今日はゆっくりスタート
 今日は、Antelope CanyonのLowerとUpperの両方に行く。<br>
+Antelope Canyonは、光線の具合が大きなポイントになるので、太陽がどの位置にあるかで、その価値が大きく変わる。<br>
 ツアーに乗らないと見学できないので、スミーが一番最適な時間帯のツアーを予約してくれた！<br>
 <br>
 ツアー時間に合わせて、珍しくゆっくりめのスタート。<br>
@@ -106,7 +107,7 @@ STOPサインアームが収納され、赤いランプが消えたら発進可�
 *Lower Antelope Canyon・日陰のベンチでツアーに呼ばれるのを待つ*<br>
 <br>
 
-日本人の小さい子供連れた家族が来ていて、すでにツアーが終わって戻ってきたようで、子供が「靴の中に砂が入っちゃったー！」と騒いでいた。<br>
+日本人の小さい子供を連れた家族が来ていて、すでにツアーが終わって戻ってきたようで、子供が「靴の中に砂が入っちゃったー！」と騒いでいた。<br>
 かわいい。<br>
 <br>
 順番が呼ばれたのでエントランスへ。<br>
@@ -249,8 +250,8 @@ Lower Antelope Canyonから車で町まで帰ってきて、今度はお昼のUp
 前回来た時のツアーオフィスの場所から変わっていて、車が停められるか分からないので、まずはSAFEWAYに車を停めて様子を見に行く。<br>
 <br>
 
-![Upper Antelope Canyon・SAFEWAYに車を停めて様子を見にいく](images/day05-20-safeway.jpeg)
-*Upper Antelope Canyon・SAFEWAYに車を停めて様子を見にいく*<br>
+![Upper Antelope Canyon・SAFEWAYに車を停めて様子を見に行く](images/day05-20-safeway.jpeg)
+*Upper Antelope Canyon・SAFEWAYに車を停めて様子を見に行く*<br>
 <br>
 
 SAFEWAYからすぐのところにAntelope Canyon Toursのオフィスを見つけ、車が停められそうなことを確認したのでSAFEWAYから車を移動。<br>
@@ -276,7 +277,7 @@ SAFEWAYからすぐのところにAntelope Canyon Toursのオフィスを見つ�
 <br>
 現地に到着。<br>
 いよいよUpper Antelope Canyonの入口から中へ。<br>
-Antelope Canyonは、元々は女の子が見つけて遊んでいた場所だったらしい。<br>
+Antelope Canyonは、元々はナバホ族の女の子が見つけて遊んでいた場所だったらしい。<br>
 それが今やナバホ族の大きな収入源となる観光地になった。<br>
 <br>
 
@@ -288,8 +289,8 @@ Antelope Canyonは、元々は女の子が見つけて遊んでいた場所だ�
 *Upper Antelope Canyon・バスを降りてツアーの入り口まで歩く*<br>
 <br>
 
-![Upper Antelope Canyon・前回きた時は普通にジープの荷台に乗ってきたけど、今回は冷房付きの車](images/day05-23-upper-antelope-canyon-bus.jpeg)
-*Upper Antelope Canyon・前回きた時は普通にジープの荷台に乗ってきたけど、今回は冷房付きの車*<br>
+![Upper Antelope Canyon・前回来た時は普通にジープの荷台に乗ってきたけど、今回は冷房付きの車](images/day05-23-upper-antelope-canyon-bus.jpeg)
+*Upper Antelope Canyon・前回来た時は普通にジープの荷台に乗ってきたけど、今回は冷房付きの車*<br>
 <br>
 
 ![Upper Antelope Canyon・ツアー入り口、インディージョーンズみたい](images/day05-24-upper-antelope-canyon-entrance.jpeg)
@@ -394,7 +395,7 @@ Lower Antelope Canyonもいいけど、やっぱりこの光の柱の見られ�
 冷房の効いたバスに乗って事務所まで戻る。<br>
 <br>
 
-## Pageの町を後にして、一路Monument Valleyへ
+## Pageの町を後にして、一路Monument Valley へ
 Pageでガソリンを補給して、いざMonument Valleyへ！<br>
 このガソリンスタンドで前回も給油したな〜と思い出す。<br>
 <br>
@@ -577,6 +578,6 @@ Hampton Inn & Suites Page - Lake Powell → Lower Antelope Canyon → Upper Ante
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めに へ](prologue.html)
-### [【グランドサークル】　4日目　Grand Canyon 〜 Pageへ](day04.html)
-### [【グランドサークル】　6日目　Monument Valley 〜 Moabへ](day06.html)
+### [【グランドサークル】　旅の初めに](prologue.html)
+### [【グランドサークル】　4日目　Grand Canyon 〜 Page へ](day04.html)
+### [【グランドサークル】　6日目　Monument Valley 〜 Moab へ](day06.html)
