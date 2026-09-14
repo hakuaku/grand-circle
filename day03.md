@@ -1,4 +1,4 @@
-# 【グランドサークル】3日目　Sedona 〜 Grand Canyonへ
+# 【グランドサークル】3日目　Sedona 〜 Grand Canyon へ
 ###### 2026年4月28日（火）晴れ
 
 ## Cathedral Rockの仏の手の中へ！
