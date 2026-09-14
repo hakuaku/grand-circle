@@ -1,4 +1,4 @@
-# 【グランドサークル】4日目　Grand Canyon 〜 Pageへ
+# 【グランドサークル】4日目　Grand Canyon 〜 Page へ
 ###### 2026年4月29日（水）晴れ
 
 ## Grand Canyonから昇る朝日を見に
@@ -119,7 +119,7 @@ Sedonaとはまた違った大地のすごいエネルギーを感じる。<br>
 *Grand Canyon ・最高の景色*<br>
 <br>
 
-暗い装束の学生の集団がバス2台で来ていた。
+暗い装束の学生の集団がバス2台で来ていた。<br>
 修学旅行？<br>
 <br>
 Yavapai Point近くにあるGeology Museumに立ち寄る。<br>
@@ -158,8 +158,8 @@ Yavapai Pointで遭遇した黒装束軍団が乗るバスがまたいた！<br>
 <br>
 <br>
 
-![Grand Canyon ・Duck on a Rockの看板](images/day04-17-grand-canyon-duck-signboard.jpeg)
-*Grand Canyon ・Duck on a Rockの看板*<br>
+![Grand Canyon ・Duck on a Rockの説明板](images/day04-17-grand-canyon-duck-signboard.jpeg)
+*Grand Canyon ・Duck on a Rockの説明板*<br>
 <br>
 
 ![Grand Canyon ・Duck on a Rock](images/day04-18-grand-canyon-duck-view.jpeg)
@@ -204,8 +204,8 @@ Yavapai Pointで遭遇した黒装束軍団が乗るバスがまたいた！<br>
 Lipan Point、Navajo Pointと見て回る。<br>
 <br>
 
-![Grand Canyon ・Lipan Pointの看板](images/day04-23-grand-canyon-lipan-signboard.jpeg)
-*Grand Canyon ・Lipan Pointの看板*<br>
+![Grand Canyon ・Lipan Pointの説明板](images/day04-23-grand-canyon-lipan-signboard.jpeg)
+*Grand Canyon ・Lipan Pointの説明板*<br>
 <br>
 
 ![Grand Canyon ・影がないGrand Canyon](images/day04-24-grand-canyon-lipan.jpeg)
@@ -281,15 +281,15 @@ Grand Canyon National Park South Rimを出るところにゲートのネーム�
 撮ってあげたかったけど、なんて声をかけたらいいのか分からなくて声がかけられなかった…
 とても残念。<br>
 <br>
-バイク乗りの集団の記念撮影が終わってから、看板の写真を撮る。<br>
+バイク乗りの集団の記念撮影が終わってから、ゲートの写真を撮る。<br>
 <br>
 
 ![Grand Canyon ・バイク乗りの集団に声がかけられない私](images/day04-29-grand-canyon-signboard.JPG)
 *Grand Canyon ・バイク乗りの集団に声がかけられない私*<br>
 <br>
 
-![Grand Canyon ・National Parkの看板](images/day04-30-grand-canyon-signboard.jpeg)
-*Grand Canyon ・National Parkの看板*<br>
+![Grand Canyon ・National Parkのゲート](images/day04-30-grand-canyon-signboard.jpeg)
+*Grand Canyon ・National Parkのゲート*<br>
 <br>
 
 しばらく走ると地球の割れ目みたいな景色が現れる。<br>
@@ -474,8 +474,8 @@ Navajo Tacoを頼んでいたら、チーズが入ってるからスミーは食
 *Historic Navajo Bridge ・Historic Navajo Bridge 全景*<br>
 <br>
 
-![Historic Navajo Bridge ・説明看板](images/day04-48-navajo-bridge-signboard.jpeg) 
-*Historic Navajo Bridge ・説明看板*<br>
+![Historic Navajo Bridge ・説明板](images/day04-48-navajo-bridge-signboard.jpeg) 
+*Historic Navajo Bridge ・説明板*<br>
 <br>
 
 ![Historic Navajo Bridge ・なんて空が広いのだろうか](images/day04-49-navajo-bridge-sky.jpeg) 
@@ -595,7 +595,7 @@ Horseshoe BendとAntelope Canyonを観光資源に、Pageの街がどんどん�
 <br>
 <br>
 夕食は、もはや定番となったサラダとチキン。
-菅野さんは脚の指のマメ対策で、テーピングなどを購入。<br>
+菅野さんは足の指のマメ対策で、テーピングなどを購入。<br>
 足がかなりつらい。<br>
 <br>
 スミーは風邪がかなり悪化。<br>
@@ -625,7 +625,7 @@ SAFEWAYのあとに、お土産探索にWalmartへ。<br>
 私の洗濯物が多すぎて、私だけ別の洗濯機で。<br>
 洗濯機もカード決済だけど、スミーのカードが使えず、私のカードが使えたので、お洗濯開始。<br>
 <br>
-スミーの部屋に戻って部屋のみ開始。<br>
+スミーの部屋に戻って部屋飲み開始。<br>
 まったく缶を振ってないのに、ギネスを開けたら泡が吹き出る。<br>
 なんで？！<br>
 <br>
@@ -674,6 +674,6 @@ Grand Canyon Maswik Lodge → Grand Canyon / Mather Point → Yavapai Point → 
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めに へ](prologue.html)
-### [【グランドサークル】　3日目　Sedona 〜 Grand Canyonへ](day03.html)
+### [【グランドサークル】　旅の初めに](prologue.html)
+### [【グランドサークル】　3日目　Sedona 〜 Grand Canyon へ](day03.html)
 ### [【グランドサークル】　5日目　Page 〜 Monument Valley へ](day05.html)
