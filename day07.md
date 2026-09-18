@@ -392,7 +392,7 @@ Navajo Archの隣にあるPartition Arch。<br>
 <br>
 <br>
 <br>
-![Devils Garden Trail・トレイルの帰り道。どうやって登ってきたんだっけ？](images/day07-40-devils-garden-trail-return.JPG)
+![Devils Garden Trail・トレイルの帰り道。どうやって登ってきたんだっけ？](images/day07-40-devils-garden-trail-return.jpeg)
 *Devils Garden Trail・トレイルの帰り道。どうやって登ってきたんだっけ？*<br>
 <br>
 
