@@ -1,4 +1,4 @@
-#  【グランドサークル】 6日目　 Monument Valley 〜 Moabへ 
+#  【グランドサークル】 6日目　 Monument Valley 〜 Moab へ 
 ###### 2026年5月1日（金）晴れ
 
 ## 今日も朝日からスタート
@@ -54,7 +54,7 @@ Monument Valley 内のビュートの間を縫うようにダート道を自分�
 ダート道で車が揺れるので、後ろでスーツケースが動く。動く。<br>
 私のセージが潰れて粉々になるのではないかと気が気ではなかった。<br>
 <br>
-撮影ポイントに止まりながら進む。<br>
+撮影ポイントに停まりながら進む。<br>
 今まで見ていた高い場所からではなく、ビュートの足元と同じ高さから見上げるビュートは、すごい迫力。<br>
 <br>
 ### West Mitten 
@@ -167,7 +167,7 @@ The View Hotel内にあるお土産物店内を見て回る。<br>
 <br>
 
 ## 映画「Forrest Gump」のラストシーンはここ！
-Monument Valleyを出発し、ところどころの撮影ポイントに止まりながらForrest Gump Pointへ。<br>
+Monument Valleyを出発し、ところどころの撮影ポイントに停まりながらForrest Gump Pointへ。<br>
 Monument Valleyともお別れ。<br>
 <br>
 Forrest Gump Pointに着いて驚いたのは、前回とは違って整備されていて、ちゃんとForrest Gump Pointという標識が出ていること。<br>
@@ -268,7 +268,7 @@ Mexican Hat Rockの方まで、今まで走ってきたところ全体を見渡�
 <br>
 
 ## あっちもこっちもアーチだらけのNatural Bridges
-Moabへ行く最後の寄り道 Natural Bridges National Monument。<br>
+Moabへ行く途中のNatural Bridges National Monument。<br>
 Natural Bridges National Monument Visitor Centerに寄ると、ビジターセンターの入り口で望遠鏡を覗いているレンジャーがいて、私たちにも望遠鏡を覗かせてくれた。<br>
 <br>
 
@@ -281,14 +281,14 @@ Natural Bridges National Monument Visitor Centerに寄ると、ビジターセ�
 <br>
 <br>
 太陽を見せてくれたみたいなんだけど、よく分からない。<br>
-レンジャーに、夜は真っ暗で星が本当にキレイだから観においでと誘われるけど、Moabからは遠くて来られないなー。<br>
+レンジャーに、夜は真っ暗で星が本当にキレイだから観においでと誘われたけど、Moabからは遠くて来られないなー。<br>
 でもこの辺りは本当に真っ暗になりそうだから、ものすごく星がキレイなんだろうな〜と思う。<br>
 <br>
-ビジターセンターで、お土産を見て回ってからアーチを見にトレッキング。<br>
+ビジターセンターで、お土産を見て回ってからアーチを観にトレッキング。<br>
 <br>
 
-![Natural Bridges・アーチを見にいく](images/day06-27-natural-bridges-walk.jpeg)
-*Natural Bridges・アーチを見にいく*<br>
+![Natural Bridges・アーチを観にいく](images/day06-27-natural-bridges-walk.jpeg)
+*Natural Bridges・アーチを観にいく*<br>
 <br>
 
 ### Sipaqu Bridge
@@ -297,16 +297,16 @@ Sipapu Bridge を遠くから眺める。<br>
 Sipapu Bridge Trailを行くとアーチの下まで行けるらしい。<br>
 <br>
 
-![Natural Bridges・Sipapu Bridgeの看板](images/day06-28-natural-bridges-sipapu-signboard.jpeg)
-*Natural Bridges・Sipapu Bridgeの看板*<br>
+![Natural Bridges・Sipapu Bridgeの説明板](images/day06-28-natural-bridges-sipapu-signboard.jpeg)
+*Natural Bridges・Sipapu Bridgeの説明板*<br>
 <br>
 
 ![Natural Bridges・遠くにSipapu Bridgeが見える](images/day06-29-natural-bridges-sipapu.jpeg)
 *Natural Bridges・遠くにSipapu Bridgeが見える*<br>
 <br>
 
-![Natural Bridges・Sipapu Bridge Trailの看板](images/day06-30-natural-bridges-sipapu-trail-signboard.jpeg)
-*Natural Bridges・Sipapu Bridge Trailの看板*<br>
+![Natural Bridges・Sipapu Bridge Trailの案内板](images/day06-30-natural-bridges-sipapu-trail-signboard.jpeg)
+*Natural Bridges・Sipapu Bridge Trailの案内板*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17943.69758399674!2d-110.03521842639269!3d37.600907193229794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8737a0e51a58d1e3%3A0xa78026558df7eedc!2sSipapu%20Bridge!5e0!3m2!1sja!2sjp!4v1784532607780!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -319,8 +319,8 @@ Horsecollar House Overlookから見える岩の下のところに小さい穴が
 けど遠すぎてよく分からない。<br>
 <br>
 
-![Natural Bridges・Horsecollar House Overlookの看板](images/day06-31-natural-bridges-horsecallar-house-signboard.jpeg)
-*Natural Bridges・Horsecollar House Overlookの看板*<br>
+![Natural Bridges・Horsecollar House Overlookの案内板](images/day06-31-natural-bridges-horsecallar-house-signboard.jpeg)
+*Natural Bridges・Horsecollar House Overlookの案内板*<br>
 <br>
 
 ![Natural Bridges・Horsecollar Houseがどこにあるのかさっぱりわからない](images/day06-32-natural-bridges-horsecallar-house.jpeg)
@@ -328,17 +328,17 @@ Horsecollar House Overlookから見える岩の下のところに小さい穴が
 <br>
 
 ### Kachina Bridge
-Kachina Bridgeを遠くから見る。<br>
+Kachina Bridgeを遠くから観る。<br>
 Kachinaは、ホピ族の精霊。<br>
 長い時の流れとともに岩が侵食されて、こんなにもアーチがたくさんできるんだと驚く。<br>
 <br>
 
-![Natural Bridges・Kachina Bridgeの看板](images/day06-33-natural-bridges-kachina.jpeg)
-*Natural Bridges・Kachina Bridgeの看板*<br>
+![Natural Bridges・Kachina Bridgeの案内板](images/day06-33-natural-bridges-kachina.jpeg)
+*Natural Bridges・Kachina Bridgeの案内板*<br>
 <br>
 
-![Natural Bridges・Kachina Bridgeの看板](images/day06-34-natural-bridges-kachina-signboard.jpeg)
-*Natural Bridges・Kachina Bridgeの看板*<br>
+![Natural Bridges・Kachina Bridgeの説明板](images/day06-34-natural-bridges-kachina-signboard.jpeg)
+*Natural Bridges・Kachina Bridgeの説明板*<br>
 <br>
 
 ![Natural Bridges・Kachina Bridge](images/day06-35-natural-bridges-kachina-bridge.jpeg)
@@ -354,12 +354,12 @@ Kachinaは、ホピ族の精霊。<br>
 Owachomo Bridgeは、かなり大きなブリッジ。<br>
 <br>
 
-![Natural Bridges・Owachomo Bridgeの看板](images/day06-36-natural-bridges-owachomo-signboard.jpeg)
-*Natural Bridges・Owachomo Bridgeの看板*<br>
+![Natural Bridges・Owachomo Bridgeの案内板](images/day06-36-natural-bridges-owachomo-signboard.jpeg)
+*Natural Bridges・Owachomo Bridgeの案内板*<br>
 <br>
 
-![Natural Bridges・Owachomo Bridgeの看板](images/day06-37-natural-bridges-owachomo-signboard.jpeg)
-*Natural Bridges・Owachomo Bridgeの看板*<br>
+![Natural Bridges・Owachomo Bridgeの説明板](images/day06-37-natural-bridges-owachomo-signboard.jpeg)
+*Natural Bridges・Owachomo Bridgeの説明板*<br>
 <br>
 
 岩の間から生えている木や草の生命力の強さに驚く。<br>
@@ -441,7 +441,7 @@ Moabに向かう途中の町 Blandingにある洗車場で、Monument Valley Sce
 <br>
 
 ガソリンスタンドの脇にあるセブンイレブンへ。<br>
-喉が痛いので飴が売ってないから探しに行ったけど、日本のように飴玉は売っておらず。<br>
+喉が痛いので飴が売ってないか探しに行ったけど、日本のように飴玉は売っておらず。<br>
 <br>
 大谷選手がひまわりの種を食べているので、どんなものか買ってみる。<br>
 あとは、お土産になりそうなスニッカーズなどのお菓子も購入。<br>
@@ -457,12 +457,12 @@ Moabに向かう途中の町 Blandingにある洗車場で、Monument Valley Sce
 *Grand View Point・Grand View Pointへ歩く*<br>
 <br>
 
-![Grand View Point・Grand View Pointの看板](images/day06-48-grand-view-point-signboard.jpeg)
-*Grand View Point・Grand View Pointの看板*<br>
+![Grand View Point・Grand View Pointの説明板](images/day06-48-grand-view-point-signboard.jpeg)
+*Grand View Point・Grand View Pointの説明板*<br>
 <br>
 
-![Grand View Point・Grand View Pointの看板](images/day06-49-grand-view-point-signboard.jpeg)
-*Grand View Point・Grand View Pointの看板*<br>
+![Grand View Point・Grand View Pointの説明板](images/day06-49-grand-view-point-signboard.jpeg)
+*Grand View Point・Grand View Pointの説明板*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d399384.5683147934!2d-109.89805012293735!3d38.55239132954354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87481e82f0acbc8b%3A0xb1c8dd0309e56859!2zR3JhbmQgVmlldyBQb2ludCBUcmFpbCwgVXRhaCA4NDUzMiDjgqLjg6Hjg6rjgqvlkIjooYblm70!5e0!3m2!1sja!2sjp!4v1784533025050!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -575,7 +575,7 @@ The View Hotel → Monument Valley Scenic Road Drive / Elephant Butte → Three 
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　旅の初めに](prologue.html)
 ### [【グランドサークル】　5日目　Page 〜 Monument Valley へ](day05.html)
 ### [【グランドサークル】　7日目　Moab 〜 Arches National Park へ](day07.html)
 
