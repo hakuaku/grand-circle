@@ -56,8 +56,8 @@ Arches National Park のビジターセンターを通り越し、坂道をグ�
 <br>
 <br>
 
-![Delicate Arch・Delicate Arch Trailの看板](images/day07-01-delicate-arch-morning.jpeg)
-*Delicate Arch・Delicate Arch Trailの看板*<br>
+![Delicate Arch・Delicate Arch Trailの説明板](images/day07-01-delicate-arch-morning.jpeg)
+*Delicate Arch・Delicate Arch Trailの説明板*<br>
 <br>
 
 ![Delicate Arch・トレッキングスタート](images/day07-02-delicate-arch-start.jpeg)
@@ -105,7 +105,7 @@ Arches National Park のビジターセンターを通り越し、坂道をグ�
 Delicate Archの下で写真を撮る人の順番待ちの列に並ぶ。<br>
 菅野さんと2人でスミーに写真を撮ってもらう。<br>
 最近はどこも、みんなちゃんと並ぶのね。<br>
-前回は誰も並んでなかったけど、これもSNSの発達と映えの重視がもたらした効果かな。<br>
+今までどこも誰も並んでなかったけど、これもSNSの発達と映えの重視がもたらした効果かな。<br>
 <br>
 
 ![Delicate Arch・Delicate Archの前で](images/day07-09-delicate-arch-2p.jpeg)
@@ -180,8 +180,8 @@ Delicate Archを見た後だったので、駐車場が厳しいかと思った�
 ホテルでもらったオレンジ、バナナ、リンゴを背負って出発！<br>
 <br>
 
-![Devils Garden Trail・Devils Garden Trailの看板](images/day07-14-devils-garden-trail-signboard.jpeg)
-*Devils Garden Trail・Devils Garden Trailの看板*<br>
+![Devils Garden Trail・Devils Garden Trailの案内板](images/day07-14-devils-garden-trail-signboard.jpeg)
+*Devils Garden Trail・Devils Garden Trailの案内板*<br>
 <br>
 
 ![Devils Garden Trail・Devils Gardenの壁がどうやってできたか](images/day07-15-devils-garden-trail-signboard.jpeg)
@@ -464,8 +464,8 @@ Tunnel Archの終点まで辿り着いて、どれ？あれ？となった。<br
 もうアーチを見すぎて、何が何だか分からなくなる。<br>
 <br>
 
-![Fiery Furnace Viewpoint Trail・Fiery Furnace Viewpoint Trailの看板](images/day07-47-fiery-furnace-trail-signboard.jpeg)
-*Fiery Furnace Viewpoint Trail・Fiery Furnace Viewpoint Trailの看板*<br>
+![Fiery Furnace Viewpoint Trail・Fiery Furnace Viewpoint Trailの案内板](images/day07-47-fiery-furnace-trail-signboard.jpeg)
+*Fiery Furnace Viewpoint Trail・Fiery Furnace Viewpoint Trailの案内板*<br>
 <br>
 
 ![Fiery Furnace Viewpoint Trail・Fiery Furnace Viewpointからの景色](images/day07-48-fiery-furnace-view.jpeg)
@@ -490,8 +490,8 @@ The Windows Trailの駐車場に車を停めて、Double Arch Viewpoint and Trai
 *Double Arch Viewpoint and Trail・駐車場からもDouble Archが見える*<br>
 <br>
 
-![Double Arch Viewpoint and Trail・Double Arch Trailの看板](images/day07-50-double-arch-trail-signboard.jpeg)
-*Double Arch Viewpoint and Trail・Double Arch Trailの看板*<br>
+![Double Arch Viewpoint and Trail・Double Arch Trailの案内板](images/day07-50-double-arch-trail-signboard.jpeg)
+*Double Arch Viewpoint and Trail・Double Arch Trailの案内板*<br>
 <br>
 
 ![Double Arch Viewpoint and Trail・Double Archを目指して歩く歩く](images/day07-51-double-arch-trail-walk.jpeg)
@@ -529,8 +529,8 @@ The Windows Trailの駐車場に車を停めて、Double Arch Viewpoint and Trai
 *Double Arch Viewpoint and Trail・Double Archの反対側の眺め*<br>
 <br>
 
-![Double Arch Viewpoint and Trail・あ、スミーがいた](images/day07-56-double-arch-summy.jpeg)
-*Double Arch Viewpoint and Trail・あ、スミーがいた*<br>
+![Double Arch Viewpoint and Trail・あ、スミーがいた！](images/day07-56-double-arch-summy.jpeg)
+*Double Arch Viewpoint and Trail・あ、スミーがいた！*<br>
 <br>
 
 ![Double Arch Viewpoint and Trail・スミーから見た私](images/day07-57-double-arch-atsuko.JPG)
@@ -544,8 +544,8 @@ Double Arch Viewpoint and Trailと駐車場を挟んで反対側にあるThe Win
 菅野さんがそれならみんなで行こうとTrailを歩き出す。<br>
 <br>
 
-![The Windows Trail・The Windows Trailの看板](images/day07-58-windows-trail-signboard.jpeg)
-*The Windows Trail・The Windows Trailの看板*<br>
+![The Windows Trail・The Windows Trailの案内板](images/day07-58-windows-trail-signboard.jpeg)
+*The Windows Trail・The Windows Trailの案内板*<br>
 <br>
 <br>
 
@@ -594,19 +594,19 @@ North WindowとSouth Windowが並んで眼鏡橋のよう。<br>
 
 ### Turret Arch
 Turret ArchからDouble Archの方まで見渡せる。<br>
-アーチの窓から見える景色の方角が違うので面白い。<br>
+アーチの窓から見える景色の方角が、North Window ArchとSouth Window Archと違うので面白い。<br>
 <br>
 
 ![The Windows Trail・Turret Arch](images/day07-63-windows-trail-turret-arch.jpeg)
 *The Windows Trail・Turret Arch*<br>
 <br>
 
-Turret Archをくぐって反対側に出て振り返ると、North WindowとSouth Windowが見える。<br>
+Turret Archをくぐって反対側に出て振り返ると、North Window ArchとSouth Window Archが見える。<br>
 アーチの中にアーチが見えるのが面白い。<br>
 <br>
 
-![The Windows Trail・Turret Archの窓から見たNorth WindowとSouth Window](images/day07-64-windows-trail-turret-in-double-windows.jpeg)
-*The Windows Trail・Turret Archの窓から見たNorth WindowとSouth Window*<br>
+![The Windows Trail・Turret Archの窓から見たNorth Window ArchとSouth Window Arch](images/day07-64-windows-trail-turret-in-double-windows.jpeg)
+*The Windows Trail・Turret Archの窓から見たNorth Window ArchとSouth Window Arch*<br>
 <br>
 
 ![The Windows Trail・Turret Archからの眺め](images/day07-65-windows-trail-turret-arch-view.jpeg)
@@ -640,8 +640,8 @@ Balanced Rockは、宇宙人が上から石を置いたとしか思えないよ�
 *Balanced Rock・宇宙人のいたずらとしか思えない*<br>
 <br>
 
-![Balanced Rock・Balanced Rock Trailの看板](images/day07-67-balanced-rock-signboard.jpeg)
-*Balanced Rock・Balanced Rock Trailの看板*<br>
+![Balanced Rock・Balanced Rock Trailの案内板](images/day07-67-balanced-rock-signboard.jpeg)
+*Balanced Rock・Balanced Rock Trailの案内板*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2137.792630304018!2d-109.56707196282657!3d38.70213512657379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8747df5e8ad2193b%3A0xe8aefa887051bea8!2z44OQ44Op44Oz44K544O744Ot44OD44Kv!5e0!3m2!1sja!2sjp!4v1784540554818!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -682,8 +682,8 @@ Horseshoe Bendと同じようなコロラド川の蛇行（ひの字）が見ら
 遥か昔は川からの恩恵を得るとともに、氾濫したらすごいことになっていたのだろうと思う。<br>
 <br>
 
-![Dead Horse Point・Dead Horse Point Trailの看板](images/day07-71-dead-horse-point-panel.jpeg)
-*Dead Horse Point・Dead Horse Point Trailの看板*<br>
+![Dead Horse Point・Dead Horse Point Trailの案内板](images/day07-71-dead-horse-point-panel.jpeg)
+*Dead Horse Point・Dead Horse Point Trailの案内板*<br>
 <br>
 
 岩と岩の間の割れ目から木や草花が生えているのを見つける。<br>
@@ -748,6 +748,6 @@ Homewood Suites by Hilton Moab → Delicate Arch → Devils Garden Trail → Dou
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めに へ](prologue.html)
-### [【グランドサークル】　6日目　Monument Valley 〜 Moabへ](day06.html)
-### [【グランドサークル】　8日目　Moab 〜 Bryce Canyonへ](day08.html)
+### [【グランドサークル】　旅の初めに](prologue.html)
+### [【グランドサークル】　6日目　Monument Valley 〜 Moab へ](day06.html)
+### [【グランドサークル】　8日目　Moab 〜 Bryce Canyon へ](day08.html)
