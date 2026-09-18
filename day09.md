@@ -521,7 +521,7 @@ Las Vegasの看板の写真を撮るために、順番待ちしている人の�
 *Las Vegas・今夜の夕食待ち*<br>
 <br>
 
-![Las Vegas・In-n-Out Burgerのバーガーセットはお手頃価格。私のはチーズバーガーセット](images/day09-64-las-vegas-in-n-out-burger-set.jpeg)
+![Las Vegas・In-n-Out Burgerのバーガーセットはお手頃価格。私のはチーズバーガーセット](images/day09-64-las-vegas-in-n-out-burger-set.jpg)
 *Las Vegas・In-n-Out Burgerのバーガーセットはお手頃価格。私のはチーズバーガーセット*<br>
 <br>
 
