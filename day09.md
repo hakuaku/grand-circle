@@ -1,7 +1,7 @@
-#  【グランドサークル】 9日目　 Bryce Canyon 〜 Las Vegasへ 
+#  【グランドサークル】 9日目　 Bryce Canyon 〜 Las Vegas へ 
 ###### 2026年5月4日（月）曇り
 
-## Bryce Canyonの朝焼けを見に
+## Bryce Canyonの朝焼けを観に
 今日ももちろん朝日を見に行くぞということで6:00出発。<br>
 まだ暗いうちにInspiration Pointの駐車場まで移動。<br>
 お天気のせいもあるかもしれないけど、まだ2〜３台しか来ていない。<br>
@@ -52,10 +52,10 @@ Bryce Canyon に太陽の光が当たるとすごくキレイなんだけど。<
 一度ホテルに戻って朝食。<br>
 昨晩ステーキを食べたホテル内のCowboy’s Buffetで３人でゆっくり朝食を摂る。<br>
 <br>
-今回の旅でゆっくりちゃんと朝食を取るのは初めて。<br>
+今回の旅でゆっくりちゃんと朝食を取るのはこれが初めて。<br>
 コーヒーまでいただく。<br>
 <br>
-食事を終えて部屋に戻る頃には青空が出ている。<br>
+食事を終えて部屋に戻るころには青空が出ている。<br>
 <br>
 
 ![Bryce Canyon・今回泊まったホテルのロッジ ２階のお部屋だった](images/day09-08-rubys-inn-lodge.jpeg)
@@ -127,7 +127,7 @@ Juliet’s balconyを菅野さんと覗きに行く。<br>
 *Bryce Canyon・お城みたい*<br>
 <br>
 
-前回もだったけど、今回もNavajo Loop TrailのWall Streetはクローズしていて行かれない。<br>
+前回もだったけど、今回もNavajo Loop TrailのWall Streetはクローズしていて行かれなかった。<br>
 <br>
 朝日の時よりも晴れて太陽が出ていて暑い。<br>
 トレイルの途中にある雷神のハンマーも前回同様に健在。<br>
@@ -234,7 +234,7 @@ Navajo Loop Trailの一番下までいって引き返してくる。<br>
 *Bryce Canyon・Ruby’s Innのロビー*<br>
 <br>
 
-ホテルを出発する前に、ホテルの入口にある靴の砂を取るブラシでスミーが靴の砂を取る。<br>
+ホテルを出発する前に、ホテルの入り口にある靴の砂を取るブラシでスミーが靴の砂を取る。<br>
 <br>
 
 ![Bryce Canyon・スミーが靴の掃除](images/day09-36-rubys-inn-shoes-cleaning.jpeg)
@@ -246,9 +246,15 @@ Navajo Loop Trailの一番下までいって引き返してくる。<br>
 <br>
 
 車でBryce Canyon National Park Visitor Center へ移動し、お土産などのグッズを見る。<br>
+<br>
+
+![Bryce Canyon・Visitor Center ](images/day09-39-bryce-canyon-visitor-center.jpeg)
+*Bryce Canyon・Visitor Center*<br>
+<br>
+
 Monument Valleyでできなかったペニーコインを潰して作る記念硬貨の機械がここにあったのでやってみることに。<br>
 いろんな絵柄が、ガチャガチャ方式でどれに当たるかわからない。<br>
-私があったのはこれ！<br>
+私があたったのはこれ！<br>
 <br>
 
 ![Bryce Canyon・ペニーコインの記念硬貨 ](images/day09-38-bryce-canyon-visitor-center-coin.jpg)
@@ -257,9 +263,9 @@ Monument Valleyでできなかったペニーコインを潰して作る記念�
 
 しかし・・・硬貨を潰しちゃっていいのかしら？と思う。<br>
 <br>
-
-![Bryce Canyon・Visitor Center ](images/day09-39-bryce-canyon-visitor-center.jpeg)
-*Bryce Canyon・Visitor Center*<br>
+Bryce Canyonともこれでお別れ。<br>
+あっという間だった。<br>
+お天気が今ひとつだったのが残念。<br>
 <br>
 
 ![Bryce Canyon・Bryce Canyonのゲート](images/day09-40-bryce-canyon-gate.jpeg)
@@ -282,7 +288,7 @@ Hwy 15 Kanarraville South Rest Areaでトイレ休憩。<br>
 <br>
 <br>
 <br>
-レストエリア内のテーブルとベンチで、サンドイッチを作って、オレンジジュースとランチ。
+レストエリア内のテーブルとベンチで、サンドイッチを作って、オレンジジュースとランチ。<br>
 私たちもすっかりアメリカ人の感覚になった（笑）<br>
 風が強くて寒くて、さっさと食べて車に戻る。<br>
 <br>
@@ -351,8 +357,8 @@ Kolob Canyons Visitor Centerに立ち寄る。<br>
 Taylor Creek Trailの途中にある小屋くらいまで行くと自然も岩も楽しめるとアドバイスされたので、まずはその小屋を目指して歩くことにする。<br>
 <br>
 
-![Zion National Park・Taylor Creek Trailの看板 ](images/day09-48-kolob-canyons-taylor-creek-trail-panel.jpeg)
-*Zion National Park・Taylor Creek Trailの看板*<br>
+![Zion National Park・Taylor Creek Trailの案内板 ](images/day09-48-kolob-canyons-taylor-creek-trail-panel.jpeg)
+*Zion National Park・Taylor Creek Trailの案内板*<br>
 <br>
 
 --- 
@@ -419,7 +425,7 @@ Trail Endまでたどり着いたら、大きな洞窟のようなところで�
 <br>
 <br>
 <br>
-帰り道で、トレイルの往路で見つけられなかった一つ目のキャビン Larson Cabinを見つける。<br>
+帰り道で、トレイルの往路で見つけられなかった1つ目のキャビン Larson Cabinを見つける。<br>
 <br>
 
 ![Zion National Park・Larson Cabin ](images/day09-54-kolob-canyons-taylor-creek-trail-larson-cabin.jpeg)
@@ -448,7 +454,7 @@ Hwy 15で砂漠地帯を抜けてLas Vegasへ。<br>
 ものすごい日差しで眩しくて、車に乗ってても帽子をかぶる。<br>
 これじゃぁ、コロラド川も干上がるよね。と思う。<br>
 <br>
-Las Vegasに着く頃にはすっかり日も落ちかけていた。<br>
+Las Vegasに着くころにはすっかり日も落ちかけていた。<br>
 ハイウェイを降りたら、いきなり車線が５車線くらいになっていて、車の量がものすごく多い。<br>
 今までの田舎道とは全然違って、とにかく怖い。<br>
 <br>
@@ -532,7 +538,7 @@ Las Vegasの看板の写真を撮るために、順番待ちしている人の�
 <br>
 <br>
 <br>
-ホテルへ行く途中のガソリンスタンドで給油。
+ホテルへ行く途中のガソリンスタンドで給油。<br>
 翌朝、早朝にレンタカーを返却するので、前の晩のうちに。<br>
 <br>
 Tru by Hilton Las Vegas Airportにチェックイン。<br>
@@ -576,7 +582,7 @@ Best Western Plus Ruby’s Inn → Bryce Canyon Inspiration Point → Sunset Poi
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めに へ](prologue.html)
-### [【グランドサークル】　8日目　Moab 〜 Bryce Canyonへ](day08.html)
-### [【グランドサークル】　10日目　Las Vegas 〜 羽田へ](day10.html)
+### [【グランドサークル】　旅の初めにへ](prologue.html)
+### [【グランドサークル】　8日目　Moab 〜 Bryce Canyon へ](day08.html)
+### [【グランドサークル】　10日目　Las Vegas 〜 羽田 へ](day10.html)
 
