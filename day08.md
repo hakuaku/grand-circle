@@ -1,4 +1,4 @@
-#  【グランドサークル】 8日目　 Moab 〜 Bryce Canyonへ 
+#  【グランドサークル】 8日目　 Moab 〜 Bryce Canyon へ 
 ###### 2026年5月3日（日）薄曇り／晴れ
 
 ## いよいよ旅も終盤
@@ -31,8 +31,8 @@ Sandy Beachで車を停めて川岸まで降りる。<br>
 *Hwy 128 Scenic Byway・Sandy Beach スミーと菅野さんの小ささでスケールが分かる*<br>
 <br>
 
-![Hwy 128 Scenic Byway・Sandy Beachの看板](images/day08-03-hwy128-sandy-beach-panel.jpeg)
-*Hwy 128 Scenic Byway・Sandy Beachの看板*<br>
+![Hwy 128 Scenic Byway・Sandy Beachの案内板](images/day08-03-hwy128-sandy-beach-panel.jpeg)
+*Hwy 128 Scenic Byway・Sandy Beachの案内板*<br>
 <br>
 
 今日は少し雲が出ていて日差しはキツくないけど、写真的に残念。<br>
@@ -132,12 +132,12 @@ Dewey Bridge（デューイ橋）は、アメリカ・ユタ州グランド郡�
 
 <br>
 <br>
-オールド・シスコ・ハイウェイとぶつかるT字路の角にあるHwy 128 Scenic Bywayの看板の写真を撮る。<br>
+オールド・シスコ・ハイウェイとぶつかるT字路の角にあるHwy 128 Scenic Bywayの説明板の写真を撮る。<br>
 ここでScenic Bywayも終わり。<br>
 <br>
 
-![Hwy 128 Scenic Byway・劣化しすぎて何もわからない看板(images/day08-08-hwy128-panel.jpeg)
-*Hwy 128 Scenic Byway・劣化しすぎて何もわからない看板*<br>
+![Hwy 128 Scenic Byway・劣化しすぎて何もわからない説明板(images/day08-08-hwy128-panel.jpeg)
+*Hwy 128 Scenic Byway・劣化しすぎて何もわからない説明板*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7983.060668344921!2d-109.35854143763756!3d38.9495354692348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8747cd921f2e5be3%3A0x660a259af5da80d8!2sHwy%20128%20Scenic%20Byway!5e0!3m2!1sja!2sjp!4v1784541072195!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -153,7 +153,7 @@ Hwy 128を進むとたくさんのビュートや岩山が続く。<br>
 *Hwy 128・ビュート製造工場*<br>
 <br>
 
-これを見ていると昨日見たBalanced Rockも、決して宇宙人がのせて行った石じゃないんだなということがわかる。<br>
+これを見ていると昨日見たBalanced Rockも、決して宇宙人が乗せた石じゃないんだなということがわかる。<br>
 自然って本当にすごい。<br>
 <br>
 <br>
@@ -409,7 +409,7 @@ Bryce CanyonのBest Western Plus Ruby’s Innに到着してチェックイン�
 *Bryce Canyon・Best Western Plus Ruby’s Innのジェネラルストア*<br>
 <br>
 
-ホテルの入口のところに、靴の隙間に入った土や砂をかき出すブラシがあってかなり優秀。<br>
+ホテルの入り口のところに、靴の隙間に入った土や砂をかき出すブラシがあってかなり優秀。<br>
 靴の土や砂を落としたら、本当に結構キレイになる。<br>
 <br>
 コルベットの集団が泊まりにきているようで、敷地内の駐車場には信じられない数のコルベットが停められている。<br>
@@ -494,6 +494,6 @@ Homewood Suites by Hilton Moab → Hwy 128 Scenic Byway → Sandy Beach → Prof
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めに へ](prologue.html)
+### [【グランドサークル】　旅の初めに](prologue.html)
 ### [【グランドサークル】　7日目　Moab 〜 Arches National Park へ](day07.html)
 ### [【グランドサークル】　9日目　Bryce Canyon 〜 Las Vegas へ](day09.html)
