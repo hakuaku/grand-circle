@@ -112,8 +112,8 @@ Delicate Archの下で写真を撮る人の順番待ちの列に並ぶ。<br>
 *Delicate Arch・Delicate Archの前で*<br>
 <br>
 
-![Delicate Arch・ここだけアーチがのこるのがすごい。いつか崩れそうだ](images/day07-10-delicate-arch.jpeg)
-*Delicate Arch・ここだけアーチがのこるのがすごい。いつか崩れそうだ*<br>
+![Delicate Arch・ここだけアーチが残るのがすごい。いつか崩れそうだ](images/day07-10-delicate-arch.jpeg)
+*Delicate Arch・ここだけアーチが残るのがすごい。いつか崩れそうだ*<br>
 <br>
 
 ![Delicate Arch・帰りの崖道](images/day07-11-delicate-arch-trail-return.jpeg)
@@ -602,16 +602,16 @@ Turret ArchからDouble Archの方まで見渡せる。<br>
 *The Windows Trail・Turret Arch*<br>
 <br>
 
+![The Windows Trail・Turret Archからの眺め](images/day07-65-windows-trail-turret-arch-view.jpeg)
+*The Windows Trail・Turret Archからの眺め*<br>
+<br>
+
 Turret Archをくぐって反対側に出て振り返ると、North Window ArchとSouth Window Archが見える。<br>
 アーチの中にアーチが見えるのが面白い。<br>
 <br>
 
 ![The Windows Trail・Turret Archの窓から見たNorth Window ArchとSouth Window Arch](images/day07-64-windows-trail-turret-in-double-windows.jpeg)
 *The Windows Trail・Turret Archの窓から見たNorth Window ArchとSouth Window Arch*<br>
-<br>
-
-![The Windows Trail・Turret Archからの眺め](images/day07-65-windows-trail-turret-arch-view.jpeg)
-*The Windows Trail・Turret Archからの眺め*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d778.6148585094109!2d-109.53608997166155!3d38.6842896450417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8747df0845db4cd9%3A0x463683554183766e!2sTurret%20Arch!5e0!3m2!1sja!2sjp!4v1784540497825!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -728,7 +728,7 @@ Dead Horse Pointは、Grand CanyonとHorseshoe Bendを合わせたような景�
 *Moab・Moabのピザ屋さん*<br>
 <br>
 
-そして今晩もスミーの部屋で部屋のみ。<br>
+そして今晩もスミーの部屋で部屋飲み。<br>
 部屋に戻って、菅野さんと夜遅くまでおしゃべり。<br>
 いろんな話をしたな〜。<br>
 菅野さん、ありがとう。<br>
