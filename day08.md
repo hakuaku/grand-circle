@@ -136,7 +136,7 @@ Dewey Bridge（デューイ橋）は、アメリカ・ユタ州グランド郡�
 ここでScenic Bywayも終わり。<br>
 <br>
 
-![Hwy 128 Scenic Byway・劣化しすぎて何もわからない説明板(images/day08-08-hwy128-panel.jpeg)
+![Hwy 128 Scenic Byway・劣化しすぎて何もわからない説明板](images/day08-08-hwy128-panel.jpeg)
 *Hwy 128 Scenic Byway・劣化しすぎて何もわからない説明板*<br>
 <br>
 
