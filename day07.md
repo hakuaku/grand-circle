@@ -24,7 +24,7 @@ Archesへ行く途中で豪華な列車が停まっているのを見る。<br>
 <br>
 主な路線は2種類。<br>
 ・ デンバー → モアブ（ユタ州）：2日間の旅<br>
-・ デンバー → ソルトレイクシティ：3日間の旅 ￼ <br>
+・ デンバー → ソルトレイクシティ：3日間の旅 ￼<br>
 <br>
 どちらも途中でグレンウッドスプリングスに停車し、ホテル宿泊が含まれている。<br>
 <br>
@@ -37,6 +37,7 @@ Archesへ行く途中で豪華な列車が停まっているのを見る。<br>
 <br>
 料金は2日間のシグネチャークラスが1人あたり約1,723ドルから。<br>
 3日間コース（デンバー〜ソルトレイクシティ）は約2,123ドルからで、途中のホテル泊込み。<br>
+（2026年4月時点）
 <br>
 
  </div>
@@ -44,7 +45,7 @@ Archesへ行く途中で豪華な列車が停まっているのを見る。<br>
 
 <br>
 <br>
-Arches National Park のビジターセンターを通り越し、坂道をグングン登る。<br>
+Arches National Parkのビジターセンターを通り越し、坂道をグングン登る。<br>
 <br>
 <br>
 
@@ -85,7 +86,7 @@ Arches National Park のビジターセンターを通り越し、坂道をグ�
 *Delicate Arch・Delicate Archへ行く途中の細い崖道*<br>
 <br>
 
-菅野さんは、Delicate Archに行った人のブログを読んでいて、怖くて行かれなかったというのを読んで、高所恐怖症の自分は無理だと思ったらしい。<br>
+菅野さんは、Delicate Archに行った人のブログを読んでいて、怖くて行けなかったというのを読んで、高所恐怖症の自分は無理だと思ったらしい。<br>
 ブログを読むと怖そうに見えるけど、実際には道幅があって大丈夫だった。<br>
 でも確かに写真に撮ると怖そうに見えるかも。<br>
 <br>
@@ -151,12 +152,12 @@ Delicate Archの帰り道で、行く途中にあった崖を登ると、開い�
 <br>
 ＜換気システムが優秀＞<br>
 便槽の上部に太いベントパイプ（排気管） が設置されており、臭気を外部に逃がす設計になっている。<br>
-パイプの内部は暗く、外は明るいため、臭いに引き寄せられるハエがパイプ内に入り込んで外に出られなくなる（＝衛生的にも有効）という仕組み。<br>
+パイプの内部は暗く、外は明るいため、光に向かう習性で、虫がパイプ内に入り込んで外に出られなくなる（＝衛生的にも有効）という仕組み。<br>
 <br>
 ＜酵素・微生物処理剤の投入＞<br>
 定期的に酵素や微生物製剤を投入し、分解を促進して臭いを抑えている。<br>
 <br>
-＜便槽の素材と断熱＞<br>
+＜便槽の素材＞<br>
 現代のVault Toiletはガラス繊維強化プラスチック（FRP）製で、密閉性が高く、臭いが漏れにくい構造になっている。<br>
 <br>
 ＜乾燥した気候＞<br>
@@ -188,12 +189,12 @@ Delicate Archを見た後だったので、駐車場が厳しいかと思った�
 *Devils Garden Trail・Devils Gardenの壁がどうやってできたか*<br>
 <br>
 
-両側に聳え立つ大きな壁の間を通ってトレイルがスタート。<br>
+両側にそびえ立つ大きな壁の間を通ってトレイルがスタート。<br>
 すごい探検の始まりという雰囲気。<br>
 <br>
 
-![Devils Garden Trail・両側に聳え立つ壁を抜けてトレイルへ](images/day07-16-devils-garden-trail-head.jpeg)
-*Devils Garden Trail・両側に聳え立つ壁を抜けてトレイルへ*<br>
+![Devils Garden Trail・両側にそびえ立つ壁を抜けてトレイルへ](images/day07-16-devils-garden-trail-head.jpeg)
+*Devils Garden Trail・両側にそびえ立つ壁を抜けてトレイルへ*<br>
 <br>
 
 Devils Garden Trailは、緑や花が多めのトレイルで歩くのが楽しい。<br>
@@ -260,7 +261,7 @@ Sedonaのボルテックス（渦エネルギーの地）は1980年代以降に�
 <br>
 
 馬の背の壁の上から見渡す景色は、もう本当に景色のスケールが違う。<br>
-馬の背みたいになってるところは、聳え立つ岩の壁の上辺部分を歩いているらしい。<br>
+馬の背みたいになってるところは、そびえ立つ岩の壁の上辺部分を歩いているらしい。<br>
 <br>
 
 ![Devils Garden Trail・壁の上は遮るものがなくて景色を見渡せる](images/day07-22-devils-garden-trail-wall-top.jpeg)
@@ -291,12 +292,12 @@ Sedonaのボルテックス（渦エネルギーの地）は1980年代以降に�
 <br>
 <br>
 <br>
-Double O Archの下まで行ったら、Double O Arch の下のOの穴に登って向こう側に行かれることが分かった。<br>
+Double O Archの下まで行ったら、Double O Archの下のOの穴に登って向こう側に行けることが分かった。<br>
 この穴によじ登ったり、降りたりするのをNational Parkのレンジャーのおじさんが見守って、手助けをしてくれている。<br>
 <br>
 
-![Devils Garden Trail・わかりにくいけどアーチが２つ重なっていて、下のアーチの中を抜けられる](images/day07-26-devils-garden-trail-double-o.jpeg)
-*Devils Garden Trail・わかりにくいけどアーチが２つ重なっていて、下のアーチの中を抜けられる*<br>
+![Devils Garden Trail・わかりにくいけどアーチが2つ重なっていて、下のアーチの中を抜けられる](images/day07-26-devils-garden-trail-double-o.jpeg)
+*Devils Garden Trail・わかりにくいけどアーチが2つ重なっていて、下のアーチの中を抜けられる*<br>
 <br>
 
 Double O Arch の穴を通り抜けて、反対側からDouble O Arch を見る。<br>
@@ -445,8 +446,7 @@ Navajo Archの隣にあるPartition Arch。<br>
 こちらもかなり地味なアーチ。<br>
 もしかしてみんなアーチに気が付かないんじゃないの？というくらい。<br>
 <br>
-会社の話をしながら歩いていたら
-Tunnel Archの終点まで辿り着いて、どれ？あれ？となった。<br>
+会社の話をしながら歩いていたらTunnel Archの終点まで辿り着いてしまっていて、どれ？あれ？となった。<br>
 <br>
 
 ![Devils Garden Trail・Tunnel Arch](images/day07-46-devils-garden-trail-tunnel-arch.jpeg)
@@ -459,7 +459,7 @@ Tunnel Archの終点まで辿り着いて、どれ？あれ？となった。<br
 
 ## Fiery Furnace Viewpoint Trail
 車で移動してFiery Furnace Viewpointへ。<br>
-聳え立つ砂岩の壁に挟まれた狭い通路が迷宮のように続く奇景を上から見渡す。<br>
+そびえ立つ砂岩の壁に挟まれた狭い通路が迷宮のように続く奇景を上から見渡す。<br>
 この1本1本の柱の間の細い通路を歩けるようになっているとは、上から見ているとまったく分からない。<br>
 <br>
 もうアーチを見すぎて、何が何だか分からなくなる。<br>
@@ -567,7 +567,7 @@ Double Arch Viewpoint and Trailと駐車場を挟んで反対側にあるThe Win
 <br>
 <br>
 <br>
-下に降りて、菅野さんに、私は一人でトレイルを回ってくるので、先に２人で駐車場に戻っていてと伝えて歩き出す。<br>
+下に降りて、菅野さんに、私は一人でトレイルを回ってくるので、先に2人で駐車場に戻っていてと伝えて歩き出す。<br>
 せっかく来たし、もう来られないかもしれないからね。<br>
 見られるものは見ておこうと思う。<br>
 <br>
@@ -666,7 +666,7 @@ Balanced Rockの上に乗っている石が、見る角度によってぜんぜ�
 <br>
 
 帰り道にArches National Park Visitor Centerに寄ってお土産を見る。<br>
-私はステッカーを買う。 <br>
+私はステッカーを買う。<br>
 <br>
 
 ![Arches National Park・Visitor Center](images/day07-70-arches-visitor-center.jpeg)
@@ -733,7 +733,7 @@ Dead Horse Pointは、Grand CanyonとHorseshoe Bendを合わせたような景�
 いろんな話をしたな〜。<br>
 菅野さん、ありがとう。<br>
 <br>
-この旅、２回目の山場を無事に乗り切る。<br>
+この旅、2回目の山場を無事に乗り切る。<br>
 <br>
 <br>
 
