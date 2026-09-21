@@ -1,10 +1,10 @@
 #  【グランドサークル】 9日目　 Bryce Canyon 〜 Las Vegas へ 
 ###### 2026年5月4日（月）曇り
 
-## Bryce Canyonの朝焼けを観に
+## Bryce Canyonの朝日を観に
 今日ももちろん朝日を見に行くぞということで6:00出発。<br>
 まだ暗いうちにInspiration Pointの駐車場まで移動。<br>
-お天気のせいもあるかもしれないけど、まだ2〜３台しか来ていない。<br>
+お天気のせいもあるかもしれないけど、まだ2〜3台しか来ていない。<br>
 <br>
 
 ![Bryce Canyon・Inspiration Point](images/day09-01-bryce-canyon-inspiration-point.jpeg)
@@ -50,16 +50,16 @@ Bryce Canyon に太陽の光が当たるとすごくキレイなんだけど。<
 <br>
 
 一度ホテルに戻って朝食。<br>
-昨晩ステーキを食べたホテル内のCowboy’s Buffetで３人でゆっくり朝食を摂る。<br>
+昨晩ステーキを食べたホテル内のCowboy’s Buffetで3人でゆっくり朝食をとる。<br>
 <br>
-今回の旅でゆっくりちゃんと朝食を取るのはこれが初めて。<br>
+今回の旅でゆっくりちゃんと朝食をとるのはこれが初めて。<br>
 コーヒーまでいただく。<br>
 <br>
 食事を終えて部屋に戻るころには青空が出ている。<br>
 <br>
 
-![Bryce Canyon・今回泊まったホテルのロッジ ２階のお部屋だった](images/day09-08-rubys-inn-lodge.jpeg)
-*Bryce Canyon・今回泊まったホテルのロッジ ２階のお部屋だった*<br>
+![Bryce Canyon・今回泊まったホテルのロッジ 2階のお部屋だった](images/day09-08-rubys-inn-lodge.jpeg)
+*Bryce Canyon・今回泊まったホテルのロッジ 2階のお部屋だった*<br>
 <br>
 
 コルベットの集団の人たちが雨に濡れた車を拭いたりしている。<br>
@@ -67,12 +67,12 @@ Bryce Canyon に太陽の光が当たるとすごくキレイなんだけど。<
 とにかくこの嬉しそうなスミーをご覧あれ。<br>
 <br>
 
-![Bryce Canyon・コルベットに乗れて嬉しいスミー その１](images/day09-09-rubys-inn-corvette-summy-1.jpeg)
-*Bryce Canyon・コルベットに乗れて嬉しいスミー その１*<br>
+![Bryce Canyon・コルベットに乗れて嬉しいスミー その1](images/day09-09-rubys-inn-corvette-summy-1.jpeg)
+*Bryce Canyon・コルベットに乗れて嬉しいスミー その1*<br>
 <br>
 
-![Bryce Canyon・コルベットに乗れて嬉しいスミー その２](images/day09-10-rubys-inn-corvette-summy-2.jpeg)
-*Bryce Canyon・コルベットに乗れて嬉しいスミー その２*<br>
+![Bryce Canyon・コルベットに乗れて嬉しいスミー その2](images/day09-10-rubys-inn-corvette-summy-2.jpeg)
+*Bryce Canyon・コルベットに乗れて嬉しいスミー その2*<br>
 <br>
 
 ![Bryce Canyon・たくさんのコルベットに囲まれる](images/day09-11-rubys-inn-corvette.jpeg)
@@ -85,8 +85,8 @@ Bryce Canyon に太陽の光が当たるとすごくキレイなんだけど。<
 7番の停留所のSunsetで下車して、道を渡ってSunset Point Rim Trailに向かう。<br>
 <br>
 
-![Bryce Canyon・巡回バスのルート](images/day09-12-bryce-canyon-shuttle-map.jpeg)
-*Bryce Canyon・巡回バスのルート*<br>
+![Bryce Canyon・シャトルバスのルート](images/day09-12-bryce-canyon-shuttle-map.jpeg)
+*Bryce Canyon・シャトルバスのルート*<br>
 <br>
 
 ![Bryce Canyon・7番の停留所から歩き始める](images/day09-13-bryce-canyon-shuttle-stop-7.jpeg)
@@ -107,7 +107,7 @@ Bryce Canyon に太陽の光が当たるとすごくキレイなんだけど。<
 
 ## まるでお城の世界へ
 Sunset Point Rim TrailからNavajo Loop Trailで、Bryce Canyon の中へ降りていく。<br>
-Juliet’s balconyを菅野さんと覗きに行く。<br>
+Juliet’s Balconyを菅野さんと覗きに行く。<br>
 <br>
 
 ![Bryce Canyon・Navajo Loop Trailの案内板](images/day09-16-bryce-canyon-navajo-loop-trail-panel.jpeg)
@@ -127,7 +127,8 @@ Juliet’s balconyを菅野さんと覗きに行く。<br>
 *Bryce Canyon・お城みたい*<br>
 <br>
 
-前回もだったけど、今回もNavajo Loop TrailのWall Streetはクローズしていて行かれなかった。<br>
+前回もだったけど、今回もNavajo Loop TrailのWall Streetはクローズしていて行けなかった。<br>
+（2026年5月時点）<br>
 <br>
 朝日の時よりも晴れて太陽が出ていて暑い。<br>
 トレイルの途中にある雷神のハンマーも前回同様に健在。<br>
@@ -198,8 +199,8 @@ Navajo Loop Trailの一番下までいって引き返してくる。<br>
 15番のBryce Canyon Shuttle Parkingがホテルの道を挟んで反対側なので、そこでバスを降りる。<br>
 <br>
 
-![Bryce Canyon・巡回バス](images/day09-29-bryce-canyon-shuttle-bus.jpeg)
-*Bryce Canyon・巡回バス*<br>
+![Bryce Canyon・シャトルバス](images/day09-29-bryce-canyon-shuttle-bus.jpeg)
+*Bryce Canyon・シャトルバス*<br>
 <br>
 
 ![Bryce Canyon・Bryce Canyon Shuttle Parking](images/day09-30-bryce-canyon-shuttle-bus-stop.jpeg)
@@ -248,7 +249,7 @@ Navajo Loop Trailの一番下までいって引き返してくる。<br>
 車でBryce Canyon National Park Visitor Center へ移動し、お土産などのグッズを見る。<br>
 <br>
 
-![Bryce Canyon・Visitor Center ](images/day09-39-bryce-canyon-visitor-center.jpeg)
+![Bryce Canyon・Visitor Center](images/day09-39-bryce-canyon-visitor-center.jpeg)
 *Bryce Canyon・Visitor Center*<br>
 <br>
 
@@ -272,7 +273,7 @@ Bryce Canyonともこれでお別れ。<br>
 *Bryce Canyon・Bryce Canyonのゲート*<br>
 <br>
 
-ハイウェイでザイオンへ向かう。<br>
+ハイウェイでZion National Parkへ向かう。<br>
 Hwy 15 Kanarraville South Rest Areaでトイレ休憩。<br>
 <br>
 
@@ -366,15 +367,15 @@ Taylor Creek Trailの途中にある小屋くらいまで行くと自然も岩�
 
 **📖 コラム｜Kolob Canyons** <br>
 <br>
-Kolob Canyonsエリアはビジターセンターとトレイルヘッドの駐車場が無料。<br>
+Kolob Canyonsエリアは駐車場が無料（入園料は別）。<br>
 $250の年間パスを持っていればNational Park への入場も無料。<br>
 <br>
 ただし一点注意が必要で、駐車スペースは限られていて、混雑時は各展望台で満車になることもある。<br>
-￼ゴールデンウィーク時期（4月下旬〜5月初旬）は特に混みやすいので、朝早めの到着がおすすめ。<br>
+ゴールデンウィーク時期（4月下旬〜5月初旬）は特に混みやすいので、朝早めの到着がおすすめ。<br>
 <br>
 Kolob CanyonsはI-15のExit 40からアクセスする独立したエリアで、メインのZion Canyonとは道路でつながっていない。<br>
 <br>
-Kolob Canyonsは崖が西向きのため、午後から太陽が当たって赤い岩の色が鮮やかに映える。
+Kolob Canyonsは崖が西向きのため、午後から太陽が当たって赤い岩の色が鮮やかに映える。<br>
 午前中は東から日が昇るため、写真が暗くなりがち。<br>
 <br>
 
@@ -383,7 +384,7 @@ Kolob Canyonsは崖が西向きのため、午後から太陽が当たって赤�
 
 <br>
 <br>
-Taylor Creek Trailは、テイラー川、ミドル・フォーク・テイラー川沿いのトレイルで、水も木もあって気持ちいいトレイル。<br>
+Taylor Creek Trailは、テイラークリーク、ミドル・フォーク・テイラークリーク沿いのトレイルで、水も木もあって気持ちいいトレイル。<br>
 せっかくの水と緑の木々なのに、曇り空で今にも雨が降りそうな空なのがとても残念。<br>
 でも、水と緑を楽しみながら歩く。<br>
 <br>
@@ -396,7 +397,7 @@ Taylor Creek Trailは、テイラー川、ミドル・フォーク・テイラ�
 *Zion National Park・水と緑で美しいトレイル*<br>
 <br>
 
-レンジャーに教えてもらった一つ目のキャビンが見つけられずに、２つ目のFife Cabinまで来てしまった。<br>
+レンジャーに教えてもらった一つ目のキャビンが見つけられずに、2つ目のFife Cabinまで来てしまった。<br>
 ここまで来たら・・・ということでさらに奥まで行く。<br>
 <br>
 
@@ -455,12 +456,12 @@ Hwy 15で砂漠地帯を抜けてLas Vegasへ。<br>
 これじゃぁ、コロラド川も干上がるよね。と思う。<br>
 <br>
 Las Vegasに着くころにはすっかり日も落ちかけていた。<br>
-ハイウェイを降りたら、いきなり車線が５車線くらいになっていて、車の量がものすごく多い。<br>
+ハイウェイを降りたら、いきなり車線が5車線くらいになっていて、車の量がものすごく多い。<br>
 今までの田舎道とは全然違って、とにかく怖い。<br>
 <br>
 
-![Las Vegas・ピラミッドとスフィンクス ](images/day09-55-las-vegas-pyramid.jpeg)
-*Las Vegas・ピラミッドとスフィンクス*<br>
+![Las Vegas・ピラミッドとスフィンクス Luxor Las Vegas ](images/day09-55-las-vegas-pyramid.jpeg)
+*Las Vegas・ピラミッドとスフィンクス Luxor Las Vegas*<br>
 <br>
 
 ![Las Vegas・とにかくギラギラ ](images/day09-56-las-vegas-hotels.jpeg)
@@ -470,19 +471,19 @@ Las Vegasに着くころにはすっかり日も落ちかけていた。<br>
 ギンギンギラギラの建物・ホテル街を通り抜けて、Las Vegas内の駐車場に車を停める。<br>
 ものすごく長さのあるリムジンが、すごい音量で音楽を流していて、さすが金持ちの街。<br>
 <br>
-Las Vegasの看板を写真撮影。<br>
-Las Vegasの看板の写真を撮るために、順番待ちしている人の行列がすごい。<br>
+「Welcome to Fabulous Las Vegas」の看板を写真撮影。<br>
+「Welcome to Fabulous Las Vegas」の看板の写真を撮るために、順番待ちしている人の行列がすごい。<br>
 <br>
 
-![Las Vegas・Las Vegasの看板 ](images/day09-57-las-vegas-sign.jpeg)
-*Las Vegas・Las Vegasの看板*<br>
+![Las Vegas・「Welcome to Fabulous Las Vegas」の看板 ](images/day09-57-las-vegas-sign.jpeg)
+*Las Vegas・「Welcome to Fabulous Las Vegas」の看板*<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1784552575224!6m8!1m7!1sEmvHAgm8tFjidfqogkWCRg!2m2!1d36.08215796089114!2d-115.1725747809598!3f229.13705!4f0!5f0.7820865974627469" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <br>
 <br>
 <br>
-観光客の女性２人組が長々と撮影して終わらないので、行列の人たちが怒り出す。<br>
+観光客の女性2人組が長々と撮影して終わらないので、行列の人たちが怒り出す。<br>
 それでも我関せずで延々と写真を撮り続ける。<br>
 <br>
 日が落ちてネオンがギラギラしているLas Vegasの街中をドライブ。<br>
@@ -501,7 +502,7 @@ Las Vegasの看板の写真を撮るために、順番待ちしている人の�
 *Las Vegas・人だらけ*<br>
 <br>
 
-大谷翔平お気に入りのハンバーガーショップ In-n-Out Burgerに行こう！と向かったお店がドライブスルー専用のお店でイートインがない。<br>
+大谷翔平選手も好きだと聞くハンバーガーショップ In-n-Out Burgerに行こう！と向かったお店がドライブスルー専用のお店でイートインがない。<br>
 <br>
 
 ![Las Vegas・In-n-Out Burger 　ドライブスルーしかなかった](images/day09-61-las-vegas-in-n-out-drive-through.jpeg)
@@ -567,7 +568,7 @@ Tru by Hilton Las Vegas Airportにチェックイン。<br>
 <br>
 
 ## 今夜の宿・Tru by Hilton Las Vegas Airport
-1人部屋
+1人部屋<br>
 お土産類をとにかくスーツケースにうまくパッキングしないと。<br>
 翌朝が相当早い。<br>
 <br>
@@ -576,13 +577,14 @@ Tru by Hilton Las Vegas Airportにチェックイン。<br>
 <br>
 <br>
 <br>
+
 📍 **本日の移動** 
 Best Western Plus Ruby’s Inn → Bryce Canyon Inspiration Point → Sunset Point Rim Trail → Navajo Loop Trail → Bryce Canyon National Park Visitor Center → Hwy 15 Kanarraville South Rest Area → Kolob Canyons Visitor Center → Kolob Canyons → Taylor Creek Trail → Fife Cabin → Larson Cabin → Las Vegas → In-n-Out Burger → Tru by Hilton Las Vegas Airport
 <br>
 <br>
 <br>
 
-### [【グランドサークル】　旅の初めにへ](prologue.html)
+### [【グランドサークル】　旅の初めに](prologue.html)
 ### [【グランドサークル】　8日目　Moab 〜 Bryce Canyon へ](day08.html)
 ### [【グランドサークル】　10日目　Las Vegas 〜 羽田 へ](day10.html)
 
