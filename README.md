@@ -67,8 +67,14 @@
 
 ## YouTube動画の埋め込み（通常動画）
 ``` HTML
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZ_uUisgjxA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/zZ_uUisgjxA" title="Scenic Byway 12・The Hogback" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe></div>
+
+*Scenic Byway 12・The Hogbackをスミーが動画撮影*<br>
 ```
+
+<div> とキャプションの間は空行を1行あける。<br>
+今のようにiframeの直後にキャプションを続けると、HTMLブロックの一部として扱われ、*…* がイタリックにならず、アスタリスクがそのまま表示される可能性がある。<br>
+<br>
 
 ## ページリンク
 ``` markdown
