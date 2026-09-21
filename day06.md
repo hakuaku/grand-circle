@@ -610,5 +610,5 @@ The View Hotel → Monument Valley Scenic Road Drive / West Mitten → Elephant 
 
 ### [【グランドサークル】　旅の初めに](prologue.html)
 ### [【グランドサークル】　5日目　Page 〜 Monument Valley へ](day05.html)
-### [【グランドサークル】　7日目　Moab 〜 Arches National Park へ](day07.html)
+### [【グランドサークル】　7日目　Moab 〜 Arches National Park](day07.html)
 
