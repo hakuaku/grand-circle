@@ -6,8 +6,8 @@
 朝日がビュートに当たって赤くなり、西部劇のワンシーンのよう。<br>
 <br>
 
-![Monument Valley・朝日が登ってくるのをホテルの展望テラスで待つ](images/day06-01-monument-valley-morning.jpeg)
-*Monument Valley・朝日が登ってくるのをホテルの展望テラスで待つ*<br>
+![Monument Valley・朝日が昇ってくるのをホテルの展望テラスで待つ](images/day06-01-monument-valley-morning.jpeg)
+*Monument Valley・朝日が昇ってくるのをホテルの展望テラスで待つ*<br>
 <br>
 
 ![Monument Valley・この空のグラデーションと広い空！](images/day06-02-monument-valley-gradation.jpeg)
@@ -39,17 +39,48 @@
 <br>
 アメリカでは、日本のように飴が売ってないので、個包装の飴をもらえるのは、本当にありがたい。<br>
 <br>
-3人で少しゆっくり朝食を摂る。<br>
+3人で少しゆっくり朝食をとる。<br>
 <br>
 部屋に戻って荷造りをして、チェックアウト。<br>
-ペニーコインで作る記念硬貨をやってみよう！と言っていたのだけど、前日まで動いていたのにマシンが壊れていてできなかった。<br>
+ペニーコインを潰して作る記念硬貨をやってみよう！と言っていたのだけど、前日まで動いていたのにマシンが壊れていてできなかった。<br>
 残念。<br>
+<br>
+<br>
+
+--- 
+<div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
+
+**📖 コラム｜プレスド・ペニー（Pressed Penny）** <br>
+<br>
+プレスド・ペニー（Pressed Penny）は、1セント硬貨（ペニー）をローラー式のマシンで押しつぶして、絵柄を刻印した記念コインのこと。<br>
+エロンゲーテッド・コイン（Elongated Coin）とも呼ばれ、アメリカの観光地の定番のお土産。<br>
+<br>
+
+＜仕組み＞
+- マシンに硬貨を入れてハンドルを回すと、硬貨が2本のローラーの間を通る。ローラーには絵柄が彫ってあり、硬貨が楕円形に引き伸ばされて、その絵柄が転写される。
+- 使うのは1セント硬貨とマシンの料金。多くは50セント〜数ドルで、マシンによって違う。
+- 観光地ごとに絵柄が違い、1か所に何種類かのデザインが用意されているマシンもよくある。集めるのが趣味の人も多い。
+
+＜発祥と歴史＞
+- 起源は、1893年のシカゴ万博（コロンビア万博）の記念品とされるのが一般的。
+- 今でも、国立公園のビジターセンターやテーマパーク、博物館などに置かれている。
+
+＜注意点＞
+- 1セント硬貨は、アメリカでは2025年に新規製造が終了したが、流通している分は引き続き使える。マシンによっては、硬貨を持っていなくても、専用に用意された硬貨を売っていたり、両替機が併設されていたりする。
+- 日本の硬貨は使えない。
+- 使えるのは、ペニーとして流通している硬貨。マシンによっては、25セント硬貨を使うタイプもある。
+<br>
+<br>
+
+ </div>
+--- 
+
 <br>
 <br>
 
 ## Monument Valley Scenic Road Driveで荒野を走る
 昨日、入ることのできなかったScenic Road Driveへ。<br>
-Monument Valley 内のビュートの間を縫うようにダート道を自分で運転して走る。<br>
+Monument Valley内のビュートの間を縫うようにダート道を自分で運転して走る。<br>
 <br>
 ダート道で車が揺れるので、後ろでスーツケースが動く。動く。<br>
 私のセージが潰れて粉々になるのではないかと気が気ではなかった。<br>
@@ -132,8 +163,8 @@ Rain God Mesaでは、ツアーの団体さんに囲まれて一緒に写真を�
 <br>
 <br>
 <br>
-Spearhead Mesaは、Monument Valleyの奥の方に位置していて、Spearhead Mesaの見晴し台から見える景色は、どこまでも続く草原のよう。<br>
-基本は砂漠だけど、小さい草花が逞しく生きて広がり、上から見ると草原に見える。<br>
+Spearhead Mesaは、Monument Valleyの奥の方に位置していて、Spearhead Mesaの見晴らし台から見える景色は、どこまでも続く草原のよう。<br>
+基本は砂漠だけど、小さい草花がたくましく生きて広がり、上から見ると草原に見える。<br>
 <br>
 
 ![Monument Valley Scenic Road Drive・Spearhead Mesaの見晴らし台からの眺め](images/day06-17-monument-valley-drive-spearhead-glassland.jpeg)
@@ -166,7 +197,7 @@ The View Hotel内にあるお土産物店内を見て回る。<br>
 <br>
 <br>
 
-## 映画「Forrest Gump」のラストシーンはここ！
+## 映画「Forrest Gump」の走るのをやめたシーンはここ！
 Monument Valleyを出発し、ところどころの撮影ポイントに停まりながらForrest Gump Pointへ。<br>
 Monument Valleyともお別れ。<br>
 <br>
@@ -180,7 +211,7 @@ Forrest Gump Pointに着いて驚いたのは、前回とは違って整備さ�
 前回来た時は、どこ？どこ？ここ？と言いながら車を停めて、人が集まっているところで、ここだ！と言って写真を撮ったけど、今はまったく迷うことがない。<br>
 <br>
 通る車に注意しながら、道の真ん中で写真撮影。<br>
-映画「Forrest Gump」の最後のシーンで使われたのが、この場所だったと思う。<br>
+映画「Forrest Gump」の走るのをやめたシーンで使われたのが、この場所だったと思う。<br>
 <br>
 
 ![Forrest Gump Point・映画「Forrest Gump」の最後のシーンのように道の真ん中で](images/day06-20-forrest-gump-point.jpeg)
@@ -248,7 +279,7 @@ Mexican Hat Rockの方まで、今まで走ってきたところ全体を見渡�
 
 **📖 コラム｜Moki Dugway** <br>
 <br>
-ユタ州南東部、ユタハイウェイ261号線沿いに位置するMoki Dugway （モキ・ダグウェイ）は、断崖絶壁を文字通り切り開いて作られた道路で、Cedar Mesaの上部からValley of the GodsやMonument Valleyを見下ろす圧倒的なパノラマが広がる。<br>
+ユタ州南東部、ユタハイウェイ261号線沿いに位置するMoki Dugway（モキ・ダグウェイ）は、断崖絶壁を文字通り切り開いて作られた道路で、Cedar Mesaの上部からValley of the GodsやMonument Valleyを見下ろす圧倒的なパノラマが広がる。<br>
 全長約3マイル（約5km）の未舗装路で、急なスイッチバック（ヘアピンカーブ）が続き、勾配は最大11%。Cedar Mesaの断崖面を削って作られており、標高差はおよそ360m（約1,200フィート）。<br>
 制限速度は全体で時速15マイル（約24km）だが、カーブでは時速5マイル（約8km）が推奨されるほど慎重な運転が必要。<br>
 <br>
@@ -291,10 +322,10 @@ Natural Bridges National Monument Visitor Centerに寄ると、ビジターセ�
 *Natural Bridges・アーチを観にいく*<br>
 <br>
 
-### Sipaqu Bridge
+### Sipapu Bridge
 Sipapu Bridge を遠くから眺める。<br>
 遠すぎてよく分からないけど、アーチになってる。<br>
-Sipapu Bridge Trailを行くとアーチの下まで行けるらしい。<br>
+Sipapu Bridge Trailを進むとアーチの下まで行けるらしい。<br>
 <br>
 
 ![Natural Bridges・Sipapu Bridgeの説明板](images/day06-28-natural-bridges-sipapu-signboard.jpeg)
@@ -378,7 +409,7 @@ Owachomo Bridgeは、かなり大きなブリッジ。<br>
 かなりな日差しと灼熱。<br>
 <br>
 
-![Natural Bridges・思っていたよりもかなり大きいOwachomo Bridge](images/day06-39-natural-bridges-owachomo.jpg)
+![Natural Bridges・思っていたよりもかなり大きいOwachomo Bridge](images/day06-63-natural-bridges-owachomo.jpg)
 *Natural Bridges・思っていたよりもかなり大きいOwachomo Bridge*<br>
 <br>
 
@@ -425,14 +456,15 @@ Moabに向かう途中の町 Blandingにある洗車場で、Monument Valley Sce
 *Blanding・コインを入れて洗車スタート*<br>
 <br>
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/9YkbzdosDNE" frameborder="0" allowfullscreen> </iframe>
+<div style="position: relative; width: 100%; max-width: 315px; padding-bottom: 177.78%; height: 0; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/9YkbzdosDNE" title="Blanding・洗車場" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe></div>
+
 *Blanding・ジェット水流で泥を落として、洗剤入りの水で洗う*<br>
 <br>
 
 洗車場の向かいにあるガソリンスタンドで給油。<br>
 <br>
 
-![Blanding・ガソリンスタンドとコンビニが一緒になっている](images/day06-45-branding-gas-stand.jpeg) 
+![Blanding・ガソリンスタンドとコンビニが一緒になっている](images/day06-45-branding-gas-stand.jpeg)
 *Blanding・ガソリンスタンドとコンビニが一緒になっている*<br>
 <br>
 
@@ -443,7 +475,7 @@ Moabに向かう途中の町 Blandingにある洗車場で、Monument Valley Sce
 ガソリンスタンドの脇にあるセブンイレブンへ。<br>
 喉が痛いので飴が売ってないか探しに行ったけど、日本のように飴玉は売っておらず。<br>
 <br>
-大谷選手がひまわりの種を食べているので、どんなものか買ってみる。<br>
+大谷選手がひまわりの種を食べている姿が報じられているので、どんなものか買ってみる。<br>
 あとは、お土産になりそうなスニッカーズなどのお菓子も購入。<br>
 このセブンイレブンでは、菅野さんのカードが使えなかった。<br>
 <br>
@@ -526,7 +558,7 @@ Moabの街に到着し、Homewood Suites by Hilton Moabにチェックイン。<
 まだお店が閉まる様子はなく、まずはお料理を注文。<br>
 <br>
 ものすごく久しぶりに温かいスープを飲んで、温かいお料理をいただく。<br>
-パパイアのサラダ、えんどう豆の炒め物など、久しぶりの食事らしい食事に癒される。<br>
+パパイヤのサラダ、えんどう豆の炒め物など、久しぶりの食事らしい食事に癒される。<br>
 <br>
 
 ![Moab・温かいスープ](images/day06-58-singha-soup.jpeg)
@@ -569,8 +601,9 @@ Moabの街に到着し、Homewood Suites by Hilton Moabにチェックイン。<
 <br>
 <br>
 <br>
+
 📍 **本日の移動** 
-The View Hotel → Monument Valley Scenic Road Drive / Elephant Butte → Three Sisters → John Ford Point → Rain God Mesa → Totem Pole → Spearhead Mesa → The Thumb → Forrest Gump Point → Mexican Hat Rock → Moki Dugway → Natural Bridges National Monument Visitor Center → Natural Bridges National Monument / Sipapu Bridge → Horsecollar House Overlook → Kachina Bridge → Owachomo Bridge → Blandingにある洗車場 → セブンイレブン → Grand View Point → SINGHA → Homewood Suites by Hilton Moab
+The View Hotel → Monument Valley Scenic Road Drive / West Mitten → Elephant Butte → Three Sisters → John Ford Point → Rain God Mesa → Totem Pole → Spearhead Mesa → The Thumb → Forrest Gump Point → Mexican Hat Rock → Moki Dugway → Natural Bridges National Monument Visitor Center → Natural Bridges National Monument / Sipapu Bridge → Horsecollar House Overlook → Kachina Bridge → Owachomo Bridge → Blandingにある洗車場 → セブンイレブン → Grand View Point → SINGHA → Homewood Suites by Hilton Moab
 <br>
 <br>
 <br>
