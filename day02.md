@@ -5,8 +5,8 @@
 朝食を食べずに6:00集合でホテルを出発。<br>
 <br>
 
-![Greentree Inn Sedona ・早朝のホテルを出発](images/day02-01-greentreeinn-start.jpeg)
-*Greentree Inn Sedona ・早朝のホテルを出発*<br>
+![Greentree Inn Sedona・早朝のホテルを出発](images/day02-01-greentreeinn-start.jpeg)
+*Greentree Inn Sedona・早朝のホテルを出発*<br>
 <br>
 
 Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまって混む上に駐車場が狭いので、早く行かないと車が停められない。<br>
@@ -24,12 +24,13 @@ Devil’s Bridgeは、前回来た時よりもかなり人気が出てしまっ�
 現金が利用できないカードオンリーの駐車料金機なので、カードが使えないとお手上げ。<br>
 <br>
 
-![Devil’s Bridge駐車場 ・まったく受け付けてくれない駐車料金機](images/day02-02-devils-bridge-parking.jpeg)
-*Devil’s Bridge駐車場 ・まったく受け付けてくれない駐車料金機*<br>
+![Devil’s Bridge駐車場・まったく受け付けてくれない駐車料金機](images/day02-02-devils-bridge-parking.jpeg)
+*Devil’s Bridge駐車場・まったく受け付けてくれない駐車料金機*<br>
 <br>
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/j6AQ2xwHcv0" frameborder="0" allowfullscreen> </iframe>
-*Devil’s Bridge駐車場 ・どうしたらいいかわからない・・・*<br>
+<div style="position: relative; width: 100%; max-width: 315px; padding-bottom: min(560px, 177.78%); height: 0; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/j6AQ2xwHcv0" title="Devil's Bridge駐車場" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe></div>
+
+*Devil’s Bridge駐車場・どうしたらいいかわからない・・・*<br>
 <br>
 
 他の人が同じ駐車料金機を使っているのを見ていたら、普通にカードでパーキングチケットを購入している。<br>
@@ -78,36 +79,36 @@ Wiseのトラベルカードはアメリカ国内発行扱いになるケース�
 でも小鳥がさえずり、空気もスッキリきもちいい。<br>
 <br>
 
-![Devil’s Bridge Trail ・トレイルの地図](images/day02-03-devils-bridge-trail-sign.jpeg)
-*Devil’s Bridge Trail ・トレイルの地図*<br>
+![Devil’s Bridge Trail・トレイルの地図](images/day02-03-devils-bridge-trail-sign.jpeg)
+*Devil’s Bridge Trail・トレイルの地図*<br>
 <br>
 
-![Devil’s Bridge Trail ・朝早くて寒いトレイル](images/day02-04-devils-bridge-trail-early-morning.jpeg)
-*Devil’s Bridge Trail ・朝早くて寒いトレイル*<br>
+![Devil’s Bridge Trail・朝早くて寒いトレイル](images/day02-04-devils-bridge-trail-early-morning.jpeg)
+*Devil’s Bridge Trail・朝早くて寒いトレイル*<br>
 <br>
 
-![Devil’s Bridge Trail ・やっと朝日が昇ってくる](images/day02-05-devils-bridge-trail-morning.jpeg)
-*Devil’s Bridge Trail ・やっと朝日が昇ってくる*<br>
+![Devil’s Bridge Trail・やっと朝日が昇ってくる](images/day02-05-devils-bridge-trail-morning.jpeg)
+*Devil’s Bridge Trail・やっと朝日が昇ってくる*<br>
 <br>
 
-![Devil’s Bridge Trail ・かなりな岩道](images/day02-06-devils-bridge-trail-rock.jpeg)
-*Devil’s Bridge Trail ・かなりな岩道*<br>
+![Devil’s Bridge Trail・かなりな岩道](images/day02-06-devils-bridge-trail-rock.jpeg)
+*Devil’s Bridge Trail・かなりな岩道*<br>
 <br>
 
-![Devil’s Bridge Trail ・階段を登ると・・・](images/day02-07-devils-bridge-trail-step.jpeg)
-*Devil’s Bridge Trail ・階段を登ると・・・*<br>
+![Devil’s Bridge Trail・階段を登ると・・・](images/day02-07-devils-bridge-trail-step.jpeg)
+*Devil’s Bridge Trail・階段を登ると・・・*<br>
 <br>
 
-![Devil’s Bridge Trail ・素晴らしい景色！](images/day02-08-devils-bridge-trail-view.jpeg)
-*Devil’s Bridge Trail ・素晴らしい景色！*<br>
+![Devil’s Bridge Trail・素晴らしい景色！](images/day02-08-devils-bridge-trail-view.jpeg)
+*Devil’s Bridge Trail・素晴らしい景色！*<br>
 <br>
 
-![Devil’s Bridge Trail ・そしてDevil’s Bridge](images/day02-09-devils-bridge-view-1.jpeg)
-*Devil’s Bridge Trail ・そしてDevil’s Bridge*<br>
+![Devil’s Bridge Trail・そしてDevil’s Bridge](images/day02-09-devils-bridge-view-1.jpeg)
+*Devil’s Bridge Trail・そしてDevil’s Bridge*<br>
 <br>
 
-![Devil’s Bridge Trail ・橋の下が抜けていて今にも崩れ落ちそう](images/day02-10-devils-bridge-view-2.jpeg)
-*Devil’s Bridge Trail ・橋の下が抜けていて今にも崩れ落ちそう*<br>
+![Devil’s Bridge Trail・橋の下が抜けていて今にも崩れ落ちそう](images/day02-10-devils-bridge-view-2.jpeg)
+*Devil’s Bridge Trail・橋の下が抜けていて今にも崩れ落ちそう*<br>
 <br>
 <br>
 
@@ -118,7 +119,7 @@ Devil’s Bridgeに到着したら、写真撮影待ちの長い行列。<br>
 9年前に来たときには、こんなことはあり得なかったのに。<br>
 やはりSNS等で「穴場」として紹介されて、急にDevil’s Bridgeは有名になってしまったようだ。<br>
 <br>
-前回は、写真撮影のために順番に1人ずつ行くなんてことはせず、みんなどんどん橋の上に行っていたが、今回は１組ずつが順番に橋の上に行って写真撮影していた。<br>
+前回は、写真撮影のために順番に1人ずつ行くなんてことはせず、みんなどんどん橋の上に行っていたが、今回は1組ずつが順番に橋の上に行って写真撮影していた。<br>
 これもSNSの普及で、映えが重視される世の中になったからかも。<br>
 <br>
 行列に並んで順番を待ちながら、スミーお手製のサンドイッチを食べる。<br>
@@ -129,29 +130,29 @@ Devil’s Bridgeに到着したら、写真撮影待ちの長い行列。<br>
 やっと順番が回って来て、菅野さんと写真撮影。<br>
 <br>
 
-![Devil’s Bridge Trail ・遠くから見ていると橋の幅が狭くて怖そうだけど、歩いてみると全然平気](images/day02-11-devils-bridge-view-3.jpeg)
-*Devil’s Bridge Trail ・遠くから見ていると橋の幅が狭くて怖そうだけど、歩いてみると全然平気*<br>
+![Devil’s Bridge Trail・遠くから見ていると橋の幅が狭くて怖そうだけど、歩いてみると全然平気](images/day02-11-devils-bridge-view-3.jpeg)
+*Devil’s Bridge Trail・遠くから見ていると橋の幅が狭くて怖そうだけど、歩いてみると全然平気*<br>
 <br>
 
-![Devil’s Bridge Trail ・こっちから見てる方が怖そうに見える](images/day02-12-devils-bridge-view-4.jpeg)
-*Devil’s Bridge Trail ・こっちから見てる方が怖そうに見える*<br>
+![Devil’s Bridge Trail・こっちから見てる方が怖そうに見える](images/day02-12-devils-bridge-view-4.jpeg)
+*Devil’s Bridge Trail・こっちから見てる方が怖そうに見える*<br>
 <br>
 
-![Devil’s Bridge Trail ・せっかくだから向こう側の景色も堪能](images/day02-13-devils-bridge-view-5.jpeg)
-*Devil’s Bridge Trail ・せっかくだから向こう側の景色も堪能*<br>
+![Devil’s Bridge Trail・せっかくだから向こう側の景色も堪能](images/day02-13-devils-bridge-view-5.jpeg)
+*Devil’s Bridge Trail・せっかくだから向こう側の景色も堪能*<br>
 <br>
 
-![Devil’s Bridge Trail ・そして座ってみたりする](images/day02-14-devils-bridge-view-6.jpeg)
-*Devil’s Bridge Trail ・そして座ってみたりする*<br>
+![Devil’s Bridge Trail・そして座ってみたりする](images/day02-14-devils-bridge-view-6.jpeg)
+*Devil’s Bridge Trail・そして座ってみたりする*<br>
 <br>
 
-![Devil’s Bridge Trail ・飛行機雲がキレイ。龍が登っているみたい](images/day02-15-devils-bridge-view-7.jpeg)
-*Devil’s Bridge Trail ・飛行機雲がキレイ。龍が登っているみたい*<br>
+![Devil’s Bridge Trail・飛行機雲がキレイ。龍が登っているみたい](images/day02-15-devils-bridge-view-7.jpeg)
+*Devil’s Bridge Trail・飛行機雲がキレイ。龍が登っているみたい*<br>
 <br>
 
 写真も撮り終わって、帰ろうとしたところで、駐車場で助けてくれた夫婦が行列に並んでいて再会できた！<br>
 
-お礼に日本から持参した「とらや」の一口羊羹を３つプレゼント。<br>
+お礼に日本から持参した「とらや」の一口羊羹を3つプレゼント。<br>
 スミーが、甘いよ！と言って渡していた。<br>
 お礼ができてよかった。<br>
 <br>
@@ -301,7 +302,7 @@ Sedonaみたいな乾燥しているところで虹が出る？？？<br>
 **📖 コラム｜Sedonaのボルテックスの意味**<br>
 <br>
 Sedonaのボルテックス（Vortex）とは<br>
-アリゾナ州Sedonaにあるとされる強力なエネルギーの渦のこと。<br>
+アリゾナ州Sedonaにあるとされる強力なエネルギーの渦と考えられている。<br>
 地球から放出される特別なエネルギーが集中している「エネルギースポット」と考えられている。<br>
 <br>
 スピリチュアルな世界では、このような場所を訪れると瞑想が深まったり、心身の癒しが得られたり、精神的な気づきが生まれやすいと言われている。<br>
@@ -498,7 +499,7 @@ Bell Rock同様に登らずに下から眺める。<br>
 --- 
 <div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
 
-**📖 コラム｜ココペリ（Kokopelli)**<br>
+**📖 コラム｜ココペリ（Kokopelli）**<br>
 <br>
 ホピ語の「kokopilau（kok = 木、pilau = こぶ）」に由来し、「こぶのある笛吹き男」を意味する。<br>
 <br>
@@ -511,7 +512,7 @@ Bell Rock同様に登らずに下から眺める。<br>
 ナバホ族の伝承では、雲でできた袋に種と虹が入っていたとされ、農業・収穫との結びつきが語られている。<br>
 <br>
 ＜笛の意味＞<br>
-スピリチュアルな肉体的な癒し、愛、音楽を象徴している。<br>
+肉体的・精神的な癒し、愛、音楽を象徴している。<br>
 ホピの婚礼の儀式では「ラブフルート（恋の笛）」として使われ、男性が女性の心を引き寄せるために吹いたとされている。<br>
 <br>
 ふたりが結婚すると、男性はその笛を壊し、二度と吹かなかったと伝えられている。<br>
@@ -612,7 +613,7 @@ Airport Mesaの上にある大きな駐車場に車を停める。<br>
 <br>
 前回来た時も思ったけど、ところでAirport Mesaはどこ？とスミーに聞いたら、車で通ってきた道の中腹にあると。<br>
 <br>
-歩いて行かれる？と聞いたら、行かれないことはないというので、車道を歩いて下ってAirport Mesaに行く。<br>
+歩いて行ける？と聞いたら、行けないことはないというので、車道を歩いて下ってAirport Mesaに行く。<br>
 <br>
 結構車も来るし、歩くのが大変だった。<br>
 <br>
@@ -652,7 +653,7 @@ Airport Mesaの麓に来て、実は車道を歩かなくてもトレイルが�
 *Airport Mesa・月がAirport Mesaの上に*<br>
 <br>
 
-スミーはSedona Airport Scenic Lookoutから夕日が沈むのを見てから、車を駐車場からだそうと思ったら同じことを考えてる人たちがたくさんいて大渋滞。<br>
+スミーはSedona Airport Scenic Lookoutから夕日が沈むのを見てから、車を駐車場から出そうと思ったら同じことを考えてる人たちがたくさんいて大渋滞。<br>
 
 Airport Mesaでピックアップしてもらう。<br>
 <br>
@@ -680,7 +681,7 @@ Airport Mesaでピックアップしてもらう。<br>
 <br>
 <br>
 
-## 夕食どうする？
+## 夕食はどうする？
 日没が19:20ころなので、そこから夕食がとれる店を探すのが大変。<br>
 お店は早く閉まってしまうので、なかなかよいお店が見つからない。<br>
 <br>
@@ -729,19 +730,19 @@ Amigos = 友達・仲間（複数形）<br>
 <br>
 <br>
 
-## そして今夜も部屋のみ
+## そして今夜も部屋飲み
 ホテルに戻って、昨晩SAFEWAYでゲットしたもので部屋飲み。<br>
 
 トレイル初日から行動がものすごく詰め込まれていて激しかった！<br>
 ものすごい距離を歩いて、足がマメだらけになって、とにかく足が痛いよー。<br>
-両足の小指と薬指が致命的に水脹れができて、潰れ・・・もう拷問か？というほどの痛みでよく歩いた。<br>
+両足の小指と薬指が致命的に水ぶくれができて、潰れ・・・もう拷問か？というほどの痛みでよく歩いた。<br>
 しかし・・・明日からもまだまだトレイル合宿は続く・・・<br>
 果たして乗り切れるのだろうか？<br>
 <br>
 <br>
 
 ## 今夜の宿・Greentree Inn Sedona 
-Greentree Inn Sedona に２泊目。<br>
+Greentree Inn Sedona に2泊目。<br>
 <br>
 
  
@@ -752,5 +753,5 @@ Greentree Inn Sedona → Devil’s Bridge → Subway Cave → Boynton Canyon →
 <br>
 
 ### [【グランドサークル】　旅の初めに](prologue.html)
-### [【グランドサークル】　1日目　羽田 〜 Sedona へ ](day01.html)
+### [【グランドサークル】　1日目　羽田 〜 Sedona へ](day01.html)
 ### [【グランドサークル】　3日目　Sedona 〜 Grand Canyon へ](day03.html)
