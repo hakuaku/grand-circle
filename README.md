@@ -62,8 +62,16 @@
 - URLのYouTubeの下はembedにする
 
 ``` HTML
-<iframe width="315" height="560" src="https://www.youtube.com/embed/9YkbzdosDNE" frameborder="0" allowfullscreen> </iframe>
+<div style="position: relative; width: 100%; max-width: 315px; padding-bottom: min(560px, 177.78%); height: 0; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/j6AQ2xwHcv0" title="Devil's Bridge駐車場" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe></div>
+
+*Devil’s Bridge駐車場 ・どうしたらいいかわからない・・・*<br>
+<br>
 ```
+
+
+divとキャプションの間は空行を1行あける。<br>
+iframeの直後にキャプションを続けると、HTMLブロックの一部として扱われ、＊…＊ がイタリックにならず、アスタリスクがそのまま表示される可能性がある。<br>
+<br>
 
 ## YouTube動画の埋め込み（通常動画）
 ``` HTML
