@@ -1,4 +1,4 @@
-# 【グランドサークル】 5日目　 Page 〜 Monument Valle へ
+# 【グランドサークル】 5日目　 Page 〜 Monument Valley へ
 ###### 2026年4月30日（木）　晴れ
 
 ## 今日はゆっくりスタート
@@ -21,9 +21,9 @@ Antelope Canyonは、光線の具合が勝負で、太陽がどの位置にあ�
 オレンジ美味しそう〜<br>
 <br>
 約束の時間に間に合うようにロビーに降りて、チェックアウト。<br>
-荷物を車に積んで、まずはLower Antelope Canyon へ向かう。<br>
+荷物を車に積んで、まずはLower Antelope Canyonへ向かう。<br>
 <br>
-町の走行で朝というのもあってスクールバスが前を走る。<br>
+町を走っていると、朝ということもあってスクールバスが前を走る。<br>
 スミーがスクールバスはいろいろルールがあるから近寄りたくないと。<br>
 <br>
 
@@ -58,7 +58,7 @@ STOPサインアームが収納され、赤いランプが消えたら発進可�
 <br>
 町中を抜けて砂漠地帯へ。<br>
 <br>
-前回、Antelope Canyon に来た時は、Antelope Canyonに向かう道の曲がり角の目印に大きな発電所があったはずなんだけど…ない…<br>
+前回、Antelope Canyonに来た時は、Antelope Canyonに向かう道の曲がり角の目印に大きな発電所があったはずなんだけど・・・ない・・・<br>
 あんな巨大な発電所がなくなるなんてある？<br>
 <br>
 ということでClaudeに聞いてみたら、解体されたと。<br>
@@ -114,7 +114,7 @@ STOPサインアームが収納され、赤いランプが消えたら発進可�
 ガイドさんから注意事項を聞く。<br>
 <br>
 LowerもUpperも、どちらのAntelope Canyonも荷物の持ち込みは一切禁止。<br>
-9年前に来た時には、荷物を持って入れたのだけど、荷物が砂の壁に当たって傷ついたりと思うと、確かに持ち込み禁止が正解だよねと思う。<br>
+9年前に来た時には、荷物を持って入れたのだけど、荷物が砂の壁に当たって傷ついたりすると思うと、確かに持ち込み禁止が正解だよねと思う。<br>
 <br>
 持ち込めるのはスマホとペットボトル1本くらいなので、注意が必要。<br>
 パスポートはポケットなどに入れて。<br>
@@ -267,17 +267,17 @@ SAFEWAYからすぐのところにAntelope Canyon Toursのオフィスを見つ�
 ツアーの受付けを済ませ、出発までに時間があるので、事務所の外の日陰にあるベンチで待つ。<br>
 油断していたら、どんどん人が来てトイレが長蛇の列になってしまった。<br>
 <br>
-日本では、円安が進みすぎてしまったことから政府が為替介入、旭山動物園職員が妻を殺害し動物園焼却炉で焼く…などがニュースになっていた。<br>
+日本では、円安が進みすぎてしまったことから政府が為替介入、旭山動物園職員が妻を殺害し動物園焼却炉で焼く・・・などがニュースになっていた。<br>
 <br>
 前回はジープで砂漠地帯を走り、Upper Antelope Canyonの入り口まで行ったが、今回は冷房付きのステキなバスで移動。<br>
 <br>
 モデルと思われるステキなお姉さんが1人で参加していて、本当にキレイ。<br>
-こんな風になりたい…<br>
+こんな風になりたい・・・<br>
 私はどんなに努力しても、こんな風にはならないなぁ。<br>
 <br>
 現地に到着。<br>
 いよいよUpper Antelope Canyonの入口から中へ。<br>
-Antelope Canyonは、元々はナバホ族の女の子が見つけて遊んでいた場所だったらしい。<br>
+Antelope Canyonは、元々はナバホ族の女の子が見つけて遊んでいた場所だったと言われている。<br>
 それが今やナバホ族の大きな収入源となる観光地になった。<br>
 <br>
 
@@ -293,8 +293,8 @@ Antelope Canyonは、元々はナバホ族の女の子が見つけて遊んで�
 *Upper Antelope Canyon・前回来た時は普通にジープの荷台に乗ってきたけど、今回は冷房付きの車*<br>
 <br>
 
-![Upper Antelope Canyon・ツアー入り口、インディージョーンズみたい](images/day05-24-upper-antelope-canyon-entrance.jpeg)
-*Upper Antelope Canyon・ツアー入り口、インディージョーンズみたい*<br>
+![Upper Antelope Canyon・ツアー入り口、インディー・ジョーンズみたい](images/day05-24-upper-antelope-canyon-entrance.jpeg)
+*Upper Antelope Canyon・ツアー入り口、インディー・ジョーンズみたい*<br>
 <br>
 
 太陽光線が岩の割れ目からキャニオンに入り込む最適な時間のツアーのため、光の柱がいくつも見える。<br>
@@ -345,7 +345,7 @@ Lower Antelope Canyonもいいけど、やっぱりこの光の柱の見られ�
 <br>
 
 ![Upper Antelope Canyon・光のビーム](images/day05-34-upper-antelope-canyon-pillar.jpeg)
-*Upper Antelope Canyon・光のビームで*<br>
+*Upper Antelope Canyon・光のビーム*<br>
 <br>
 
 差し込む光が天使の羽のように見えるところで撮影してくれて、これってナバホ族の人たちの想像力のすごさだよな〜と思う。<br>
@@ -366,7 +366,8 @@ Lower Antelope Canyonもいいけど、やっぱりこの光の柱の見られ�
 出口のところでガイドさんがナバホ族に伝わっている？曲を笛で吹いてくれた。<br>
 <br>
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/RxDCC0ps_bM" frameborder="0" allowfullscreen> </iframe>
+<div style="position: relative; width: 100%; max-width: 315px; padding-bottom: 177.78%; height: 0; margin: 0 auto;"><iframe src="https://www.youtube.com/embed/RxDCC0ps_bM" title="Upper Antelope Canyon・ガイドさんの笛の演奏" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe></div>
+
 *Upper Antelope Canyon・ガイドさんの笛の演奏*<br>
 <br>
 <br>
@@ -449,10 +450,9 @@ Monument Valleyは映画の名作の舞台として有名。<br>
 ・ 「駅馬車」（1939年、ジョン・フォード監督）― モニュメントバレーを世界に知らしめた元祖<br>
 ・ 「フォレスト・ガンプ」（1994年）― 「フォレスト・ガンプ・ポイント」として今も人気の撮影地<br>
 ・ 「バック・トゥ・ザ・フューチャー PART3」<br>
-・ 「ミッション：インポッシブル2」（トム・クルーズが登った岩山）<br>
 ・ 「トランスフォーマー／ロストエイジ」<br>
 <br>
-ジョン・フォード監督は生涯9回もここで撮影しており、地元には「ジョンフォードポイント」も残っている。<br>
+ジョン・フォード監督は何度もここで撮影しており、地元には「ジョンフォードポイント」も残っている。<br>
 <br>
 
  </div>
@@ -462,7 +462,7 @@ Monument Valleyは映画の名作の舞台として有名。<br>
 <br>
 Monument Valleyを見渡せるホテルThe View Hotelにチェックイン。<br>
 <br>
-ここでLower Antelope Canyon で会った日本人の家族連れと遭遇。<br>
+ここでLower Antelope Canyonで会った日本人の家族連れと遭遇。<br>
 ああ！と挨拶をする。<br>
 <br>
 フロント前のラウンジにはカチーナ人形がたくさん飾り付けられている。<br>
@@ -572,6 +572,7 @@ iPhoneのカメラの能力がすごい！<br>
 <br>
 <br>
 <br>
+
 📍 **本日の移動** 
 Hampton Inn & Suites Page - Lake Powell → Lower Antelope Canyon → Upper Antelope Canyon → Monument Valley → The View Hotel
 <br>
