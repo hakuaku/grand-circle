@@ -156,9 +156,9 @@ Las Vegas Car Rental Center<br>
 羽田<br>
 <br>
 
-### [【グランドサークル】　お土産リスト](epilogue.html)
+### [【グランドサークル】　お土産リスト](souvenior.html)
 
-### [【グランドサークル】　旅を終えて　〜後日談](souvenior.html)
+### [【グランドサークル】　旅を終えて　〜後日談](epilogue.html)
 
 <br>
 <br>
