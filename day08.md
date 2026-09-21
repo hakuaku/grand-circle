@@ -115,7 +115,7 @@ Dewey Bridge（デューイ橋）は、アメリカ・ユタ州グランド郡�
 デューイ橋はコロラド川という大きな自然の障壁を越えた最初の直接連絡路となった。<br>
 <br>
 木製の橋桁を持ち、全長502フィート（約153m）、幅わずか8フィート（約2.4m）という一車線の吊り橋。<br>
-￼建設当時、6頭の馬、3台の荷馬車、9,000ポンド（約4トン）の貨物を支えられるよう設計されており、ミシシッピ川以西で2番目に長い吊り橋だった。<br>
+建設当時、6頭の馬、3台の荷馬車、9,000ポンド（約4トン）の貨物を支えられるよう設計されており、ミシシッピ川以西で2番目に長い吊り橋だった。<br>
 <br>
 1915年に工費2万5,000ドルで建設され、1916年4月15日に開通。<br>
 1984年には歴史的建造物として登録された。<br>
@@ -124,7 +124,7 @@ Dewey Bridge（デューイ橋）は、アメリカ・ユタ州グランド郡�
 歩行者・自転車専用橋としてココペリ・トレイルに組み込まれた。<br>
 <br>
 2008年、子どもがマッチで遊んだことが原因で火災が発生し、橋は焼失。<br>
-￼ただし、吊りケーブルを支える2本のタワーや主ケーブル、アンカー、基礎部分は火災の影響を受けず残存している。<br>
+ただし、吊りケーブルを支える2本のタワーや主ケーブル、アンカー、基礎部分は火災の影響を受けず残存している。<br>
 <br>
 
  </div>
@@ -234,7 +234,7 @@ Capitol Reef National Park Visitor Center の駐車場でお手製のサンド�
 <br>
 
 ![Capitol Reef・Visitor Center の駐車場で昼食](images/day08-18-capitol-reef-visitor-center-lunch.JPG)
-*Capitol Reef・Visitor Center の駐車場で昼*<br>
+*Capitol Reef・Visitor Center の駐車場で昼食*<br>
 <br>
 
 ![Capitol Reef・Visitor Center の駐車場で車の窓掃除](images/day08-19-capitol-reef-visitor-center-cleaning.JPG)
@@ -373,7 +373,8 @@ Larb Hollow Overlookを少し過ぎたところに白樺の森が現れる。<br
 面白くて１往復半して動画を撮影。<br>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zZ_uUisgjxA" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/zZ_uUisgjxA" title="Scenic Byway 12・The Hogback" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe></div>
+
 *Scenic Byway 12・The Hogbackをスミーが動画撮影*<br>
 <br>
 
@@ -386,7 +387,7 @@ Larb Hollow Overlookを少し過ぎたところに白樺の森が現れる。<br
 **📖 コラム｜The Hogback** <br>
 <br>
 ユタ州のシーニック・バイウェイ12号線（Scenic Byway 12）の中に約4マイル（約6km）にわたる区間があり、「The Hogback」と呼ばれている。<br>
-崖の上を走る道路で、両側が急峻な谷になっており、ガードレールが一切ないまま刃のような稜線の上を走り抜けるという、スリル満点かつ絶景の道。<br> ￼
+崖の上を走る道路で、両側が急峻な谷になっており、ガードレールが一切ないまま刃のような稜線の上を走り抜けるという、スリル満点かつ絶景の道。<br>
 <br>
 運転に恐怖を感じる人もいる一方で、スピード制限を守れば問題なく、次々と変わる風景を楽しめる絶景ルートだという声も多くある。<br>
 <br>
