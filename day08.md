@@ -489,6 +489,7 @@ Cheap Japan<br>
 <br>
 <br>
 <br>
+
 📍 **本日の移動** 
 Homewood Suites by Hilton Moab → Hwy 128 Scenic Byway → Sandy Beach → Professor Valley Field Camp周辺 → Dewey Suspension Bridge → Capitol Reef National Park → Hickman Bridge Arch → Capitol Reef National Park Visitor Center → Goosenecks Point → Chimney Rock → Scenic Byway 12 → Larb Hollow Overlook → アスペンの森 → The Hogback → Best Western Plus Ruby’s Inn → Cowboy’s Buffet → ジェネラルストア
 <br>
