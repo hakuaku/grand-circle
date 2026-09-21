@@ -2,7 +2,7 @@
 ###### 2026年5月3日（日）薄曇り／晴れ
 
 ## いよいよ旅も終盤
-珍しく朝食を３人で食べる。<br>
+珍しく朝食を3人で食べる。<br>
 いよいよ風邪の症状が出て体調が思わしくなくなってくる。<br>
 喉が強烈に痛いので、ホテルでもらえる飴が本当に助かる。<br>
 <br>
@@ -74,7 +74,7 @@ Sandy Beachで車を停めて川岸まで降りる。<br>
 - コロラド州を流れながら、ガニソン川・グリーン川など多くの支流と合流して大きくなる<br>
 - グランドキャニオン（アリゾナ州）を深く刻みながら流れ下る<br>
 - ラスベガス近郊のフーバーダムでレイク・ミードを形成<br>
-- メキシコのカリフォルニア湾（太平洋）へ注ぐ…はずが<br>
+- メキシコのカリフォルニア湾（太平洋の湾）へ注ぐ…はずが<br>
 <br>
 現在は農業・都市用水として取水されすぎているため、川の最後の流れはソノラ砂漠で蒸発し、カリフォルニア湾に届く前に消えてしまっている。<br>
 <br>
@@ -106,9 +106,9 @@ Dewey Suspension Bridgeで、さっきのバイク乗りのドローンを飛ば
 --- 
 <div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
 
-**📖 コラム｜Dewey Bridge（デューイ橋）** <br>
+**📖 コラム｜Dewey Suspension Bridge（デューイ橋）** <br>
 <br>
-Dewey Bridge（デューイ橋）は、アメリカ・ユタ州グランド郡にある歴史的な吊り橋。<br>
+Dewey Suspension Bridge（デューイ橋）は、アメリカ・ユタ州グランド郡にある歴史的な吊り橋。<br>
 ユタ州のルート128沿いに位置し、コロラド川を渡る橋。<br>
 <br>
 20世紀初頭、Moabをはじめとするユタ州南東部の町々は、コロラド州西部の地域に日用品や農産物市場を依存していた。<br>
@@ -220,25 +220,25 @@ Hickman Bridge Archの下を抜けて戻ってこられるトレイルだけど�
 <br>
 <br>
 <br>
-帰り道の途中で、インド人の集団？に写真を撮ってと頼まれる。<br>
+帰り道の途中で、インド人と思われる観光客グループ？に写真を撮ってと頼まれる。<br>
 雲が多くなってきて、たまにポツポツと雨が降ってくる。<br>
 <br>
-Capitol Reef National Park Visitor Center の駐車場でお手製のサンドイッチを作って、オレンジジュースとともにランチ。<br>
+Capitol Reef National Park Visitor Centerの駐車場でお手製のサンドイッチを作って、オレンジジュースとともにランチ。<br>
 このスタイルの食事にもすっかり慣れた（笑）<br>
 同じく駐車場に停めたピックアップの荷台で若いアメリカ人の女の子2人がサンドを作って食べている。<br>
 やっぱりアメリカ人ってみんなこういう感じなんだな。<br>
 <br>
 
-![Capitol Reef・Visitor Center の駐車場で昼食](images/day08-17-capitol-reef-visitor-center-lunch.jpeg)
-*Capitol Reef・Visitor Center の駐車場で昼食*<br>
+![Capitol Reef・Visitor Centerの駐車場で昼食](images/day08-17-capitol-reef-visitor-center-lunch.jpeg)
+*Capitol Reef・Visitor Centerの駐車場で昼食*<br>
 <br>
 
-![Capitol Reef・Visitor Center の駐車場で昼食](images/day08-18-capitol-reef-visitor-center-lunch.JPG)
-*Capitol Reef・Visitor Center の駐車場で昼食*<br>
+![Capitol Reef・Visitor Centerの駐車場で昼食](images/day08-18-capitol-reef-visitor-center-lunch.JPG)
+*Capitol Reef・Visitor Centerの駐車場で昼食*<br>
 <br>
 
-![Capitol Reef・Visitor Center の駐車場で車の窓掃除](images/day08-19-capitol-reef-visitor-center-cleaning.JPG)
-*Capitol Reef・Visitor Center の駐車場で車の窓掃除*<br>
+![Capitol Reef・Visitor Centerの駐車場で車の窓掃除](images/day08-19-capitol-reef-visitor-center-cleaning.JPG)
+*Capitol Reef・Visitor Centerの駐車場で車の窓掃除*<br>
 <br>
 
 ![Capitol Reef・Visitor Center](images/day08-20-capitol-reef-visitor-center.jpeg)
@@ -370,7 +370,7 @@ Larb Hollow Overlookを少し過ぎたところに白樺の森が現れる。<br
 <br>
 <br>
 <br>
-面白くて１往復半して動画を撮影。<br>
+面白くて1往復半して動画を撮影。<br>
 <br>
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/zZ_uUisgjxA" title="Scenic Byway 12・The Hogback" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe></div>
@@ -423,7 +423,7 @@ Bryce CanyonのBest Western Plus Ruby’s Innに到着してチェックイン�
 せっかくアメリカに来たのだからステーキは食べよう！ということで、ホテル内のCowboy’s Buffetでステーキを食べる。<br>
 日本人のツアー客がとても多い。<br>
 <br>
-菅野さんと私はテンダーローインステーキのミディアムをいただく。<br>
+菅野さんと私はテンダーロインステーキのミディアムをいただく。<br>
 とても美味しかったけど、やっぱり高い！<br>
 <br>
 
@@ -451,7 +451,7 @@ Sedonaで買うよりも安くていいものがたくさんある。<br>
 <br>
 アメリカに来てからウェットティッシュが必需品で、かなりな枚数のものを日本から持ってきたけど、足りなくなりそうなのでウェットティッシュを買う。<br>
 ものすごい金額でのけぞる。<br>
-数千円（$15.19)！！<br>
+数千円（$15.19）！！<br>
 ウェットティッシュに！<br>
 <br>
 
@@ -461,7 +461,7 @@ Sedonaで買うよりも安くていいものがたくさんある。<br>
 
 それでもトイレとか、ないと困るので購入。<br>
 やっぱり日本って安いんだなー。<br>
-Cheap Japan <br>
+Cheap Japan<br>
 住んでいる分には助かるけど、世界目線で見たら日本はやばい。<br>
 日本はとてもいい国だけど、世界の物価から取り残されつつある。<br>
 <br>
@@ -477,7 +477,7 @@ Cheap Japan <br>
 
 ## 今夜の宿・Best Western Plus Ruby’s Inn
 菅野さんと2人部屋<br>
-ロッジ風の２階のお部屋<br>
+ロッジ風の2階のお部屋<br>
 前回来た時は池の近くの部屋だったけど、今回は道路側<br>
 <br>
 前回は星がすごくきれいだったのに、今回は土砂降りで残念。<br>
@@ -490,11 +490,11 @@ Cheap Japan <br>
 <br>
 <br>
 📍 **本日の移動** 
-Homewood Suites by Hilton Moab → Hwy 128 Scenic Byway → Sandy Beach → Professor Valley Field Camp周辺 → Dewey Suspension Bridge → Capitol Reef National Park → Hickman Bridge Arch → Capitol Reef National Park Visitor Center → Goosenecks Point → Chimney Rock → Scenic Byway 12 → Larb Hollow Overlook → アスペンの森 → The Hogback → Best Western Plus Ruby's Inn → Cowboy’s Buffet → ジェネラルストア
+Homewood Suites by Hilton Moab → Hwy 128 Scenic Byway → Sandy Beach → Professor Valley Field Camp周辺 → Dewey Suspension Bridge → Capitol Reef National Park → Hickman Bridge Arch → Capitol Reef National Park Visitor Center → Goosenecks Point → Chimney Rock → Scenic Byway 12 → Larb Hollow Overlook → アスペンの森 → The Hogback → Best Western Plus Ruby’s Inn → Cowboy’s Buffet → ジェネラルストア
 <br>
 <br>
 <br>
 
 ### [【グランドサークル】　旅の初めに](prologue.html)
-### [【グランドサークル】　7日目　Moab 〜 Arches National Park へ](day07.html)
+### [【グランドサークル】　7日目　Moab 〜 Arches National Park](day07.html)
 ### [【グランドサークル】　9日目　Bryce Canyon 〜 Las Vegas へ](day09.html)
