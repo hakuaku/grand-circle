@@ -85,7 +85,7 @@ Blandingにある洗車場<br>
 Grand View Point<br>
 <br>
 
-### [【グランドサークル】　7日目　Moab 〜 Arches National Park](day07.html) 
+### [【グランドサークル】　7日目　Moab 〜 Arches National Park](day07.html)
 
 Delicate Arch<br>
 Double O Arch<br>
@@ -124,7 +124,7 @@ Scenic Byway 12<br>
 Larb Hollow Overlook<br>
 アスペンの森<br>
 The Hogback<br>
-Best Western Plus Ruby's Inn<br>
+Best Western Plus Ruby’s Inn<br>
 Cowboy’s Buffet<br>
 ジェネラルストア<br>
 <br>
