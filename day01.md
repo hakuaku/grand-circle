@@ -302,4 +302,4 @@ SAFEWAYのチキンもサラダも意外とおいしくて、それなりに満�
 <br>
 
 ### [【グランドサークル】　旅の初めに](prologue.html)
-### [【グランドサークル】　2日目　Sedona 〜 Vortex へ](day02.html)
+### [【グランドサークル】　2日目　Sedona 〜 Vortex](day02.html)
