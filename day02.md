@@ -226,10 +226,6 @@ Subway Caveには今回初めて行くので、道が分からず。<br>
 確かに！<br>
 <br>
 
-![Subway Cave・Subway Caveの上から見た景色](images/day02-19-subway-cave-3-top.jpeg)
-*Subway Cave・Subway Caveの上から見た景色*<br>
-<br>
-
 ![Subway Cave・まさにトンネル](images/day02-20-subway-cave-4-tunnel.jpeg)
 *Subway Cave・まさにトンネル*<br>
 <br>
@@ -240,6 +236,10 @@ Subway Caveには今回初めて行くので、道が分からず。<br>
 
 ![Subway Cave・道が狭くてすぐ崖で怖い](images/day02-21-subway-cave-5-narrow.jpeg)
 *Subway Cave・道が狭くてすぐ崖で怖い*<br>
+<br>
+
+![Subway Cave・Subway Caveの上から見た景色](images/day02-19-subway-cave-3-top.jpeg)
+*Subway Cave・Subway Caveの上から見た景色*<br>
 <br>
 
 ![Subway Cave・虹！と指を指すスミー](images/day02-22-subway-cave-6-summy.jpeg)
