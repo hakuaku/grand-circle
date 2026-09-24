@@ -63,7 +63,7 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 
 いろんなところをどんどん見られるのは嬉しいけど、宿や宿周辺をゆっくり楽しめないのは、ちょっと残念。<br>
 <br>
-再びGrand Canyonを観にYavapai Pointへ！<br>
+再びGrand Canyonを見にYavapai Pointへ！<br>
 ここも人気のあるポイント。<br>
 <br>
 
@@ -78,8 +78,8 @@ Mather Pointへ行く途中で、スミーがシカがいたと言ってたけ�
 *Grand Canyon・Yavapai Point*<br>
 <br>
 
-朝の最高の光線でGrand Canyonを観る。<br>
-夕日、夜、朝日の中のGrand Canyonを観てきたけど、やっぱり最高の光線で観るGrand Canyonの色合いは素晴らしい。<br>
+朝の最高の光線でGrand Canyonを見る。<br>
+夕日、夜、朝日の中のGrand Canyonを観てきたけど、やっぱり最高の光線で見るGrand Canyonの色合いは素晴らしい。<br>
 <br>
 
 ![Grand Canyon・Yavapai Pointから見たGrand Canyon](images/day04-08-grand-canyon-yavapai.jpeg)
@@ -237,7 +237,7 @@ Lipan Point、Navajo Pointと見て回る。<br>
 ここでもまたYavapai Pointで遭遇した黒装束軍団に会う。<br>
 Grand Canyonの谷に向かって手には小さな聖書のようなものを開き、みんな個人個人でブツブツ言って祈りを捧げているように見える。<br>
 ガラケーで電話してる人もいれば、ベビーカーを押している人もいる。<br>
-いったいなんの集団？<br>
+いったい何の集団？<br>
 <br>
 後で調べたら、ヘブライ語で書かれた本、文字の向きや書体からユダヤ教の聖典、おそらく祈祷書（シドゥール／Siddur）か聖書（タナッハ）ではないかと思われる。<br>
 <br>
@@ -318,7 +318,7 @@ Grand Canyon National Park South Rimを出るところにゲートのネーム�
 
 ## 大きなパイはどれ？！
 Desert View Trading Post のInformationのおじさんに教えてもらったCameron Trading Postは、ちょうど走る予定の道中にあった。<br>
-T字路の突き当たりを左に曲がって少し行ったところの左側に大きなホテルとレストラン、お土産物屋さんがCameron Trading Post。<br>
+T字路の突き当たりを左に曲がって少し行ったところの左側にある大きなホテルとレストラン、お土産物屋さんがCameron Trading Post。<br>
 <br>
 
 ![Cameron Trading Post・映画の撮影所のようなCameron Trading Post](images/day04-34-cameron.jpeg)
@@ -511,7 +511,7 @@ Antelope Passという切り通しを通り抜ける。<br>
 本日最後の観光スポットを目指し、車を走らせる。<br>
 <br>
 Horseshoe Bendは、以前来たときと違って大きな有料駐車場が出来上がってた。<br>
-Horseshoe Bendまでの道も、以前は普通に石ころの道なき丘を一生懸命登って降りたら、目の前にあった！という感じだったけど、迂回する舗装されたきれいな広い道が出来上がっててびっくり。<br>
+Horseshoe Bendまでの道も、以前は普通に石ころの道なき丘を一生懸命登って降りたら、目の前にあった！という感じだったけど、迂回するきれいな広い道が出来上がっててびっくり。<br>
 <br>
 そして、もちろんどこにも日陰はなく、灼熱の夕日を浴びながら荒野を歩く。<br>
 この日差しと暑さが体力を奪う。<br>
@@ -522,7 +522,7 @@ Horseshoe Bendまでの道も、以前は普通に石ころの道なき丘を一
 *Horseshoe Bend・果てしない灼熱の道を歩くスミーと菅野さん*<br>
 <br>
 
-Horseshoe Bendには展望台ができていて、安全に観られるようになってた。<br>
+Horseshoe Bendには展望台ができていて、安全に見られるようになってた。<br>
 <br>
 前回は柵も何もなくて、普通に立っていたらHorseshoe Bend全体は見えないので、崖の上に寝そべって、落ちないように覗き込む感じだった。<br>
 観光客もいたけど、そこまで多い感じではなかった。<br>
@@ -565,7 +565,7 @@ Horseshoe Bendには展望台ができていて、安全に観られるように
 <br>
 
 ## Pageの街へ
-Horseshoe BendからPageの街は目と鼻の先。<br>
+Horseshoe BendからPageの町は目と鼻の先。<br>
 Horseshoe BendとAntelope Canyonを観光資源に、Pageの街がどんどん開発され、ホテルがタケノコのように立ち始めているとスミーが言ってた。<br>
 <br>
 今日の宿であるHampton Inn & Suites Page - Lake Powellも、新しくてすごくきれい。<br>
