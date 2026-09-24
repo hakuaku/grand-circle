@@ -20,6 +20,7 @@ Antelope Canyonは、光線の具合が勝負で、太陽がどの位置にあ�
 菅野さんはオレンジも食べてた。<br>
 オレンジ美味しそう〜<br>
 <br>
+部屋に戻り、荷造り。<br>
 約束の時間に間に合うようにロビーに降りて、チェックアウト。<br>
 荷物を車に積んで、まずはLower Antelope Canyonへ向かう。<br>
 <br>
@@ -207,16 +208,16 @@ Antelope Canyon は安定の美しさ。<br>
 ものすごい日差し。<br>
 <br>
 
-![Lower Antelope Canyon・受け付けのところまで戻ってくる](images/day05-18-lower-antelope-canyon-ofice.jpeg)
-*Lower Antelope Canyon・受け付けのところまで戻ってくる*<br>
+![Lower Antelope Canyon・受付のところまで戻ってくる](images/day05-18-lower-antelope-canyon-ofice.jpeg)
+*Lower Antelope Canyon・受付のところまで戻ってくる*<br>
 <br>
 
 エントランスにあるショップで、菅野さんが3人お揃いのキーホルダーを買ってくれました。
 とってもありがとう。<br>
 <br>
 
-![Lower Antelope Canyon・お揃いのキーホルダー](images/day05-19-lower-antelope-canyon-keyholder.jpeg)
-*Lower Antelope Canyon・お揃いのキーホルダー*<br>
+![Lower Antelope Canyon・おそろいのキーホルダー](images/day05-19-lower-antelope-canyon-keyholder.jpeg)
+*Lower Antelope Canyon・おそろいのキーホルダー*<br>
 <br>
 
 それにしてもアメリカに来てから、トレッキングしている女性の多くが、体のラインがバッチリ出るピチピチの全身タイツみたいなのを着てる。<br>
@@ -276,7 +277,7 @@ SAFEWAYからすぐのところにAntelope Canyon Toursのオフィスを見つ�
 私はどんなに努力しても、こんな風にはならないなぁ。<br>
 <br>
 現地に到着。<br>
-いよいよUpper Antelope Canyonの入口から中へ。<br>
+いよいよUpper Antelope Canyonの入り口から中へ。<br>
 Antelope Canyonは、元々はナバホ族の女の子が見つけて遊んでいた場所だったと言われている。<br>
 それが今やナバホ族の大きな収入源となる観光地になった。<br>
 <br>
@@ -530,9 +531,29 @@ Monument Valleyを見渡せるホテルThe View Hotelにチェックイン。<br
 
 夕食はスミーの部屋に集まって部屋飲み。<br>
 <br>
-自分の部屋に戻って、バルコニーから夜景のMonument Valleyを観ながら写真を撮ってみたら、星がうまく撮れた！<br>
+自分の部屋に戻って、バルコニーから夜景のMonument Valleyを見ながら写真を撮ってみたら、星がうまく撮れた！<br>
 iPhoneのカメラの能力がすごい！<br>
 <br>
+
+--- 
+<div style="border: 1px solid #ccc; padding: 16px; margin: 16px 0;"> 
+
+**📖 コラム｜iPhoneで星空を撮る** <br>
+<br>
+以前、神津島の星空鑑賞ツアーに参加した時にガイドさんに教えてもらったiPhoneで星空を撮影する方法。<br>
+<br>
+（１） カメラ上部の下矢印を触る<br>
+（２） 下にメニュー表示が出るので、三日月マークのナイトモードを触って最小の1秒にして、月のマークを再度触る<br>
+（３） 下のメニューの右側のセルフタイマーを選択して10秒をセット<br>
+（４） 撮影ボタンを押して、外のカメラが上に向くように地面に置いて離れる<br>
+（５） 10秒後と30秒後にシャッター音がするまで待つ<br>
+<br>
+景色と一緒に撮影するときは、iPhoneを持った手が動かないように固定して、ナイトモードの最小の1秒で撮影。<br>
+<br>
+
+ </div>
+--- 
+
 
 ![Monument Valley・部屋から撮影した夜のMonument Valley](images/day05-54-monument-valley-view-hotel-balcony-night.jpeg)
 *Monument Valley・部屋から撮影した夜のMonument Valley*<br>
