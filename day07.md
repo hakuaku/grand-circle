@@ -152,7 +152,7 @@ Delicate Archの帰り道で、行く途中にあった崖を登ると、開い�
 <br>
 ＜換気システムが優秀＞<br>
 便槽の上部に太いベントパイプ（排気管） が設置されており、臭気を外部に逃がす設計になっている。<br>
-パイプの内部は暗く、外は明るいため、光に向かう習性で、虫がパイプ内に入り込んで外に出られなくなる（＝衛生的にも有効）という仕組み。<br>
+パイプの内部は暗く、外は明るいため、光に向かう習性で虫がパイプ内に入り込んで外に出られなくなる（＝衛生的にも有効）という仕組み。<br>
 <br>
 ＜酵素・微生物処理剤の投入＞<br>
 定期的に酵素や微生物製剤を投入し、分解を促進して臭いを抑えている。<br>
@@ -292,7 +292,7 @@ Sedonaのボルテックス（渦エネルギーの地）は1980年代以降に�
 <br>
 <br>
 <br>
-Double O Archの下まで行ったら、Double O Archの下のOの穴に登って向こう側に行けることが分かった。<br>
+Double O Archの下まで行ったら、Double O Archの下のOの穴に登って向こう側に行けることがわかった。<br>
 この穴によじ登ったり、降りたりするのをNational Parkのレンジャーのおじさんが見守って、手助けをしてくれている。<br>
 <br>
 
@@ -460,9 +460,9 @@ Navajo Archの隣にあるPartition Arch。<br>
 ## Fiery Furnace Viewpoint Trail
 車で移動してFiery Furnace Viewpointへ。<br>
 そびえ立つ砂岩の壁に挟まれた狭い通路が迷宮のように続く奇景を上から見渡す。<br>
-この1本1本の柱の間の細い通路を歩けるようになっているとは、上から見ているとまったく分からない。<br>
+この1本1本の柱の間の細い通路を歩けるようになっているとは、上から見ているとまったくわからない。<br>
 <br>
-もうアーチを見すぎて、何が何だか分からなくなる。<br>
+もうアーチを見すぎて、何が何だかわからなくなる。<br>
 <br>
 
 ![Fiery Furnace Viewpoint Trail・Fiery Furnace Viewpoint Trailの案内板](images/day07-47-fiery-furnace-trail-signboard.jpeg)
@@ -503,7 +503,7 @@ The Windows Trailの駐車場に車を停めて、Double Arch Viewpoint and Trai
 1本長いトレイルの後なので、さすがに体力を消耗する。<br>
 水を飲みながら一生懸命歩いてDouble Archの下までくる。<br>
 <br>
-何がどうDouble Archなのかが分からなかったが、下に来てみてようやく分かった。<br>
+何がどうDouble Archなのかがわからなかったが、下に来てみてようやくわかった。<br>
 <br>
 
 ![Double Arch Viewpoint and Trail・Double Arch](images/day07-52-double-arch.jpeg)
@@ -567,7 +567,7 @@ Double Arch Viewpoint and Trailと駐車場を挟んで反対側にあるThe Win
 <br>
 <br>
 <br>
-下に降りて、菅野さんに、私は一人でトレイルを回ってくるので、先に2人で駐車場に戻っていてと伝えて歩き出す。<br>
+下に降りて、菅野さんに、私は1人でトレイルを回ってくるので、先に2人で駐車場に戻っていてと伝えて歩き出す。<br>
 せっかく来たし、もう来られないかもしれないからね。<br>
 見られるものは見ておこうと思う。<br>
 <br>
@@ -602,8 +602,8 @@ Turret ArchからDouble Archの方まで見渡せる。<br>
 *The Windows Trail・Turret Arch*<br>
 <br>
 
-![The Windows Trail・Turret Archからの眺め](images/day07-65-windows-trail-turret-arch-view.jpeg)
-*The Windows Trail・Turret Archからの眺め*<br>
+![The Windows Trail・Turret Archからの眺め。Double Archが見える](images/day07-65-windows-trail-turret-arch-view.jpeg)
+*The Windows Trail・Turret Archからの眺め。Double Archが見える*<br>
 <br>
 
 Turret Archをくぐって反対側に出て振り返ると、North Window ArchとSouth Window Archが見える。<br>
@@ -628,7 +628,7 @@ Trail Headに戻ったら、トイレのところの日陰で菅野さんが待�
 <br>
 
 ## 絶対宇宙人がいる気がする Balanced Rock
-Archの見過ぎで、どれがどれだかもすでに分からなくなってる・・・<br>
+Archの見過ぎで、どれがどれだかもすでにわからなくなってる・・・<br>
 そして体力の消耗が激しい・・・<br>
 <br>
 車でBalanced Rockへ移動。<br>
@@ -657,8 +657,8 @@ Balanced Rockの上に乗っている石が、見る角度によってぜんぜ�
 *Balanced Rock・見る角度で別のものに見えるBalanced Rock*<br>
 <br>
 
-![Balanced Rock・Balanced Rockの上まで登ってみた](images/day07-76-balanced-rock-top.JPG)
-*Balanced Rock・Balanced Rockの上まで登ってみた*<br>
+![Balanced Rock・菅野さんと2人でBalanced Rockの上まで登ってみた](images/day07-76-balanced-rock-top.JPG)
+*Balanced Rock・菅野さんと2人でBalanced Rockの上まで登ってみた*<br>
 <br>
 
 ![Balanced Rock・Balanced Rockの上から見た景色](images/day07-69-balanced-rock-top.jpeg)
@@ -707,7 +707,7 @@ Dead Horse Pointは、Grand CanyonとHorseshoe Bendを合わせたような景�
 <br>
 <br>
 <br>
-すっかり日も傾き、街へ戻る。<br>
+すっかり日も傾き、町へ戻る。<br>
 昨晩はタイ料理のお店で食べたので、今日はCity Marketで買い出しをして部屋飲み。<br>
 部屋のキッチンに電子レンジなどもあるので、温めて飲むスープなどを買う。<br>
 <br>
