@@ -27,8 +27,8 @@ Sandy Beachで車を停めて川岸まで降りる。<br>
 その大きさがものすごい。<br>
 <br>
 
-![Hwy 128 Scenic Byway・Sandy Beach スミーと菅野さんの小ささでスケールが分かる](images/day08-02-hwy128-sandy-beach.jpeg)
-*Hwy 128 Scenic Byway・Sandy Beach スミーと菅野さんの小ささでスケールが分かる*<br>
+![Hwy 128 Scenic Byway・Sandy Beach スミーと菅野さんの小ささでスケールがわかる](images/day08-02-hwy128-sandy-beach.jpeg)
+*Hwy 128 Scenic Byway・Sandy Beach スミーと菅野さんの小ささでスケールがわかる*<br>
 <br>
 
 ![Hwy 128 Scenic Byway・Sandy Beachの案内板](images/day08-03-hwy128-sandy-beach-panel.jpeg)
@@ -225,7 +225,7 @@ Hickman Bridge Archの下を抜けて戻ってこられるトレイルだけど�
 <br>
 Capitol Reef National Park Visitor Centerの駐車場でお手製のサンドイッチを作って、オレンジジュースとともにランチ。<br>
 このスタイルの食事にもすっかり慣れた（笑）<br>
-同じく駐車場に停めたピックアップの荷台で若いアメリカ人の女の子2人がサンドを作って食べている。<br>
+同じく駐車場に停めたピックアップの荷台に布を敷いて、ピクニックな感じで若いアメリカ人の女の子2人がサンドを作って食べている。<br>
 やっぱりアメリカ人ってみんなこういう感じなんだな。<br>
 <br>
 
@@ -252,7 +252,7 @@ Capitol Reef National Park Visitor Centerの駐車場でお手製のサンドイ
 ビジターセンターでお土産を見て、ここでもステッカーを買う。<br>
 <br>
 Goosenecks Pointで、Dead Horse PointやHorseshoe Bendのような、サルファークリーク（Sulphur Creek）の蛇行のひの字を見る。<br>
-すごいものを見ているはずなんだけど、たくさん見すぎて麻痺して、すごいこともよく分からなくなっている。<br>
+すごいものを見ているはずなんだけど、たくさん見すぎて麻痺して、すごいこともよくわからなくなっている。<br>
 <br>
 
 ![Goosenecks Point・Goosenecks PointのTrail Head](images/day08-21-goosenecks-point-trail-head.jpeg)
