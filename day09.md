@@ -1,7 +1,7 @@
 #  【グランドサークル】 9日目　 Bryce Canyon 〜 Las Vegas へ 
 ###### 2026年5月4日（月）曇り
 
-## Bryce Canyonの朝日を観に
+## Bryce Canyonの朝日を見に
 今日ももちろん朝日を見に行くぞということで6:00出発。<br>
 まだ暗いうちにInspiration Pointの駐車場まで移動。<br>
 お天気のせいもあるかもしれないけど、まだ2〜3台しか来ていない。<br>
@@ -127,7 +127,7 @@ Juliet’s Balconyを菅野さんと覗きに行く。<br>
 *Bryce Canyon・お城みたい*<br>
 <br>
 
-前回もだったけど、今回もNavajo Loop TrailのWall Streetはクローズしていて行けなかった。<br>
+前回同様に、今回もNavajo Loop TrailのWall Streetはクローズしていて行けなかった。<br>
 （2026年5月時点）<br>
 <br>
 朝日の時よりも晴れて太陽が出ていて暑い。<br>
@@ -208,7 +208,7 @@ Navajo Loop Trailの一番下までいって引き返してくる。<br>
 <br>
 
 ホテルの向かいにある石屋さんに前回は行ったけど、今回はお休みで見られなかった。<br>
-さっきまで青空ものぞいて日も差していたけど、雲が低く厚く広がってきて、今にも雨が降りそう。<br>
+さっきまで青空も覗いて日も差していたけど、雲が低く厚く広がってきて、今にも雨が降りそう。<br>
 <br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d752.5371868496691!2d-112.15737273181362!3d37.67320829212818!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8735661d408ec993%3A0xa1e6f425487f4183!2sBryce%20Canyon%20Rock%20Shop!5e0!3m2!1sja!2sjp!4v1784551768629!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
@@ -444,6 +444,7 @@ Trail Endまでたどり着いたら、大きな洞窟のようなところで�
 仕方なくTaylor Creek Trail Headまで戻ってトイレへ行く。<br>
 <br>
 すべてのNational Parkを回り終えて一番のお気に入りをみんなに聞く。<br>
+<br>
 菅野さん：Monument Valleyに行きたかったので、行かれてよかった。Archesが良かった。<br>
 スミー：Bryce CanyonとArches。<br>
 私：Zionは天気が良い日にもう一度来てみたい。Archesは実は結構すごいエネルギースポットだと思う。<br>
