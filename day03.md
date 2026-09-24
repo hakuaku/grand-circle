@@ -98,8 +98,8 @@ Cathedral RockのEnd of trailまで来たけど、ぜんぜんendじゃない（
 *Cathedral Rock・これだけ見てもわからないよね・・・これ伝わらないよね・・・*<br>
 <br>
 
-![Cathedral Rock ・スミーが写真を撮ってくれたけど、下からあおって撮るから私の二重顎が強調される](images/day03-15-cathedral-rock-buddas-hands-8.jpeg)
-*Cathedral Rock ・スミーが写真を撮ってくれたけど、下からあおって撮るから私の二重顎が強調される*<br>
+![Cathedral Rock ・スミーが写真を撮ってくれたけど、下からあおって撮るから私の二重顎が強調され、まるで腹話術人形](images/day03-15-cathedral-rock-buddas-hands-8.jpeg)
+*Cathedral Rock ・スミーが写真を撮ってくれたけど、下からあおって撮るから私の二重顎が強調され、まるで腹話術人形*<br>
 <br>
 
 スミーと菅野さんの写真を撮ったけど、まるで合成写真みたい。<br>
@@ -117,8 +117,8 @@ Cathedral RockのEnd of trailまで来たけど、ぜんぜんendじゃない（
 *Cathedral Rock・すごい岩場を登って仏の手に行ったので、降りるのも大変*<br>
 <br>
 
-![Cathedral Rock・だから下から煽らないでって・・・（笑）](images/day03-19-cathedral-rock-buddas-hands-return-2.jpeg)
-*Cathedral Rock・だから下から煽らないでって・・・（笑）*<br>
+![Cathedral Rock・だから下からあおらないでって・・・（笑）](images/day03-19-cathedral-rock-buddas-hands-return-2.jpeg)
+*Cathedral Rock・だから下からあおらないでって・・・（笑）*<br>
 <br>
 
 仏の手の中の一番上から少し降りて来たEnd of trailのところの反対側に絶壁があったので見に行ってみる。<br>
