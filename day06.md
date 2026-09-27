@@ -482,8 +482,8 @@ Moabに向かう途中の町 Blandingにある洗車場で、Monument Valley Sce
 <br>
 <br>
 
-## まさに地球の割れ目 Grand View Point
-今日、最後の立ち寄り地 Grand View Pointへ。<br>
+## 地球の落とし穴 Grand View Point
+今日、最後の立ち寄り地 Canyonlands National ParkのGrand View Pointへ。<br>
 <br>
 
 ![Grand View Point・Grand View Pointへ歩く](images/day06-47-grand-view-point-trail.jpeg)
