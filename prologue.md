@@ -104,7 +104,7 @@ Balanced Rock<br>
 Arches National Park Visitor Center<br>
 Dead Horse Point<br>
 City Market<br>
-Moabの街歩き<br>
+Moabの町歩き<br>
 Homewood Suites by Hilton Moab<br>
 <br>
 
