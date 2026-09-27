@@ -564,7 +564,7 @@ Horseshoe Bendには展望台ができていて、安全に見られるように
 <br>
 <br>
 
-## Pageの街へ
+## Pageの町へ
 Horseshoe BendからPageの町は目と鼻の先。<br>
 Horseshoe BendとAntelope Canyonを観光資源に、Pageの街がどんどん開発され、ホテルがタケノコのように立ち始めているとスミーが言ってた。<br>
 <br>
